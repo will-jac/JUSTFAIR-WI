@@ -1,0 +1,308 @@
+<!doctype html><html lang="en"><head><title>HTTP Status 500 – Internal Server Error</title><style type="text/css">h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}</style></head><body><h1>HTTP Status 500 – Internal Server Error</h1><hr class="line" /><p><b>Type</b> Exception Report</p><p><b>Message</b> Filter execution threw an exception</p><p><b>Description</b> The server encountered an unexpected condition that prevented it from fulfilling the request.</p><p><b>Exception</b></p><pre>javax.servlet.ServletException: Filter execution threw an exception
+	org.apache.shiro.web.servlet.AbstractShiroFilter.executeChain(AbstractShiroFilter.java:449)
+	org.apache.shiro.web.servlet.AbstractShiroFilter$1.call(AbstractShiroFilter.java:365)
+	org.apache.shiro.subject.support.SubjectCallable.doCall(SubjectCallable.java:90)
+	org.apache.shiro.subject.support.SubjectCallable.call(SubjectCallable.java:83)
+	org.apache.shiro.subject.support.DelegatingSubject.execute(DelegatingSubject.java:387)
+	org.apache.shiro.web.servlet.AbstractShiroFilter.doFilterInternal(AbstractShiroFilter.java:362)
+	org.apache.shiro.web.servlet.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:125)
+	gov.wicourts.webcommon.web.VersionedResourceFilter.$anonfun$doFilter$2(VersionedResourceFilter.scala:15)
+	scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	scala.Option.getOrElse(Option.scala:189)
+	gov.wicourts.webcommon.web.VersionedResourceFilter.doFilter(VersionedResourceFilter.scala:15)
+</pre><p><b>Root Cause</b></p><pre>zio.FiberFailure: Fiber failed.
+A checked error was not handled.
+zio.FiberFailure: Fiber failed.
+A checked error was not handled.
+QueryTimeout(org.squeryl.SquerylSQLException: Exception while executing statement : ERROR: canceling statement due to user request
+errorCode: 0, sqlState: 57014
+Select
+  &quot;County98&quot;.&quot;appearCourtNo&quot; as &quot;County98_appearCourtNo&quot;,
+  &quot;County98&quot;.&quot;bookingORI&quot; as &quot;County98_bookingORI&quot;,
+  &quot;County98&quot;.&quot;countyName&quot; as &quot;County98_countyName&quot;,
+  &quot;County98&quot;.&quot;xmin&quot; as &quot;County98_xmin&quot;,
+  &quot;County98&quot;.&quot;judgeUrl&quot; as &quot;County98_judgeUrl&quot;,
+  &quot;County98&quot;.&quot;ipAddr&quot; as &quot;County98_ipAddr&quot;,
+  &quot;County98&quot;.&quot;internalUrl&quot; as &quot;County98_internalUrl&quot;,
+  &quot;County98&quot;.&quot;soapServer&quot; as &quot;County98_soapServer&quot;,
+  &quot;County98&quot;.&quot;caDistrictNo&quot; as &quot;County98_caDistrictNo&quot;,
+  &quot;County98&quot;.&quot;countyNo&quot; as &quot;County98_countyNo&quot;,
+  &quot;County98&quot;.&quot;districtNo&quot; as &quot;County98_districtNo&quot;,
+  &quot;County98&quot;.&quot;soapPort&quot; as &quot;County98_soapPort&quot;,
+  &quot;County98&quot;.&quot;ctid&quot;::varchar as &quot;County98_ctid&quot;,
+  &quot;County98&quot;.&quot;dorCountyNo&quot; as &quot;County98_dorCountyNo&quot;,
+  &quot;County98&quot;.&quot;dmvCountyNo&quot; as &quot;County98_dmvCountyNo&quot;,
+  &quot;County98&quot;.&quot;assessFacilityId&quot; as &quot;County98_assessFacilityId&quot;,
+  &quot;Rcvbl95&quot;.&quot;wcisClsDescr&quot; as &quot;Rcvbl95_wcisClsDescr&quot;,
+  &quot;Rcvbl95&quot;.&quot;civilJdgmtSeqNo&quot; as &quot;Rcvbl95_civilJdgmtSeqNo&quot;,
+  &quot;Rcvbl95&quot;.&quot;rcvblPriority&quot; as &quot;Rcvbl95_rcvblPriority&quot;,
+  &quot;Rcvbl95&quot;.&quot;isProbCollect&quot; as &quot;Rcvbl95_isProbCollect&quot;,
+  &quot;Rcvbl95&quot;.&quot;paidPriorToPlan&quot; as &quot;Rcvbl95_paidPriorToPlan&quot;,
+  &quot;Rcvbl95&quot;.&quot;partyNo&quot; as &quot;Rcvbl95_partyNo&quot;,
+  &quot;Rcvbl95&quot;.&quot;dob&quot; as &quot;Rcvbl95_dob&quot;,
+  &quot;Rcvbl95&quot;.&quot;xmin&quot; as &quot;Rcvbl95_xmin&quot;,
+  &quot;Rcvbl95&quot;.&quot;warrantType&quot; as &quot;Rcvbl95_warrantType&quot;,
+  &quot;Rcvbl95&quot;.&quot;nameM&quot; as &quot;Rcvbl95_nameM&quot;,
+  &quot;Rcvbl95&quot;.&quot;suffix&quot; as &quot;Rcvbl95_suffix&quot;,
+  &quot;Rcvbl95&quot;.&quot;paidToDate&quot; as &quot;Rcvbl95_paidToDate&quot;,
+  &quot;Rcvbl95&quot;.&quot;isCivilJdgmt&quot; as &quot;Rcvbl95_isCivilJdgmt&quot;,
+  &quot;Rcvbl95&quot;.&quot;interestAssessNo&quot; as &quot;Rcvbl95_interestAssessNo&quot;,
+  &quot;Rcvbl95&quot;.&quot;caseNo&quot; as &quot;Rcvbl95_caseNo&quot;,
+  &quot;Rcvbl95&quot;.&quot;isAcceptAssess&quot; as &quot;Rcvbl95_isAcceptAssess&quot;,
+  &quot;Rcvbl95&quot;.&quot;defendantId&quot; as &quot;Rcvbl95_defendantId&quot;,
+  &quot;Rcvbl95&quot;.&quot;soundexNameL&quot; as &quot;Rcvbl95_soundexNameL&quot;,
+  &quot;Rcvbl95&quot;.&quot;rcvblNo&quot; as &quot;Rcvbl95_rcvblNo&quot;,
+  &quot;Rcvbl95&quot;.&quot;isActiveAcctsRcvbl&quot; as &quot;Rcvbl95_isActiveAcctsRcvbl&quot;,
+  &quot;Rcvbl95&quot;.&quot;countyNo&quot; as &quot;Rcvbl95_countyNo&quot;,
+  &quot;Rcvbl95&quot;.&quot;fullNameFirstNameFirst&quot; as &quot;Rcvbl95_fullNameFirstNameFirst&quot;,
+  &quot;Rcvbl95&quot;.&quot;isDNRLicSuspended&quot; as &quot;Rcvbl95_isDNRLicSuspended&quot;,
+  &quot;Rcvbl95&quot;.&quot;balDue&quot; as &quot;Rcvbl95_balDue&quot;,
+  &quot;Rcvbl95&quot;.&quot;probAmt&quot; as &quot;Rcvbl95_probAmt&quot;,
+  &quot;Rcvbl95&quot;.&quot;ctid&quot;::varchar as &quot;Rcvbl95_ctid&quot;,
+  &quot;Rcvbl95&quot;.&quot;isEscrow&quot; as &quot;Rcvbl95_isEscrow&quot;,
+  &quot;Rcvbl95&quot;.&quot;isLicSuspended&quot; as &quot;Rcvbl95_isLicSuspended&quot;,
+  &quot;Rcvbl95&quot;.&quot;tripStatus&quot; as &quot;Rcvbl95_tripStatus&quot;,
+  &quot;Rcvbl95&quot;.&quot;dueDate&quot; as &quot;Rcvbl95_dueDate&quot;,
+  &quot;Rcvbl95&quot;.&quot;doCalcInterest&quot; as &quot;Rcvbl95_doCalcInterest&quot;,
+  &quot;Rcvbl95&quot;.&quot;totAssessed&quot; as &quot;Rcvbl95_totAssessed&quot;,
+  &quot;Rcvbl95&quot;.&quot;isAtCollections&quot; as &quot;Rcvbl95_isAtCollections&quot;,
+  &quot;Rcvbl95&quot;.&quot;searchName&quot; as &quot;Rcvbl95_searchName&quot;,
+  &quot;Rcvbl95&quot;.&quot;isBankruptcyFiled&quot; as &quot;Rcvbl95_isBankruptcyFiled&quot;,
+  &quot;Rcvbl95&quot;.&quot;masterRcvblNo&quot; as &quot;Rcvbl95_masterRcvblNo&quot;,
+  &quot;Rcvbl95&quot;.&quot;nameL&quot; as &quot;Rcvbl95_nameL&quot;,
+  &quot;Rcvbl95&quot;.&quot;soundexNameF&quot; as &quot;Rcvbl95_soundexNameF&quot;,
+  &quot;Rcvbl95&quot;.&quot;fullNameLastNameFirst&quot; as &quot;Rcvbl95_fullNameLastNameFirst&quot;,
+  &quot;Rcvbl95&quot;.&quot;rcvblType&quot; as &quot;Rcvbl95_rcvblType&quot;,
+  &quot;Rcvbl95&quot;.&quot;nameF&quot; as &quot;Rcvbl95_nameF&quot;,
+  &quot;Payplan97&quot;.&quot;cycleCode&quot; as &quot;Payplan97_cycleCode&quot;,
+  &quot;Payplan97&quot;.&quot;maxPmtsToMiss&quot; as &quot;Payplan97_maxPmtsToMiss&quot;,
+  &quot;Payplan97&quot;.&quot;doApplyPaidToDate&quot; as &quot;Payplan97_doApplyPaidToDate&quot;,
+  &quot;Payplan97&quot;.&quot;preCycleMisses&quot; as &quot;Payplan97_preCycleMisses&quot;,
+  &quot;Payplan97&quot;.&quot;xmin&quot; as &quot;Payplan97_xmin&quot;,
+  &quot;Payplan97&quot;.&quot;ncNetDueDate&quot; as &quot;Payplan97_ncNetDueDate&quot;,
+  &quot;Payplan97&quot;.&quot;beginCycleRange&quot; as &quot;Payplan97_beginCycleRange&quot;,
+  &quot;Payplan97&quot;.&quot;doIgnorePlanFtp&quot; as &quot;Payplan97_doIgnorePlanFtp&quot;,
+  &quot;Payplan97&quot;.&quot;preCycleExplain&quot; as &quot;Payplan97_preCycleExplain&quot;,
+  &quot;Payplan97&quot;.&quot;actualNoMisses&quot; as &quot;Payplan97_actualNoMisses&quot;,
+  &quot;Payplan97&quot;.&quot;rcvblNo&quot; as &quot;Payplan97_rcvblNo&quot;,
+  &quot;Payplan97&quot;.&quot;countyNo&quot; as &quot;Payplan97_countyNo&quot;,
+  &quot;Payplan97&quot;.&quot;ncDueDate&quot; as &quot;Payplan97_ncDueDate&quot;,
+  &quot;Payplan97&quot;.&quot;ctid&quot;::varchar as &quot;Payplan97_ctid&quot;,
+  &quot;Payplan97&quot;.&quot;cycleGraceDays&quot; as &quot;Payplan97_cycleGraceDays&quot;,
+  &quot;Payplan97&quot;.&quot;finalGraceDays&quot; as &quot;Payplan97_finalGraceDays&quot;,
+  &quot;Payplan97&quot;.&quot;basePdToDate&quot; as &quot;Payplan97_basePdToDate&quot;,
+  &quot;Payplan97&quot;.&quot;doCatchUpMisses&quot; as &quot;Payplan97_doCatchUpMisses&quot;,
+  &quot;Payplan97&quot;.&quot;planStartDate&quot; as &quot;Payplan97_planStartDate&quot;,
+  &quot;Payplan97&quot;.&quot;firstPmtDate&quot; as &quot;Payplan97_firstPmtDate&quot;,
+  &quot;Payplan97&quot;.&quot;cycleAmtDue&quot; as &quot;Payplan97_cycleAmtDue&quot;,
+  &quot;Payplan97&quot;.&quot;outOfNoPmts&quot; as &quot;Payplan97_outOfNoPmts&quot;,
+  &quot;Payplan97&quot;.&quot;cycleDayOfWeek&quot; as &quot;Payplan97_cycleDayOfWeek&quot;,
+  &quot;Payplan97&quot;.&quot;newCycleEffDate&quot; as &quot;Payplan97_newCycleEffDate&quot;,
+  &quot;Payplan97&quot;.&quot;delCyclesAfter&quot; as &quot;Payplan97_delCyclesAfter&quot;,
+  &quot;CyclePmt100&quot;.&quot;pmtAmt&quot; as &quot;CyclePmt100_pmtAmt&quot;,
+  &quot;CyclePmt100&quot;.&quot;recordType&quot; as &quot;CyclePmt100_recordType&quot;,
+  &quot;CyclePmt100&quot;.&quot;xmin&quot; as &quot;CyclePmt100_xmin&quot;,
+  &quot;CyclePmt100&quot;.&quot;paidThisCycle&quot; as &quot;CyclePmt100_paidThisCycle&quot;,
+  &quot;CyclePmt100&quot;.&quot;rcvblNo&quot; as &quot;CyclePmt100_rcvblNo&quot;,
+  &quot;CyclePmt100&quot;.&quot;countyNo&quot; as &quot;CyclePmt100_countyNo&quot;,
+  &quot;CyclePmt100&quot;.&quot;updateDate&quot; as &quot;CyclePmt100_updateDate&quot;,
+  &quot;CyclePmt100&quot;.&quot;ctid&quot;::varchar as &quot;CyclePmt100_ctid&quot;,
+  &quot;CyclePmt100&quot;.&quot;isMissedPmt&quot; as &quot;CyclePmt100_isMissedPmt&quot;,
+  &quot;CyclePmt100&quot;.&quot;dateCompleted&quot; as &quot;CyclePmt100_dateCompleted&quot;,
+  &quot;CyclePmt100&quot;.&quot;dueDate&quot; as &quot;CyclePmt100_dueDate&quot;,
+  &quot;CyclePmt100&quot;.&quot;netCycleDate&quot; as &quot;CyclePmt100_netCycleDate&quot;
+From
+&quot;Rcvbl&quot; &quot;Rcvbl95&quot;
+ inner join &quot;Rcvbl&quot; as &quot;Rcvbl96&quot; on (((&quot;Rcvbl95&quot;.&quot;countyNo&quot; = &quot;Rcvbl96&quot;.&quot;countyNo&quot;) and (&quot;Rcvbl96&quot;.&quot;masterRcvblNo&quot; = &quot;Rcvbl95&quot;.&quot;rcvblNo&quot;)) and (&quot;Rcvbl96&quot;.&quot;rcvblType&quot; = ?))
+ inner join &quot;Payplan&quot; as &quot;Payplan97&quot; on ((&quot;Payplan97&quot;.&quot;countyNo&quot; = &quot;Rcvbl95&quot;.&quot;countyNo&quot;) and (&quot;Payplan97&quot;.&quot;rcvblNo&quot; = &quot;Rcvbl95&quot;.&quot;rcvblNo&quot;))
+ inner join &quot;County&quot; as &quot;County98&quot; on (&quot;County98&quot;.&quot;countyNo&quot; = &quot;Rcvbl95&quot;.&quot;countyNo&quot;)
+ inner join &quot;ControlFeature&quot; as &quot;ControlFeature99&quot; on (((&quot;ControlFeature99&quot;.&quot;countyNo&quot; = &quot;County98&quot;.&quot;countyNo&quot;) and (&quot;ControlFeature99&quot;.&quot;name&quot; = ?)) and (&quot;ControlFeature99&quot;.&quot;isOn&quot; = ?))
+left outer join &quot;CyclePmt&quot; as &quot;CyclePmt100&quot; on (((((&quot;CyclePmt100&quot;.&quot;countyNo&quot; = &quot;Rcvbl95&quot;.&quot;countyNo&quot;) and (&quot;CyclePmt100&quot;.&quot;rcvblNo&quot; = &quot;Rcvbl95&quot;.&quot;rcvblNo&quot;)) and &quot;CyclePmt100&quot;.&quot;dateCompleted&quot; is null) and (((((&quot;Payplan97&quot;.&quot;doCatchUpMisses&quot; = ?) and (&quot;CyclePmt100&quot;.&quot;recordType&quot; = ?)) and (&quot;CyclePmt100&quot;.&quot;netCycleDate&quot; &gt;= ?)) or (((&quot;Payplan97&quot;.&quot;doCatchUpMisses&quot; = ?) and (&quot;CyclePmt100&quot;.&quot;recordType&quot; = ?)) and (? &gt;= &quot;CyclePmt100&quot;.&quot;netCycleDate&quot;))) or (&quot;Payplan97&quot;.&quot;doCatchUpMisses&quot; = ?))) and (not exists(Select
+   ? as &quot;v102&quot;
+ From
+ &quot;CyclePmt&quot; &quot;CyclePmt103&quot;
+  inner join &quot;Payplan&quot; as &quot;Payplan104&quot; on ((&quot;CyclePmt103&quot;.&quot;countyNo&quot; = &quot;Payplan104&quot;.&quot;countyNo&quot;) and (&quot;CyclePmt103&quot;.&quot;rcvblNo&quot; = &quot;Payplan104&quot;.&quot;rcvblNo&quot;))
+Where
+  (((((&quot;CyclePmt103&quot;.&quot;countyNo&quot; = &quot;CyclePmt100&quot;.&quot;countyNo&quot;) and (&quot;CyclePmt103&quot;.&quot;rcvblNo&quot; = &quot;CyclePmt100&quot;.&quot;rcvblNo&quot;)) and &quot;CyclePmt103&quot;.&quot;dateCompleted&quot; is null) and (((((&quot;Payplan104&quot;.&quot;doCatchUpMisses&quot; = ?) and (&quot;CyclePmt100&quot;.&quot;recordType&quot; = ?)) and (&quot;CyclePmt103&quot;.&quot;netCycleDate&quot; &gt;= ?)) or (((&quot;Payplan97&quot;.&quot;doCatchUpMisses&quot; = ?) and (&quot;CyclePmt100&quot;.&quot;recordType&quot; = ?)) and (? &gt;= &quot;CyclePmt100&quot;.&quot;netCycleDate&quot;))) or (&quot;Payplan104&quot;.&quot;doCatchUpMisses&quot; = ?))) and (&quot;CyclePmt103&quot;.&quot;dueDate&quot; &lt; &quot;CyclePmt100&quot;.&quot;dueDate&quot;))
+) ))
+Where
+  (((&quot;Payplan97&quot;.&quot;rcvblNo&quot;, &quot;Payplan97&quot;.&quot;countyNo&quot;) in ((?, ?))) and (((&quot;Rcvbl95&quot;.&quot;rcvblType&quot; = ?) and (&quot;Rcvbl95&quot;.&quot;balDue&quot; &lt;&gt; ?)) and (not exists(Select
+  ? as &quot;v106&quot;
+From
+  &quot;HiddenCase&quot; &quot;HiddenCase107&quot;
+Where
+  ((&quot;HiddenCase107&quot;.&quot;countyNo&quot; = &quot;Rcvbl96&quot;.&quot;countyNo&quot;) and (&quot;HiddenCase107&quot;.&quot;caseNo&quot; = &quot;Rcvbl96&quot;.&quot;caseNo&quot;))
+) )))
+jdbcParams:[ConstantStatementParam(&#39;ConstantTypedExpression:S),ConstantStatementParam(&#39;ConstantTypedExpression:electRcvbl),ConstantStatementParam(&#39;ConstantTypedExpression:true),ConstantStatementParam(&#39;ConstantTypedExpression:false),ConstantStatementParam(&#39;ConstantTypedExpression:C),ConstantStatementParam(&#39;ConstantTypedExpression:2022-11-05),ConstantStatementParam(&#39;ConstantTypedExpression:false),ConstantStatementParam(&#39;ConstantTypedExpression:F),ConstantStatementParam(&#39;ConstantTypedExpression:2022-11-05),ConstantStatementParam(&#39;ConstantTypedExpression:true),ConstantStatementParam(&#39;ConstantTypedExpression:1),ConstantStatementParam(&#39;ConstantTypedExpression:false),ConstantStatementParam(&#39;ConstantTypedExpression:C),ConstantStatementParam(&#39;ConstantTypedExpression:2022-11-05),ConstantStatementParam(&#39;ConstantTypedExpression:false),ConstantStatementParam(&#39;ConstantTypedExpression:F),ConstantStatementParam(&#39;ConstantTypedExpression:2022-11-05),ConstantStatementParam(&#39;ConstantTypedExpression:true),ConstantStatementParam(&#39;ConstantTypedExpression:105605),ConstantStatementParam(&#39;ConstantTypedExpression:57),ConstantStatementParam(&#39;ConstantTypedExpression:P),ConstantStatementParam(&#39;ConstantTypedExpression:0),ConstantStatementParam(&#39;ConstantTypedExpression:1)])
+
+Fiber:Id(1667695434291,1862504386) was supposed to continue to:
+  a future continuation at zio.ZIO.run(ZIO.scala:1764)
+  a future continuation at zio.ZIO.bracket_(ZIO.scala:291)
+
+Fiber:Id(1667695434291,1862504386) execution trace:
+  at gov.wicourts.cc.tx.DbIO$.runDbOp(DbIO.scala:176)
+  at gov.wicourts.cc.tx.DbIO$$anon$1.apply(DbIO.scala:260)
+  at gov.wicourts.cc.tx.DbIO$$anon$1.apply(DbIO.scala:259)
+  at zio.ZIO$AccessPartiallyApplied$.apply(ZIO.scala:4470)
+  at zio.ZIO$.effectSuspendTotal(ZIO.scala:2837)
+  at zio.ZIO.bracket_(ZIO.scala:291)
+  at zio.internal.FiberContext.evaluateNow(FiberContext.scala:633)
+
+Fiber:Id(1667695434291,1862504386) was spawned by:
+
+Fiber:Id(1667695434291,1862504374) was supposed to continue to:
+  a future continuation at scala.Function2.tupled(Function2.scala:52)
+  a future continuation at zio.ZIO.run(ZIO.scala:1764)
+  a future continuation at zio.ZIO.bracket_(ZIO.scala:291)
+
+Fiber:Id(1667695434291,1862504374) execution trace:
+  at zio.ZIO.zipWithPar(ZIO.scala:2324)
+  at zio.ZIO$.effectSuspendTotal(ZIO.scala:2837)
+  at zio.ZIO.bracket_(ZIO.scala:291)
+  at zio.internal.FiberContext.evaluateNow(FiberContext.scala:633)
+
+Fiber:Id(1667695434291,1862504374) was spawned by:
+
+Fiber:Id(1667695434291,1862504371) was supposed to continue to:
+  a future continuation at scala.Function2.tupled(Function2.scala:52)
+  a future continuation at zio.ZIO.run(ZIO.scala:1764)
+  a future continuation at zio.ZIO.bracket_(ZIO.scala:291)
+
+Fiber:Id(1667695434291,1862504371) execution trace:
+  at zio.ZIO.zipWithPar(ZIO.scala:2324)
+  at zio.ZIO$.effectSuspendTotal(ZIO.scala:2837)
+  at zio.ZIO.bracket_(ZIO.scala:291)
+  at zio.internal.FiberContext.evaluateNow(FiberContext.scala:633)
+
+Fiber:Id(1667695434291,1862504371) was spawned by:
+
+Fiber:Id(1667695434290,1862504368) was supposed to continue to:
+  a future continuation at scala.Function2.tupled(Function2.scala:52)
+  a future continuation at zio.ZIO.run(ZIO.scala:1764)
+  a future continuation at zio.ZIO.bracket_(ZIO.scala:291)
+
+Fiber:Id(1667695434290,1862504368) execution trace:
+  at zio.ZIO.zipWithPar(ZIO.scala:2324)
+  at zio.ZIO$.effectSuspendTotal(ZIO.scala:2837)
+  at zio.ZIO.bracket_(ZIO.scala:291)
+  at zio.internal.FiberContext.evaluateNow(FiberContext.scala:633)
+
+Fiber:Id(1667695434290,1862504368) was spawned by:
+
+Fiber:Id(1667695434262,1862504367) was supposed to continue to:
+  a future continuation at scala.Function2.tupled(Function2.scala:52)
+  a future continuation at gov.wicourts.cc.service.CaseService$Read$Parallel$$anon$1.fullCaseForDisplay(CaseService.scala:297)
+  a future continuation at scalaz.std.OptionInstances$$anon$1.traverseImpl(Option.scala:26)
+  a future continuation at scalaz.std.OptionInstances$$anon$1.traverseImpl(Option.scala:26)
+  a future continuation at scalaz.Traverse.traverseM(Traverse.scala:70)
+  a future continuation at gov.wicourts.cc.service.CaseService$.externalCaseForDisplay(CaseService.scala:891)
+  a future continuation at gov.wicourts.cc.service.CaseService$.externalCaseForDisplay(CaseService.scala:880)
+  a future continuation at gov.wicourts.cc.service.CaseService$.externalCaseForDisplay(CaseService.scala:880)
+  a future continuation at gov.wicourts.wcca.form.WccaCaseDetail.query(WccaCaseDetail.scala:63)
+  a future continuation at gov.wicourts.wcca.form.WccaCaseDetail$.handler(WccaCaseDetail.scala:87)
+
+Fiber:Id(1667695434262,1862504367) execution trace:
+  at zio.ZIO.zipWithPar(ZIO.scala:2324)
+  at gov.wicourts.cc.service.CaseService$Read$Parallel$$anon$1.fullCaseForDisplay(CaseService.scala:212)
+  at gov.wicourts.cc.tx.DbIO$.runDbOp(DbIO.scala:176)
+  at gov.wicourts.cc.tx.DbIO$$anon$1.apply(DbIO.scala:260)
+  at gov.wicourts.cc.tx.DbIO$$anon$1.apply(DbIO.scala:259)
+  at zio.ZIO$AccessPartiallyApplied$.apply(ZIO.scala:4470)
+  at gov.wicourts.cc.service.CaseService$.externalCaseForDisplay(CaseService.scala:880)
+  at gov.wicourts.cc.tx.DbIO$.runDbOp(DbIO.scala:176)
+  at gov.wicourts.cc.tx.DbIO$$anon$1.apply(DbIO.scala:260)
+  at gov.wicourts.cc.tx.DbIO$$anon$1.apply(DbIO.scala:259)
+
+Fiber:Id(1667695434262,1862504367) was spawned by: &lt;empty trace&gt;
+
+Fiber:Id(1667695434256,1862504366) was supposed to continue to:
+  a future continuation at gov.wicourts.webcommon.rest.json.LiftIntegration$$anon$2.apply(LiftIntegration.scala:225)
+  a future continuation at gov.wicourts.webcommon.rest.json.LiftIntegration$$anon$2.apply(LiftIntegration.scala:227)
+  a future continuation at zio.ZIO.run(ZIO.scala:1764)
+  a future continuation at zio.ZIO.bracket_(ZIO.scala:291)
+  a future continuation at zio.ZIO.run(ZIO.scala:1764)
+  a future continuation at zio.ZManaged.use(ZManaged.scala:1088)
+  a future continuation at gov.wicourts.webcommon.rest.json.LiftIntegration$$anon$2.apply(LiftIntegration.scala:234)
+  a future continuation at gov.wicourts.webcommon.rest.json.LiftIntegration$$anon$2.apply(LiftIntegration.scala:208)
+
+Fiber:Id(1667695434256,1862504366) execution trace:
+  at gov.wicourts.webcommon.rest.json.LiftIntegration$.toRestHelper$default(LiftIntegration.scala:130)
+  at gov.wicourts.cc.tx.DbIO$.runDbOp(DbIO.scala:176)
+  at gov.wicourts.cc.tx.DbIO$.runDbTask(DbIO.scala:195)
+  at gov.wicourts.webcommon.rest.json.JsonRestHelper$.legacyResponses(JsonRestHelper.scala:60)
+  at gov.wicourts.wcca.rest.ServerRestHelper$.mkServerContext(ServerRestHelper.scala:28)
+  at gov.wicourts.jsoncommon.rest.safe.SRouteMatcher$Builder.checkAllowed(SRouteMatcher.scala:1078)
+  at gov.wicourts.wcca.rest.ServerRestHelper$.isAllowed(ServerRestHelper.scala:31)
+  at zio.ZIO$.effectSuspendTotal(ZIO.scala:2837)
+  at zio.ZIO.bracket_(ZIO.scala:291)
+  at zio.internal.FiberContext.evaluateNow(FiberContext.scala:561)
+  at zio.ZManaged.use(ZManaged.scala:1089)
+  at zio.internal.FiberContext$InterruptExit$.apply(FiberContext.scala:160)
+  at zio.internal.FiberContext$InterruptExit$.apply(FiberContext.scala:153)
+  at zio.ZIO$.effectSuspendTotal(ZIO.scala:2837)
+  at zio.ZIO$.bracketExit(ZIO.scala:2437)
+  at zio.internal.FiberContext.evaluateNow(FiberContext.scala:565)
+  at zio.ZIO$.effectSuspendTotal(ZIO.scala:2837)
+  at zio.ZIO.bracket_(ZIO.scala:291)
+  at zio.ZIO.run(ZIO.scala:1764)
+  at zio.internal.FiberContext$InterruptExit$.apply(FiberContext.scala:153)
+  at zio.ZManaged.map(ZManaged.scala:484)
+  at zio.ZManaged.flatMap(ZManaged.scala:337)
+  at zio.ZManaged.flatMap(ZManaged.scala:337)
+  at zio.ZManaged.map(ZManaged.scala:484)
+  at zio.ZManaged.flatMap(ZManaged.scala:336)
+  at zio.ZManaged$.succeed(ZManaged.scala:2497)
+  at zio.ZManaged.flatMap(ZManaged.scala:336)
+  at zio.ZManaged$.fromEffect(ZManaged.scala:1883)
+  at zio.internal.FiberContext$InterruptExit$.apply(FiberContext.scala:160)
+  at zio.internal.FiberContext$InterruptExit$.apply(FiberContext.scala:153)
+  at zio.ZIO$.effectSuspendTotal(ZIO.scala:2837)
+  at zio.ZIO$.bracketExit(ZIO.scala:2437)
+  at zio.internal.FiberContext.evaluateNow(FiberContext.scala:565)
+  at zio.ZIO$.effectSuspendTotal(ZIO.scala:2837)
+  at zio.ZIO.bracket_(ZIO.scala:291)
+  at zio.ZIO.run(ZIO.scala:1764)
+  at zio.internal.FiberContext$InterruptExit$.apply(FiberContext.scala:153)
+  at zio.ZLayer$MemoMap$.make(ZLayer.scala:2301)
+  at zio.ZRefM$.make(ZRefM.scala:502)
+  at zio.Semaphore$.make(Semaphore.scala:130)
+  at zio.ZRef$.make(ZRef.scala:756)
+  at zio.ZRefM$.make(ZRefM.scala:501)
+  at zio.ZRef$.make(ZRef.scala:756)
+  at zio.ZIO$.effectSuspendTotal(ZIO.scala:2837)
+  at zio.ZIO.bracket_(ZIO.scala:291)
+  at zio.internal.FiberContext.evaluateNow(FiberContext.scala:561)
+  at zio.ZIO.provideSome(ZIO.scala:1266)
+  at zio.ZIO$.effectSuspendTotal(ZIO.scala:2837)
+  at zio.ZIO.bracket_(ZIO.scala:291)
+  at zio.internal.FiberContext.evaluateNow(FiberContext.scala:561)
+  at zio.ZIO.provideSome(ZIO.scala:1266)
+  at zio.ZIO$.effectSuspendTotal(ZIO.scala:2837)
+  at zio.ZManaged.use(ZManaged.scala:1089)
+  at zio.ZManaged$ReleaseMap$.make(ZManaged.scala:1375)
+  at zio.ZRef$.make(ZRef.scala:756)
+  at gov.wicourts.webcommon.rest.json.LiftIntegration$$anon$2.apply(LiftIntegration.scala:228)
+  at gov.wicourts.webcommon.rest.json.LiftIntegration$$anon$2.run(LiftIntegration.scala:171)
+  at gov.wicourts.webcommon.rest.json.LiftIntegration$$anon$2.run(LiftIntegration.scala:171)
+  at gov.wicourts.webcommon.rest.json.LiftIntegration$$anon$2.logResult(LiftIntegration.scala:155)
+  at gov.wicourts.webcommon.rest.json.LiftIntegration$$anon$2.run(LiftIntegration.scala:171)
+  at gov.wicourts.webcommon.rest.json.LiftIntegration$$anon$2.run(LiftIntegration.scala:166)
+  at gov.wicourts.webcommon.rest.json.LiftIntegration$.toRestHelper(LiftIntegration.scala:136)
+  at gov.wicourts.webcommon.rest.json.LiftIntegration$$anon$2.run(LiftIntegration.scala:165)
+  at gov.wicourts.webcommon.rest.json.LiftIntegration$.reqToHttpRequest(LiftIntegration.scala:354)
+  at zio.ZIO$.fromEither(ZIO.scala:3331)
+  at gov.wicourts.webcommon.rest.json.LiftIntegration$.reqToHttpRequest(LiftIntegration.scala:349)
+  at gov.wicourts.webcommon.rest.json.LiftIntegration$.reqToHttpRequest(LiftIntegration.scala:348)
+  at gov.wicourts.webcommon.rest.json.LiftIntegration$.reqToHttpRequest(LiftIntegration.scala:347)
+  at gov.wicourts.webcommon.rest.json.LiftIntegration$.reqToHttpRequest(LiftIntegration.scala:347)
+  at gov.wicourts.webcommon.rest.json.LiftIntegration$.reqToHttpRequest(LiftIntegration.scala:346)
+  at gov.wicourts.webcommon.rest.json.LiftIntegration$.reqToHttpRequest(LiftIntegration.scala:346)
+  at gov.wicourts.webcommon.rest.json.LiftIntegration$.reqToHttpRequest(LiftIntegration.scala:345)
+  at gov.wicourts.webcommon.rest.json.LiftIntegration$.reqToHttpRequest(LiftIntegration.scala:345)
+  at gov.wicourts.webcommon.rest.json.LiftIntegration$.reqToHttpRequest(LiftIntegration.scala:345)
+  at gov.wicourts.cc.service.SafeUser$.build(SafeUser.scala:218)
+  at gov.wicourts.cc.service.SafeUser$.build(SafeUser.scala:202)
+  at gov.wicourts.cc.service.SafeUser$.hasImplementedUserType(SafeUser.scala:194)
+
+Fiber:Id(1667695434256,1862504366) was spawned by: &lt;empty trace&gt;
+</pre><p><b>Note</b> The full stack trace of the root cause is available in the server logs.</p><hr class="line" /><h3>Apache Tomcat/9.0.10</h3></body></html>
