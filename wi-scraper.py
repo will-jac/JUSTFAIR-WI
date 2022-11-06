@@ -52,7 +52,33 @@ cookies = parse_cookies(cookie)
 os.makedirs(f"./data/{caseYear}/{caseLetter}", exist_ok=True)
 print(f"Searching cases starting with {caseYear}{caseLetter}XXX{startingCaseNumber}")
 
-def try_search():
+def try_search(caseID):
+    searchBody = {
+        "includeMissingDob": True,
+        "includeMissingMiddleName": True,
+        "caseNo": caseID
+    }
+    for i in range(10):
+        try:
+            searchResult = json.loads(requests.post(searchUrl,json=(searchBody),cookies=cookies).content)
+            break
+        except:
+            print('retrying search')
+            time.sleep(5)
+    return searchResult
+
+def check_if_done(caseID, offset=100):
+    searchBody = {
+        "includeMissingDob": True,
+        "includeMissingMiddleName": True,
+        "caseNoRange": {
+            "caseType": caseLetter,
+            "year": int(caseYear),
+            "start": str(caseID), 
+            "end": str(caseID+offset),
+        }
+    }
+    # look for the next 100 cases
     for i in range(10):
         try:
             searchResult = json.loads(requests.post(searchUrl,json=(searchBody),cookies=cookies).content)
@@ -72,63 +98,57 @@ def try_url():
             time.sleep(5)
     return caseResult
 
-# basically can do a while loop until we run out of case numbers
+# loop until we run out of case numbers
+caseNumber = startingCaseNumber
 while True:
-    for caseNumber in range(startingCaseNumber, 5000):
-        
-        caseID = f"{caseYear}{caseLetter}{caseNumber}"
-        # find the cases with this number via the search
-        searchBody = {
-            "includeMissingDob": True,
-            "includeMissingMiddleName": True,
-            "caseNo": caseID
-        }
+    caseID = f"{caseYear}{caseLetter}{caseNumber}"
+    # find the cases with this number via the search
 
-        searchResult = try_search()
+    searchResult = try_search(caseID)
 
+    if len(searchResult["result"]["cases"]) == 0:
+        searchResult = check_if_done(caseID)
         if len(searchResult["result"]["cases"]) == 0:
             print("Done!", caseNumber)
             break
 
-        # print out progress
-        sys.stdout.write('\r')
-        sys.stdout.write(str(caseNumber))
-        sys.stdout.flush()
+    # print out progress
+    sys.stdout.write('\r')
+    sys.stdout.write(str(caseNumber))
+    sys.stdout.flush()
 
+    for case in searchResult["result"]["cases"]:
+        countyNum = case["countyNo"]
+        caseID = case["caseNo"]
 
-        for case in searchResult["result"]["cases"]:
-            countyNum = case["countyNo"]
-            caseID = case["caseNo"]
+        caseLookupBody = {
+            "countyNo": countyNum,
+            "caseNo": caseID
+        }
 
-            caseLookupBody = {
-                "countyNo": countyNum,
-                "caseNo": caseID
-            }
-
+        caseResult = try_url()
+        
+        if caseResult[:20] == b'{"errors":{"captcha"':
+            auto_load_captcha()
             caseResult = try_url()
-            
+
+            # TODO: use pyautogui to set the address bar and re-type the address on failure
+
+            # if we still hit an error, prompt the user
             if caseResult[:20] == b'{"errors":{"captcha"':
-                auto_load_captcha()
+                usr_in = input(f"Check Captcha. Enter cookie, or press enter to use current {cookie}\n")
+                if usr_in is not None and usr_in != "":
+                    cookie = usr_in
+                cookies = parse_cookies(cookie)
+            
+                print("running")
+
                 caseResult = try_url()
 
-                # TODO: use pyautogui to set the address bar and re-type the address on failure
 
-                # if we still hit an error, prompt the user
-                if caseResult[:20] == b'{"errors":{"captcha"':
-                    usr_in = input(f"Check Captcha. Enter cookie, or press enter to use current {cookie}\n")
-                    if usr_in is not None and usr_in != "":
-                        cookie = usr_in
-                    cookies = parse_cookies(cookie)
-                
-                    print("running")
+        with open(f"data/{caseYear}/{caseLetter}/{caseID}-{countyNum}.json", "wb") as f:
+            f.write(caseResult)
+    
+    # move to the next case
+    caseNumber += 1
 
-                    caseResult = try_url()
-
-
-            with open(f"data/{caseYear}/{caseLetter}/{caseID}-{countyNum}.json", "wb") as f:
-                f.write(caseResult)
-
-    caseYear = str(int(caseYear) + 1)
-    startingCaseNumber = 1
-    # make the data folder
-    os.makedirs(f"./data/{caseYear}/{caseLetter}", exist_ok=True)

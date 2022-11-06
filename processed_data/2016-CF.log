@@ -1,0 +1,47 @@
+INFO:root:Writing out data to: processed_data/
+INFO:root:	Case is still open for data/2016/CF/2016CF000002-40.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000007-23.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000008-23.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000010-59.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000012-64.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000017-30.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000017-49.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000018-62.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000020-28.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000020-40.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000020-54.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000021-33.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000021-54.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000023-64.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000023-67.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000026-33.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000028-53.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000029-54.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000029-70.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000030-10.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000030-70.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000032-30.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000033-18.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000033-29.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000034-1.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000034-50.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000035-18.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000035-54.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000036-54.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000037-1.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000037-30.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000045-31.json
+INFO:root:	Data not available for data/2016/CF/2016CF000045-43.json, Reason: This case is sealed and is not available for viewing by order of Judge Bloom
+INFO:root:	Case is still open for data/2016/CF/2016CF000048-32.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000048-45.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000048-56.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000050-61.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000052-33.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000055-45.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000055-63.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000057-27.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000057-60.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000058-15.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000058-53.json
+INFO:root:	Case is still open for data/2016/CF/2016CF000061-17.json
+WARNING:root:	Missing data for data/2016/CF/2016CF000063-6.json (file has error), skipping
