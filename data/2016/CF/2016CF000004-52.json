@@ -1,1 +1,1587 @@
-{"result":{"parties":[],"classType":"Criminal","showRssButton":true,"receivables":[{"amountDue":1161.00,"atCollections":false,"key":"52-78398","adjust":-1161.00,"rcvblNo":78398,"countyNo":52,"probAmt":0.00,"paid":0.00,"dueDate":null,"type":"R","atSdc":false,"balanceDue":0.00},{"amountDue":544.93,"atCollections":true,"key":"52-79430","adjust":69.86,"rcvblNo":79430,"countyNo":52,"probAmt":0.00,"paid":54.84,"dueDate":"2016-07-13","type":"R","atSdc":false,"balanceDue":559.95},{"amountDue":620.48,"atCollections":false,"key":"52-84690","adjust":2.69,"rcvblNo":84690,"countyNo":52,"probAmt":0.00,"paid":0.00,"dueDate":"2018-01-30","type":"R","atSdc":true,"balanceDue":623.17}],"countyName":"Richland","isReopenedRemandedFromAppeal":false,"daCaseNo":"2015RI000786","activities":[],"payplanLink":null,"chargeHist":[],"prosAtty":"Forehand, Amy Elizabeth","maintenance":"Electronic filing","caseNo":"2016CF000004","execSummary":"<p data-section-name=\"guiltyPreamble\">\n    The defendant Justin D. Henderson was found guilty\n    of the following <nobr>charge(s)</nobr> in this case.\n    <span class=\"someDismissed\">\n      One or more other charges in this case were dismissed. The dismissed\n      charges were not proven and have no legal effect.\n      Justin D. Henderson is presumed innocent\n      of the dismissed charges.\n    </span>\n    \n  </p><ul><li><div data-section-name=\"guiltyCriminal\">\n    Justin D. Henderson was found guilty of\n    Strangulation and Suffocation [Modifiers: Domestic Abuse],\n    a class H felony,\n    Wisconsin Statutes\n    940.235(1).\n  </div></li><li><div data-section-name=\"guiltyCriminal\">\n    Justin D. Henderson was found guilty of\n    Battery [Modifiers: Domestic Abuse],\n    a class A misdemeanor,\n    Wisconsin Statutes\n    940.19(1).\n  </div></li></ul><p data-section-name=\"notice\">\n    <strong>Notice to employers:</strong> It may be a violation of state law to\n    discriminate against a job applicant because of an arrest or conviction\n    record.  Generally speaking, an employer may refuse to hire an applicant on\n    the basis of a conviction only if the circumstances of the conviction\n    substantially relate to the particular job. For more information, see\n    <a href=\"http://docs.legis.wisconsin.gov/statutes/statutes/111/II/335\" rel=\"noopener noreferrer\" target=\"_blank\">Wisconsin Statute 111.335</a>\n    and the Department of Workforce Development's publication,\n    <cite><a href=\"https://dwd.wisconsin.gov/er/civilrights/discrimination/arrest.htm\" rel=\"noopener noreferrer\" target=\"_blank\">Arrest and Conviction Records under the Law</a></cite>.\n  </p>","warrants":[],"civilJdgmts":[{"dateDkted":"2016-06-30","satisfaction":"No","parties":[{"name":"Justin D. Henderson","bankrupt":false,"released":false,"descr":"Debtor","centralAtty":null,"proHacVice":null,"key":"f345cddcd461ecf4243a4116829127af489c6bda-1","status":"Active","address":"927 State Road 80 & 133, Avoca, WI 53506"},{"name":"Richland County Clerk of Circuit Court","bankrupt":null,"released":false,"descr":"Creditor","centralAtty":null,"proHacVice":null,"key":"f345cddcd461ecf4243a4116829127af489c6bda-2","status":"Active","address":null}],"jdgmtDate":"2016-06-30","propDescr":null,"descr":"Judgment for money","typeOfTax":null,"amount":614.79,"key":"f345cddcd461ecf4243a4116829127af489c6bda","svcDateTo":null,"cvJdgmtEvTypeDescr":null,"svcDateFrom":null,"multiple":false,"fullSatisDate":null,"dktedTime":"10:00 am","dbtrName":"Henderson, Justin D.","warrantNo":null,"events":[],"amounts":[{"key":"f345cddcd461ecf4243a4116829127af489c6bda-1","descr":"Judgment amount","amount":514.43},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-2","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-3","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-4","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-5","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-6","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-7","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-8","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-9","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-10","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-11","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-12","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-13","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-14","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-15","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-16","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-17","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-18","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-19","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-20","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-21","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-22","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-23","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-24","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-25","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-26","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-27","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-28","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-29","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-30","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-31","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-32","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-33","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-34","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-35","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-36","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-37","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-38","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-39","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-40","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-41","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-42","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-43","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-44","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-45","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-46","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-47","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-48","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-49","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-50","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-51","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-52","descr":"Post-judgment interest","amount":1.93},{"key":"f345cddcd461ecf4243a4116829127af489c6bda-53","descr":"Post-judgment interest","amount":1.93}]},{"dateDkted":"2018-01-30","satisfaction":"No","parties":[{"name":"Justin D. Henderson","bankrupt":false,"released":false,"descr":"Debtor","centralAtty":null,"proHacVice":null,"key":"5767d9faeec31a5475d259e71125fcedab70f23b-1","status":"Active","address":"927 State Road 80 & 133, Avoca, WI 53506"},{"name":"Richland County Clerk of Circuit Court","bankrupt":null,"released":false,"descr":"Creditor","centralAtty":null,"proHacVice":null,"key":"5767d9faeec31a5475d259e71125fcedab70f23b-2","status":"Active","address":null}],"jdgmtDate":"2018-01-30","propDescr":null,"descr":"Judgment for money","typeOfTax":null,"amount":623.17,"key":"5767d9faeec31a5475d259e71125fcedab70f23b","svcDateTo":null,"cvJdgmtEvTypeDescr":null,"svcDateFrom":null,"multiple":false,"fullSatisDate":null,"dktedTime":"03:14 pm","dbtrName":"Henderson, Justin D.","warrantNo":null,"events":[],"amounts":[{"key":"5767d9faeec31a5475d259e71125fcedab70f23b-1","descr":"Judgment amount","amount":541.33},{"key":"5767d9faeec31a5475d259e71125fcedab70f23b-2","descr":"Post-judgment interest","amount":2.48},{"key":"5767d9faeec31a5475d259e71125fcedab70f23b-3","descr":"Post-judgment interest","amount":2.48},{"key":"5767d9faeec31a5475d259e71125fcedab70f23b-4","descr":"Post-judgment interest","amount":2.48},{"key":"5767d9faeec31a5475d259e71125fcedab70f23b-5","descr":"Post-judgment interest","amount":2.48},{"key":"5767d9faeec31a5475d259e71125fcedab70f23b-6","descr":"Post-judgment interest","amount":2.48},{"key":"5767d9faeec31a5475d259e71125fcedab70f23b-7","descr":"Post-judgment interest","amount":2.48},{"key":"5767d9faeec31a5475d259e71125fcedab70f23b-8","descr":"Post-judgment interest","amount":2.48},{"key":"5767d9faeec31a5475d259e71125fcedab70f23b-9","descr":"Post-judgment interest","amount":2.48},{"key":"5767d9faeec31a5475d259e71125fcedab70f23b-10","descr":"Post-judgment interest","amount":2.48},{"key":"5767d9faeec31a5475d259e71125fcedab70f23b-11","descr":"Post-judgment interest","amount":2.48},{"key":"5767d9faeec31a5475d259e71125fcedab70f23b-12","descr":"Post-judgment interest","amount":2.48},{"key":"5767d9faeec31a5475d259e71125fcedab70f23b-13","descr":"Post-judgment interest","amount":2.48},{"key":"5767d9faeec31a5475d259e71125fcedab70f23b-14","descr":"Post-judgment interest","amount":2.48},{"key":"5767d9faeec31a5475d259e71125fcedab70f23b-15","descr":"Post-judgment interest","amount":2.48},{"key":"5767d9faeec31a5475d259e71125fcedab70f23b-16","descr":"Post-judgment interest","amount":2.48},{"key":"5767d9faeec31a5475d259e71125fcedab70f23b-17","descr":"Post-judgment interest","amount":2.48},{"key":"5767d9faeec31a5475d259e71125fcedab70f23b-18","descr":"Post-judgment interest","amount":2.48},{"key":"5767d9faeec31a5475d259e71125fcedab70f23b-19","descr":"Post-judgment interest","amount":2.48},{"key":"5767d9faeec31a5475d259e71125fcedab70f23b-20","descr":"Post-judgment interest","amount":2.48},{"key":"5767d9faeec31a5475d259e71125fcedab70f23b-21","descr":"Post-judgment interest","amount":2.48},{"key":"5767d9faeec31a5475d259e71125fcedab70f23b-22","descr":"Post-judgment interest","amount":2.48},{"key":"5767d9faeec31a5475d259e71125fcedab70f23b-23","descr":"Post-judgment interest","amount":2.48},{"key":"5767d9faeec31a5475d259e71125fcedab70f23b-24","descr":"Post-judgment interest","amount":2.48},{"key":"5767d9faeec31a5475d259e71125fcedab70f23b-25","descr":"Post-judgment interest","amount":2.48},{"key":"5767d9faeec31a5475d259e71125fcedab70f23b-26","descr":"Post-judgment interest","amount":2.48},{"key":"5767d9faeec31a5475d259e71125fcedab70f23b-27","descr":"Post-judgment interest","amount":2.48},{"key":"5767d9faeec31a5475d259e71125fcedab70f23b-28","descr":"Post-judgment interest","amount":2.48},{"key":"5767d9faeec31a5475d259e71125fcedab70f23b-29","descr":"Post-judgment interest","amount":2.48},{"key":"5767d9faeec31a5475d259e71125fcedab70f23b-30","descr":"Post-judgment interest","amount":2.48},{"key":"5767d9faeec31a5475d259e71125fcedab70f23b-31","descr":"Post-judgment interest","amount":2.48},{"key":"5767d9faeec31a5475d259e71125fcedab70f23b-32","descr":"Post-judgment interest","amount":2.48},{"key":"5767d9faeec31a5475d259e71125fcedab70f23b-33","descr":"Post-judgment interest","amount":2.48},{"key":"5767d9faeec31a5475d259e71125fcedab70f23b-34","descr":"Post-judgment interest","amount":2.48}]}],"branchId":"1","documents":[],"wcisClsCode":"Other Bodily Security","tac":null,"countyNo":52,"charges":[{"judgments":[{"supervisions":[],"orderDate":"2016-03-02","isModified":false,"superAgency":null,"miscConds":[],"key":"52-2016CF000004-1-1","dispoCtofc":"Sharp, William Andrew","timeConds":[],"dispoDesc":null,"probByCase":null,"sentDate":null,"isConverted":false,"reOpenedEvent":null,"action":"Guilty Due to No Contest Plea"},{"supervisions":[{"superMiscConds":[],"descr":"Probation, Sent Withheld","key":"52-2016CF000004-1-2-1","notes":"Conditions:\n\nAttend, pay for, and successfully complete any treatment or education ordered by the agent.\n\nPay court costs and costs of supervision.\n\n0 days credit in the event of revocation.\nConcurrent with: 16CF65","time":"2 Years","isShowConds":true,"superTimeConds":[],"beginDate":null}],"orderDate":"2016-03-02","isModified":false,"superAgency":null,"miscConds":[{"key":"mc-52-2016CF000004-1-2-1","descr":"Costs","notes":"If probation is revoked or discharged with outstanding financial obligations, a civil judgment shall be entered against the defendant in favor of restitution victims and/or governmental entities for the balance due. All available enforcement actions will be used to collect the debt."}],"key":"52-2016CF000004-1-2","dispoCtofc":"Sharp, William Andrew","timeConds":[],"dispoDesc":null,"probByCase":null,"sentDate":"2016-07-13","isConverted":false,"reOpenedEvent":null,"action":"Guilty Due to No Contest Plea"},{"supervisions":[{"superMiscConds":[],"descr":"State Prison","key":"52-2016CF000004-1-3-2","notes":"Dodge Correctional as the reception center.","time":"2 Years","isShowConds":false,"superTimeConds":[],"beginDate":"2018-02-20"},{"superMiscConds":[],"descr":"Extended Supervision","key":"52-2016CF000004-1-3-1","notes":"Defendant to attend, pay for, and successfully complete any programming ordered by the supervising agent. Costs from the original JOC in this case have been converted to a civil judgment.","time":"2 Years","isShowConds":false,"superTimeConds":[],"beginDate":null}],"orderDate":"2016-03-02","isModified":false,"superAgency":null,"miscConds":[],"key":"52-2016CF000004-1-3","dispoCtofc":"Sharp, William Andrew","timeConds":[],"dispoDesc":null,"probByCase":null,"sentDate":"2018-02-20","isConverted":false,"reOpenedEvent":{"descr":"Probation revoked","eventDate":"2018-01-30"},"action":"Guilty Due to No Contest Plea"}],"pleaDate":"2016-03-02","descr":"Strangulation and Suffocation","offenseDate":"2015-11-23","id":"52-2016CF000004-1","pleaDescr":"No Contest","chargeModifiers":[{"modSeqNo":1,"statuteCite":"968.075(1)(a)","descr":"Domestic Abuse"}],"dispoDesc":"Guilty Due to No Contest Plea","statuteCite":"940.235(1)","severity":"Felony H","chargeNo":1,"isSummaryCandidate":true},{"judgments":[{"supervisions":[{"superMiscConds":[],"descr":"Probation, Sent Withheld","key":"52-2016CF000004-2-1-1","notes":"Conditions:\n\nPay costs of supervision and court costs.\n\nAttend, pay for, and successfully complete a 24- or 26-week domestic abuse education class.\n\n1 day credit in the event of revocation.","time":"2 Years","isShowConds":true,"superTimeConds":[],"beginDate":null}],"orderDate":"2016-03-02","isModified":false,"superAgency":null,"miscConds":[{"key":"mc-52-2016CF000004-2-1-1","descr":"Costs","notes":"If probation is revoked or discharged with outstanding financial obligations, a civil judgment shall be entered against the defendant in favor of restitution victims and/or governmental entities for the balance due. All available enforcement actions will be used to collect the debt.\n\n"}],"key":"52-2016CF000004-2-1","dispoCtofc":"Sharp, William Andrew","timeConds":[],"dispoDesc":null,"probByCase":null,"sentDate":"2016-03-02","isConverted":false,"reOpenedEvent":null,"action":"Guilty Due to No Contest Plea"},{"supervisions":[{"superMiscConds":[],"descr":"Local Jail","key":"52-2016CF000004-2-2-1","notes":"With huber and 61 days credit.  Costs from the original JOC have been converted to a civil judgment owed by the Defendant to the Clerk of Court.","time":"9 Months","isShowConds":false,"superTimeConds":[],"beginDate":"2016-07-13"}],"orderDate":"2016-03-02","isModified":false,"superAgency":null,"miscConds":[],"key":"52-2016CF000004-2-2","dispoCtofc":"Sharp, William Andrew","timeConds":[],"dispoDesc":null,"probByCase":null,"sentDate":"2016-07-13","isConverted":false,"reOpenedEvent":{"descr":"Probation revoked","eventDate":"2016-06-27"},"action":"Guilty Due to No Contest Plea"}],"pleaDate":"2016-03-02","descr":"Battery","offenseDate":"2015-11-23","id":"52-2016CF000004-2","pleaDescr":"No Contest","chargeModifiers":[{"modSeqNo":1,"statuteCite":"968.075(1)(a)","descr":"Domestic Abuse"}],"dispoDesc":"Guilty Due to No Contest Plea","statuteCite":"940.19(1)","severity":"Misd. A","chargeNo":2,"isSummaryCandidate":true},{"judgments":[{"supervisions":[],"orderDate":"2016-03-02","isModified":false,"superAgency":null,"miscConds":[],"key":"52-2016CF000004-3-1","dispoCtofc":"Sharp, William Andrew","timeConds":[],"dispoDesc":null,"probByCase":null,"sentDate":null,"isConverted":false,"reOpenedEvent":null,"action":"Dismissed on Prosecutor's Motion"}],"pleaDate":null,"descr":"Disorderly Conduct","offenseDate":"2015-11-23","id":"52-2016CF000004-3","pleaDescr":null,"chargeModifiers":[{"modSeqNo":1,"statuteCite":"968.075(1)(a)","descr":"Domestic Abuse"}],"dispoDesc":"Dismissed on Prosecutor's Motion","statuteCite":"947.01(1)","severity":"Misd. B","chargeNo":3,"isSummaryCandidate":true}],"crossReferenced":[],"caption":"State of Wisconsin vs. Justin D. Henderson","status":"Closed","filingDate":"2016-01-06","defendant":{"attys":[{"name":"McDougal, Lisa A","withdrawn":"2018-01-30","key":"52-2016CF000004-1-1025894-2016-01-06","isGal":false,"entered":"2016-01-06"},{"name":"McDougal, Lisa A","withdrawn":"2019-02-27","key":"52-2016CF000004-1-1025894-2018-01-30","isGal":false,"entered":"2018-01-30"}],"name":"Henderson, Justin D.","partyNo":1,"dob":"1983-07-08","fingerprintId":null,"inclGal":false,"effDate":"2020-01-29","sex":"Male","alias":[],"race":"Caucasian","status":null,"address":"927 State Road 80 & 133, Avoca, WI 53506","type":"Defendant","justisNo":null,"sealed":false},"respCtofc":"Sharp, William Andrew","available":true,"isCriminal":true,"caseType":"CF","records":[{"addlTxt":null,"parties":[],"descr":"Notice of case status change","amount":null,"key":"52-2016CF000004-70","ctofc":null,"date":"2021-08-16","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Discharge Certificate","amount":null,"key":"52-2016CF000004-69","ctofc":null,"date":"2021-08-13","courtRptr":null},{"addlTxt":"ADDRESS INFO for Justin D. Henderson\nCurrent: 927 State Road 80 & 133, Avoca, WI 53506 United States  (Effective: 01-29-2020)\nPrior: PO Box 233, Jackson Correctional Institution, Black River Falls, WI 54615 United States\n","parties":[{"sealed":false,"name":"Henderson, Justin D."}],"descr":"Change of address notification","amount":null,"key":"52-2016CF000004-67","ctofc":null,"date":"2020-01-29","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Petition for sentence adjust denied-public interst","amount":null,"key":"52-2016CF000004-68","ctofc":null,"date":"2019-04-12","courtRptr":null},{"addlTxt":"AP's letter to the Court on behalf of Def/Petitioner's request for adjustment","parties":[],"descr":"Letters/correspondence","amount":null,"key":"52-2016CF000004-66","ctofc":null,"date":"2019-04-12","courtRptr":null},{"addlTxt":"Petition for Sentence Adjustment is denied. Court notes Court's comments at sentencing and the District Attorney's objection to the request for adjustment. (Order distributed to all parties including the Petitioner.)","parties":[],"descr":"Order concerning sentence adjustment","amount":null,"key":"52-2016CF000004-65","ctofc":"Sharp, William Andrew","date":"2019-04-12","courtRptr":null},{"addlTxt":"DA Response on Petition for Sentence Adjustment - DA objects\n\n(This document has been mailed to the Defendant at Jackson Correctional. Clerk has asked the Court for direction as to whom prepares the order re sentence adjustment.)","parties":[],"descr":"Response/reply","amount":null,"key":"52-2016CF000004-62","ctofc":null,"date":"2019-04-05","courtRptr":null},{"addlTxt":"ADDRESS INFO for Justin D. Henderson\nCurrent: PO Box 233, Jackson Correctional Institution, Black River Falls, WI 54615 United States  (Effective: 02-27-2019)\nPrior: 340 W Court St, Richland Center, WI 53581 United States\n","parties":[{"sealed":false,"name":"Henderson, Justin D."}],"descr":"Change of address notification","amount":null,"key":"52-2016CF000004-61","ctofc":null,"date":"2019-02-27","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Notice to D.A./D.A. response on pet. for sent. adj","amount":null,"key":"52-2016CF000004-60","ctofc":null,"date":"2019-02-27","courtRptr":null},{"addlTxt":"from Defendant","parties":[],"descr":"Letters/correspondence","amount":null,"key":"52-2016CF000004-59","ctofc":null,"date":"2019-02-27","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Verification of time served","amount":null,"key":"52-2016CF000004-58","ctofc":null,"date":"2019-02-27","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Petition for sentence adjustment","amount":null,"key":"52-2016CF000004-57","ctofc":null,"date":"2019-02-27","courtRptr":null},{"addlTxt":"Sentencing Hearing - 02-20-18","parties":[],"descr":"Transcript","amount":null,"key":"52-2016CF000004-56","ctofc":null,"date":"2018-03-19","courtRptr":null},{"addlTxt":"ADDRESS INFO for Justin D. Henderson\nCurrent: 340 W Court St, Richland Center, WI 53581 United States  (Effective: 02-21-2018)\nPrior: 6590 Riverview Lane, Lot CKen, Boscobel, WI 53805 United States\n","parties":[{"sealed":false,"name":"Henderson, Justin D."}],"descr":"Change of address notification","amount":null,"key":"52-2016CF000004-54","ctofc":null,"date":"2018-02-21","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Assessment Report","amount":null,"key":"52-2016CF000004-53","ctofc":null,"date":"2018-02-20","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Judgment of conviction following revocation","amount":null,"key":"52-2016CF000004-52","ctofc":"Sharp, William Andrew","date":"2018-02-20","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Dispositional order/judgment","amount":null,"key":"52-2016CF000004-51","ctofc":"Sharp, William Andrew","date":"2018-02-20","courtRptr":null},{"addlTxt":"16CF04 and 16CF65 called together for sentencing after revocation. Attorney Lisa A McDougal in court for Defendant Justin D. Henderson. Prosecuting Atty Forehand appeared for State of Wisconsin.  Atty Forehand requests consecutive sentences. Atty McDougal asks the Court to follow the recommendation of the agent. Defendant addresses the court. Atty McDougal reads statement of SO. DD gives her statement. \n\nCourt orders as follows:\n\n16CF04\nCount 1\n4 year total sentence in the WI prison system with 2 years as initial confinement and 2 years as extended supervision. Dodge Correctional as reception center. Def to be eligible for any/all treatment programming. 190 days credit. \n\n16CF65\nCount 1 - 90 days jail, concurrent with 16CF04 \nCount 2 - 30 days jail, concurrent with count 1 and 16CF04\nCount 3 - 30 days jail, concurrent with 16CF4 and counts 1 and 2 of this case\n\nCosts from the original JOC's to be converted into civil judgments.","parties":[],"descr":"Sentencing hearing on revocation","amount":null,"key":"52-2016CF000004-50","ctofc":"Sharp, William Andrew","date":"2018-02-20","courtRptr":"Kaderavek, Susan M."},{"addlTxt":"RCSD Book and Release packet, signed by Defendant and RCSD investigator TJ on 2/13/18 and by Judge Sharp on 2/14/18","parties":[],"descr":"Signature bond signed","amount":10000.00,"key":"52-2016CF000004-55","ctofc":null,"date":"2018-02-14","courtRptr":null},{"addlTxt":null,"parties":[{"sealed":false,"name":"Henderson, Justin D."}],"descr":"Signature bond set","amount":10000.00,"key":"52-2016CF000004-49","ctofc":null,"date":"2018-02-13","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Revocation Order and Warrant","amount":null,"key":"52-2016CF000004-48","ctofc":null,"date":"2018-02-01","courtRptr":null},{"addlTxt":"Sentencing hearing on revocation on February 20, 2018 at 09:00 am.","parties":[],"descr":"Notice of hearing","amount":null,"key":"52-2016CF000004-47","ctofc":null,"date":"2018-01-30","courtRptr":null},{"addlTxt":"Sentencing hearing on revocation on February 20, 2018 at 09:00 am.","parties":[],"descr":"Notice of hearing","amount":null,"key":"52-2016CF000004-46","ctofc":null,"date":"2018-01-30","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Electronic Filing Notice Mailed","amount":null,"key":"52-2016CF000004-45","ctofc":null,"date":"2018-01-30","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Case Converted to Electronic Filing","amount":null,"key":"52-2016CF000004-44","ctofc":null,"date":"2018-01-30","courtRptr":null},{"addlTxt":"Sentencing hearing on revocation on February 15, 2018 at 11:00 am.","parties":[],"descr":"Notice of hearing","amount":null,"key":"52-2016CF000004-43","ctofc":null,"date":"2018-01-30","courtRptr":null},{"addlTxt":"(Clerk notes that a $100 da surcharge had been imposed in this matter at the original time of sentencing but does not appear in the DOC's summary; it has been made part of the civil judgment as allowed by the JOC.)","parties":[],"descr":"Judgment for unpaid fine/forfeiture/other","amount":541.33,"key":"52-2016CF000004-42","ctofc":null,"date":"2018-01-30","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Probation revoked","amount":null,"key":"52-2016CF000004-41","ctofc":"Sharp, William Andrew","date":"2018-01-30","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Records of prosec. are converted data. See file.","amount":null,"key":"52-2016CF000004-40","ctofc":null,"date":"2017-11-15","courtRptr":null},{"addlTxt":"ADDRESS INFO for Justin D. Henderson\nCurrent: 6590 Riverview Lane, Lot CKen, Boscobel, WI 53805 United States  (Effective: 01-19-2017)\nPrior: 413 N. Pearl Street, Richland Center, WI 53581 \n","parties":[{"sealed":false,"name":"Henderson, Justin D."}],"descr":"Change of address notification","amount":null,"key":"52-2016CF000004-39","ctofc":null,"date":"2017-01-19","courtRptr":null},{"addlTxt":"Letter from JDH to Judge Sharp - Requesting furlough; Judge's response letter to JDH - Request denied","parties":[],"descr":"Letters/correspondence","amount":null,"key":"52-2016CF000004-38","ctofc":null,"date":"2016-08-18","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Notice of case status change","amount":null,"key":"52-2016CF000004-37","ctofc":null,"date":"2016-07-26","courtRptr":null},{"addlTxt":"from DOC - \"DOC Offender Status Rescinded\" - \"Offender received new probation prior to T# assignment\" (DOC still has custody of this case)","parties":[],"descr":"Letters/correspondence","amount":null,"key":"52-2016CF000004-36","ctofc":null,"date":"2016-07-25","courtRptr":null},{"addlTxt":"revoked","parties":[],"descr":"Notice of case status change","amount":null,"key":"52-2016CF000004-35","ctofc":null,"date":"2016-07-18","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Assessment Report","amount":null,"key":"52-2016CF000004-34","ctofc":"Sharp, William Andrew","date":"2016-07-13","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Judgment of conviction","amount":null,"key":"52-2016CF000004-33","ctofc":"Sharp, William Andrew","date":"2016-07-13","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Judgment of conviction following revocation","amount":null,"key":"52-2016CF000004-32","ctofc":"Sharp, William Andrew","date":"2016-07-13","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Dispositional order/judgment","amount":null,"key":"52-2016CF000004-30","ctofc":"Sharp, William Andrew","date":"2016-07-13","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Agreement revoked","amount":null,"key":"52-2016CF000004-29","ctofc":"Sharp, William Andrew","date":"2016-07-13","courtRptr":null},{"addlTxt":"16CF4/sentencing after revocation with State's motion to revoke DPA and 16CF65/plea and sentencing.  Defendant Justin D. Henderson in court, in custody, with attorney Lisa A McDougal. Prosecuting Atty Amy Elizabeth Forehand appeared for State of Wisconsin.  Atty. M informs the Court that the parties have a recommendation for sentencing and sentencing after rev - in 16CF65, def to be pleading to counts 1, 2 (as amended to misd. poss. thc), and 3 for dismissal of count 4; in 16CF4/revocation matter, parties ask for 2 years probation on revoked DPA count 1 and 9 months jail on probation-revoked count 2.\n\n16CF65 - Def pleads no contest to counts 1, 2 (as amended to misd. THC possession), and 3.  Court's colloquy on pleas.  Finding of guilty.  \n\n16CF4 - Court grants State's motion to revoke Count 1 DPA.  Def has 61 days credit in this case.\n\nSentence:\n\n16CF4 - count 1, and counts 1-3 in 16CF65 - 2 years probation with conditions that def attend, pay for, and succ. complete any treatment/education ordered by agent; pay costs. 0 days credit in the event of revocation.\n\n16CF4 - count 2 - 9 months jail with 61 days credit.  Huber granted.","parties":[],"descr":"Sentencing hearing on revocation","amount":null,"key":"52-2016CF000004-28","ctofc":"Sharp, William Andrew","date":"2016-07-13","courtRptr":"Kaderavek, Susan M."},{"addlTxt":"Sentencing hearing on revocation on July 13, 2016 at 10:00 am.","parties":[],"descr":"Notice of hearing","amount":null,"key":"52-2016CF000004-27","ctofc":null,"date":"2016-06-30","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Judgment for unpaid fine/forfeiture/other","amount":514.43,"key":"52-2016CF000004-26","ctofc":null,"date":"2016-06-30","courtRptr":null},{"addlTxt":"for Civil Judgment for Court Ordered Financial Obligations","parties":[],"descr":"Petition","amount":null,"key":"52-2016CF000004-25","ctofc":null,"date":"2016-06-28","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Revocation Order and Warrant","amount":null,"key":"52-2016CF000004-23","ctofc":null,"date":"2016-06-28","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Probation revoked","amount":null,"key":"52-2016CF000004-24","ctofc":"Sharp, William Andrew","date":"2016-06-27","courtRptr":null},{"addlTxt":"State","parties":[],"descr":"Public defender order appointing counsel","amount":null,"key":"52-2016CF000004-22","ctofc":null,"date":"2016-06-27","courtRptr":null},{"addlTxt":"Diversion Agreement","parties":[],"descr":"Other papers","amount":null,"key":"52-2016CF000004-21","ctofc":null,"date":"2016-03-02","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Amended signature bond signed","amount":5000.00,"key":"52-2016CF000004-20","ctofc":null,"date":"2016-03-02","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Plea questionnaire, waiver of rights","amount":null,"key":"52-2016CF000004-19","ctofc":null,"date":"2016-03-02","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Information","amount":null,"key":"52-2016CF000004-18","ctofc":null,"date":"2016-03-02","courtRptr":null},{"addlTxt":"Previous no contact conditions removed.","parties":[{"sealed":false,"name":"Henderson, Justin D."}],"descr":"Signature bond amended","amount":5000.00,"key":"52-2016CF000004-17","ctofc":null,"date":"2016-03-02","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Assessment Report","amount":null,"key":"52-2016CF000004-16","ctofc":"Sharp, William Andrew","date":"2016-03-02","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Judgment of conviction","amount":null,"key":"52-2016CF000004-15","ctofc":"Sharp, William Andrew","date":"2016-03-02","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Deferred agreement","amount":null,"key":"52-2016CF000004-14","ctofc":"Sharp, William Andrew","date":"2016-03-02","courtRptr":null},{"addlTxt":"Defendant Justin D. Henderson in court with attorney Lisa A McDougal. Prosecuting Atty Jennifer M. Harper appeared for State of Wisconsin. Counsel advise the Court that the parties have an agreement for resolution whereby def will waive his right to prelim and enter pleas to counts 1 and 2 for a DPA on count 1 and probation on count 2.  Court's colloquy re prelim waiver.  Def pleads no contest to counts 1 and 2.  Court's colloquy on pleas.  Finding of guilty on both counts.  \n\nDPA ordered on count 1.  \n\nDefense asks for bond with no special conditions (asks Court to remove the no contact conditions).\n\nCount 2 - sentence withheld for probation of 2 years with conditions that he attend, pay for, and successfully complete a 24- to 26-week domestic abuse education class.  Costs also.  \n\nCourt orders amendment of bond - amount the same; no special conditions.\n\nCount 3 dismissed.\n\n1 day credit in the event of revocation.","parties":[],"descr":"Plea/sentencing hearing","amount":null,"key":"52-2016CF000004-13","ctofc":"Sharp, William Andrew","date":"2016-03-02","courtRptr":"Kaderavek, Susan M."},{"addlTxt":"Status conference at 03-02-2016 10:00 am","parties":[],"descr":"Notice of hearing","amount":null,"key":"52-2016CF000004-12","ctofc":null,"date":"2016-02-29","courtRptr":null},{"addlTxt":"Status conference at 02-29-2016 10:00 am","parties":[],"descr":"Notice of hearing","amount":null,"key":"52-2016CF000004-11","ctofc":null,"date":"2016-02-24","courtRptr":null},{"addlTxt":"Defendant Justin D. Henderson in court with attorney Lisa A McDougal. Prosecuting Atty Amy Elizabeth Forehand appeared for State of Wisconsin. Counsel asks for status scheduling - def plans to enter a plea on 2/29.  Status conference scheduled for February 29, 2016 at 10:00 am.","parties":[],"descr":"Adjourned initial appearance","amount":null,"key":"52-2016CF000004-10","ctofc":"Sharp, William Andrew","date":"2016-02-24","courtRptr":"Kaderavek, Susan M."},{"addlTxt":"Adjourned initial appearance at 02-24-2016 01:30 pm","parties":[],"descr":"Notice of hearing","amount":null,"key":"52-2016CF000004-9","ctofc":null,"date":"2016-02-02","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Demand for discovery and inspection","amount":null,"key":"52-2016CF000004-8","ctofc":null,"date":"2016-01-25","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Public defender order appointing counsel","amount":null,"key":"52-2016CF000004-7","ctofc":null,"date":"2016-01-19","courtRptr":null},{"addlTxt":"Adjourned initial appearance at 02-03-2016 01:30 pm","parties":[],"descr":"Notice of hearing","amount":null,"key":"52-2016CF000004-6","ctofc":null,"date":"2016-01-06","courtRptr":null},{"addlTxt":"Defendant Justin D. Henderson in court with attorney Lisa A McDougal. Prosecuting Atty Amy Forehand appeared for State of Wisconsin.  Charges and rights stated.  Prelim time limits waived.  Atty. M states that def is asking for amendment of bond to delete the no contact or change it to \"no abusive or profance contact.\"  ADA Forehand notes victim did contact DA's office re that request; State is opposed; reasons stated by ADA Forehand.  Court denies the request to amend bond.  Matter adj. to 2/3 at 1:30 - AIA as reminder that prelim not yet held.  Adjourned initial appearance scheduled for February 3, 2016 at 01:30 pm.","parties":[],"descr":"Initial appearance","amount":null,"key":"52-2016CF000004-5","ctofc":"Sharp, William Andrew","date":"2016-01-06","courtRptr":"Kaderavek, Susan M."},{"addlTxt":null,"parties":[],"descr":"Complaint filed","amount":null,"key":"52-2016CF000004-1","ctofc":null,"date":"2016-01-06","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Signature bond signed","amount":5000.00,"key":"52-2016CF000004-4","ctofc":null,"date":"2015-11-23","courtRptr":null},{"addlTxt":null,"parties":[{"sealed":false,"name":"Henderson, Justin D."}],"descr":"Signature bond set","amount":5000.00,"key":"52-2016CF000004-3","ctofc":null,"date":"2015-11-23","courtRptr":null},{"addlTxt":"written minutes","parties":[],"descr":"Bail/bond hearing","amount":null,"key":"52-2016CF000004-2","ctofc":"Sharp, William Andrew","date":"2015-11-23","courtRptr":"Kaderavek, Susan M."}],"prosAgency":"District Attorney","citations":[],"defAttys":[],"balanceDue":1183.12,"allowPurchase":false},"view":{"caseNo":{"value":"2016CF000004"},"countyNo":{"value":52}}}
+{
+    "result": {
+        "parties": [],
+        "classType": "Criminal",
+        "showRssButton": true,
+        "receivables": [
+            {
+                "amountDue": 1161.00,
+                "atCollections": false,
+                "key": "52-78398",
+                "adjust": -1161.00,
+                "rcvblNo": 78398,
+                "countyNo": 52,
+                "probAmt": 0.00,
+                "paid": 0.00,
+                "dueDate": null,
+                "type": "R",
+                "atSdc": false,
+                "balanceDue": 0.00
+            },
+            {
+                "amountDue": 544.93,
+                "atCollections": true,
+                "key": "52-79430",
+                "adjust": 69.86,
+                "rcvblNo": 79430,
+                "countyNo": 52,
+                "probAmt": 0.00,
+                "paid": 54.84,
+                "dueDate": "2016-07-13",
+                "type": "R",
+                "atSdc": false,
+                "balanceDue": 559.95
+            },
+            {
+                "amountDue": 620.48,
+                "atCollections": false,
+                "key": "52-84690",
+                "adjust": 2.69,
+                "rcvblNo": 84690,
+                "countyNo": 52,
+                "probAmt": 0.00,
+                "paid": 0.00,
+                "dueDate": "2018-01-30",
+                "type": "R",
+                "atSdc": true,
+                "balanceDue": 623.17
+            }
+        ],
+        "countyName": "Richland",
+        "isReopenedRemandedFromAppeal": false,
+        "daCaseNo": "2015RI000786",
+        "activities": [],
+        "payplanLink": null,
+        "chargeHist": [],
+        "prosAtty": "Forehand, Amy Elizabeth",
+        "maintenance": "Electronic filing",
+        "caseNo": "2016CF000004",
+        "execSummary": "<p data-section-name=\"guiltyPreamble\">\n    The defendant Justin D. Henderson was found guilty\n    of the following <nobr>charge(s)</nobr> in this case.\n    <span class=\"someDismissed\">\n      One or more other charges in this case were dismissed. The dismissed\n      charges were not proven and have no legal effect.\n      Justin D. Henderson is presumed innocent\n      of the dismissed charges.\n    </span>\n    \n  </p><ul><li><div data-section-name=\"guiltyCriminal\">\n    Justin D. Henderson was found guilty of\n    Strangulation and Suffocation [Modifiers: Domestic Abuse],\n    a class H felony,\n    Wisconsin Statutes\n    940.235(1).\n  </div></li><li><div data-section-name=\"guiltyCriminal\">\n    Justin D. Henderson was found guilty of\n    Battery [Modifiers: Domestic Abuse],\n    a class A misdemeanor,\n    Wisconsin Statutes\n    940.19(1).\n  </div></li></ul><p data-section-name=\"notice\">\n    <strong>Notice to employers:</strong> It may be a violation of state law to\n    discriminate against a job applicant because of an arrest or conviction\n    record.  Generally speaking, an employer may refuse to hire an applicant on\n    the basis of a conviction only if the circumstances of the conviction\n    substantially relate to the particular job. For more information, see\n    <a href=\"http://docs.legis.wisconsin.gov/statutes/statutes/111/II/335\" rel=\"noopener noreferrer\" target=\"_blank\">Wisconsin Statute 111.335</a>\n    and the Department of Workforce Development's publication,\n    <cite><a href=\"https://dwd.wisconsin.gov/er/civilrights/discrimination/arrest.htm\" rel=\"noopener noreferrer\" target=\"_blank\">Arrest and Conviction Records under the Law</a></cite>.\n  </p>",
+        "warrants": [],
+        "civilJdgmts": [
+            {
+                "dateDkted": "2016-06-30",
+                "satisfaction": "No",
+                "parties": [
+                    {
+                        "name": "Justin D. Henderson",
+                        "bankrupt": false,
+                        "released": false,
+                        "descr": "Debtor",
+                        "centralAtty": null,
+                        "proHacVice": null,
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-1",
+                        "status": "Active",
+                        "address": "927 State Road 80 & 133, Avoca, WI 53506"
+                    },
+                    {
+                        "name": "Richland County Clerk of Circuit Court",
+                        "bankrupt": null,
+                        "released": false,
+                        "descr": "Creditor",
+                        "centralAtty": null,
+                        "proHacVice": null,
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-2",
+                        "status": "Active",
+                        "address": null
+                    }
+                ],
+                "jdgmtDate": "2016-06-30",
+                "propDescr": null,
+                "descr": "Judgment for money",
+                "typeOfTax": null,
+                "amount": 614.79,
+                "key": "f345cddcd461ecf4243a4116829127af489c6bda",
+                "svcDateTo": null,
+                "cvJdgmtEvTypeDescr": null,
+                "svcDateFrom": null,
+                "multiple": false,
+                "fullSatisDate": null,
+                "dktedTime": "10:00 am",
+                "dbtrName": "Henderson, Justin D.",
+                "warrantNo": null,
+                "events": [],
+                "amounts": [
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-1",
+                        "descr": "Judgment amount",
+                        "amount": 514.43
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-2",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-3",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-4",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-5",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-6",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-7",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-8",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-9",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-10",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-11",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-12",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-13",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-14",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-15",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-16",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-17",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-18",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-19",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-20",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-21",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-22",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-23",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-24",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-25",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-26",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-27",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-28",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-29",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-30",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-31",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-32",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-33",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-34",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-35",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-36",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-37",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-38",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-39",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-40",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-41",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-42",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-43",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-44",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-45",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-46",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-47",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-48",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-49",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-50",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-51",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-52",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    },
+                    {
+                        "key": "f345cddcd461ecf4243a4116829127af489c6bda-53",
+                        "descr": "Post-judgment interest",
+                        "amount": 1.93
+                    }
+                ]
+            },
+            {
+                "dateDkted": "2018-01-30",
+                "satisfaction": "No",
+                "parties": [
+                    {
+                        "name": "Justin D. Henderson",
+                        "bankrupt": false,
+                        "released": false,
+                        "descr": "Debtor",
+                        "centralAtty": null,
+                        "proHacVice": null,
+                        "key": "5767d9faeec31a5475d259e71125fcedab70f23b-1",
+                        "status": "Active",
+                        "address": "927 State Road 80 & 133, Avoca, WI 53506"
+                    },
+                    {
+                        "name": "Richland County Clerk of Circuit Court",
+                        "bankrupt": null,
+                        "released": false,
+                        "descr": "Creditor",
+                        "centralAtty": null,
+                        "proHacVice": null,
+                        "key": "5767d9faeec31a5475d259e71125fcedab70f23b-2",
+                        "status": "Active",
+                        "address": null
+                    }
+                ],
+                "jdgmtDate": "2018-01-30",
+                "propDescr": null,
+                "descr": "Judgment for money",
+                "typeOfTax": null,
+                "amount": 623.17,
+                "key": "5767d9faeec31a5475d259e71125fcedab70f23b",
+                "svcDateTo": null,
+                "cvJdgmtEvTypeDescr": null,
+                "svcDateFrom": null,
+                "multiple": false,
+                "fullSatisDate": null,
+                "dktedTime": "03:14 pm",
+                "dbtrName": "Henderson, Justin D.",
+                "warrantNo": null,
+                "events": [],
+                "amounts": [
+                    {
+                        "key": "5767d9faeec31a5475d259e71125fcedab70f23b-1",
+                        "descr": "Judgment amount",
+                        "amount": 541.33
+                    },
+                    {
+                        "key": "5767d9faeec31a5475d259e71125fcedab70f23b-2",
+                        "descr": "Post-judgment interest",
+                        "amount": 2.48
+                    },
+                    {
+                        "key": "5767d9faeec31a5475d259e71125fcedab70f23b-3",
+                        "descr": "Post-judgment interest",
+                        "amount": 2.48
+                    },
+                    {
+                        "key": "5767d9faeec31a5475d259e71125fcedab70f23b-4",
+                        "descr": "Post-judgment interest",
+                        "amount": 2.48
+                    },
+                    {
+                        "key": "5767d9faeec31a5475d259e71125fcedab70f23b-5",
+                        "descr": "Post-judgment interest",
+                        "amount": 2.48
+                    },
+                    {
+                        "key": "5767d9faeec31a5475d259e71125fcedab70f23b-6",
+                        "descr": "Post-judgment interest",
+                        "amount": 2.48
+                    },
+                    {
+                        "key": "5767d9faeec31a5475d259e71125fcedab70f23b-7",
+                        "descr": "Post-judgment interest",
+                        "amount": 2.48
+                    },
+                    {
+                        "key": "5767d9faeec31a5475d259e71125fcedab70f23b-8",
+                        "descr": "Post-judgment interest",
+                        "amount": 2.48
+                    },
+                    {
+                        "key": "5767d9faeec31a5475d259e71125fcedab70f23b-9",
+                        "descr": "Post-judgment interest",
+                        "amount": 2.48
+                    },
+                    {
+                        "key": "5767d9faeec31a5475d259e71125fcedab70f23b-10",
+                        "descr": "Post-judgment interest",
+                        "amount": 2.48
+                    },
+                    {
+                        "key": "5767d9faeec31a5475d259e71125fcedab70f23b-11",
+                        "descr": "Post-judgment interest",
+                        "amount": 2.48
+                    },
+                    {
+                        "key": "5767d9faeec31a5475d259e71125fcedab70f23b-12",
+                        "descr": "Post-judgment interest",
+                        "amount": 2.48
+                    },
+                    {
+                        "key": "5767d9faeec31a5475d259e71125fcedab70f23b-13",
+                        "descr": "Post-judgment interest",
+                        "amount": 2.48
+                    },
+                    {
+                        "key": "5767d9faeec31a5475d259e71125fcedab70f23b-14",
+                        "descr": "Post-judgment interest",
+                        "amount": 2.48
+                    },
+                    {
+                        "key": "5767d9faeec31a5475d259e71125fcedab70f23b-15",
+                        "descr": "Post-judgment interest",
+                        "amount": 2.48
+                    },
+                    {
+                        "key": "5767d9faeec31a5475d259e71125fcedab70f23b-16",
+                        "descr": "Post-judgment interest",
+                        "amount": 2.48
+                    },
+                    {
+                        "key": "5767d9faeec31a5475d259e71125fcedab70f23b-17",
+                        "descr": "Post-judgment interest",
+                        "amount": 2.48
+                    },
+                    {
+                        "key": "5767d9faeec31a5475d259e71125fcedab70f23b-18",
+                        "descr": "Post-judgment interest",
+                        "amount": 2.48
+                    },
+                    {
+                        "key": "5767d9faeec31a5475d259e71125fcedab70f23b-19",
+                        "descr": "Post-judgment interest",
+                        "amount": 2.48
+                    },
+                    {
+                        "key": "5767d9faeec31a5475d259e71125fcedab70f23b-20",
+                        "descr": "Post-judgment interest",
+                        "amount": 2.48
+                    },
+                    {
+                        "key": "5767d9faeec31a5475d259e71125fcedab70f23b-21",
+                        "descr": "Post-judgment interest",
+                        "amount": 2.48
+                    },
+                    {
+                        "key": "5767d9faeec31a5475d259e71125fcedab70f23b-22",
+                        "descr": "Post-judgment interest",
+                        "amount": 2.48
+                    },
+                    {
+                        "key": "5767d9faeec31a5475d259e71125fcedab70f23b-23",
+                        "descr": "Post-judgment interest",
+                        "amount": 2.48
+                    },
+                    {
+                        "key": "5767d9faeec31a5475d259e71125fcedab70f23b-24",
+                        "descr": "Post-judgment interest",
+                        "amount": 2.48
+                    },
+                    {
+                        "key": "5767d9faeec31a5475d259e71125fcedab70f23b-25",
+                        "descr": "Post-judgment interest",
+                        "amount": 2.48
+                    },
+                    {
+                        "key": "5767d9faeec31a5475d259e71125fcedab70f23b-26",
+                        "descr": "Post-judgment interest",
+                        "amount": 2.48
+                    },
+                    {
+                        "key": "5767d9faeec31a5475d259e71125fcedab70f23b-27",
+                        "descr": "Post-judgment interest",
+                        "amount": 2.48
+                    },
+                    {
+                        "key": "5767d9faeec31a5475d259e71125fcedab70f23b-28",
+                        "descr": "Post-judgment interest",
+                        "amount": 2.48
+                    },
+                    {
+                        "key": "5767d9faeec31a5475d259e71125fcedab70f23b-29",
+                        "descr": "Post-judgment interest",
+                        "amount": 2.48
+                    },
+                    {
+                        "key": "5767d9faeec31a5475d259e71125fcedab70f23b-30",
+                        "descr": "Post-judgment interest",
+                        "amount": 2.48
+                    },
+                    {
+                        "key": "5767d9faeec31a5475d259e71125fcedab70f23b-31",
+                        "descr": "Post-judgment interest",
+                        "amount": 2.48
+                    },
+                    {
+                        "key": "5767d9faeec31a5475d259e71125fcedab70f23b-32",
+                        "descr": "Post-judgment interest",
+                        "amount": 2.48
+                    },
+                    {
+                        "key": "5767d9faeec31a5475d259e71125fcedab70f23b-33",
+                        "descr": "Post-judgment interest",
+                        "amount": 2.48
+                    },
+                    {
+                        "key": "5767d9faeec31a5475d259e71125fcedab70f23b-34",
+                        "descr": "Post-judgment interest",
+                        "amount": 2.48
+                    }
+                ]
+            }
+        ],
+        "branchId": "1",
+        "documents": [],
+        "wcisClsCode": "Other Bodily Security",
+        "tac": null,
+        "countyNo": 52,
+        "charges": [
+            {
+                "judgments": [
+                    {
+                        "supervisions": [],
+                        "orderDate": "2016-03-02",
+                        "isModified": false,
+                        "superAgency": null,
+                        "miscConds": [],
+                        "key": "52-2016CF000004-1-1",
+                        "dispoCtofc": "Sharp, William Andrew",
+                        "timeConds": [],
+                        "dispoDesc": null,
+                        "probByCase": null,
+                        "sentDate": null,
+                        "isConverted": false,
+                        "reOpenedEvent": null,
+                        "action": "Guilty Due to No Contest Plea"
+                    },
+                    {
+                        "supervisions": [
+                            {
+                                "superMiscConds": [],
+                                "descr": "Probation, Sent Withheld",
+                                "key": "52-2016CF000004-1-2-1",
+                                "notes": "Conditions:\n\nAttend, pay for, and successfully complete any treatment or education ordered by the agent.\n\nPay court costs and costs of supervision.\n\n0 days credit in the event of revocation.\nConcurrent with: 16CF65",
+                                "time": "2 Years",
+                                "isShowConds": true,
+                                "superTimeConds": [],
+                                "beginDate": null
+                            }
+                        ],
+                        "orderDate": "2016-03-02",
+                        "isModified": false,
+                        "superAgency": null,
+                        "miscConds": [
+                            {
+                                "key": "mc-52-2016CF000004-1-2-1",
+                                "descr": "Costs",
+                                "notes": "If probation is revoked or discharged with outstanding financial obligations, a civil judgment shall be entered against the defendant in favor of restitution victims and/or governmental entities for the balance due. All available enforcement actions will be used to collect the debt."
+                            }
+                        ],
+                        "key": "52-2016CF000004-1-2",
+                        "dispoCtofc": "Sharp, William Andrew",
+                        "timeConds": [],
+                        "dispoDesc": null,
+                        "probByCase": null,
+                        "sentDate": "2016-07-13",
+                        "isConverted": false,
+                        "reOpenedEvent": null,
+                        "action": "Guilty Due to No Contest Plea"
+                    },
+                    {
+                        "supervisions": [
+                            {
+                                "superMiscConds": [],
+                                "descr": "State Prison",
+                                "key": "52-2016CF000004-1-3-2",
+                                "notes": "Dodge Correctional as the reception center.",
+                                "time": "2 Years",
+                                "isShowConds": false,
+                                "superTimeConds": [],
+                                "beginDate": "2018-02-20"
+                            },
+                            {
+                                "superMiscConds": [],
+                                "descr": "Extended Supervision",
+                                "key": "52-2016CF000004-1-3-1",
+                                "notes": "Defendant to attend, pay for, and successfully complete any programming ordered by the supervising agent. Costs from the original JOC in this case have been converted to a civil judgment.",
+                                "time": "2 Years",
+                                "isShowConds": false,
+                                "superTimeConds": [],
+                                "beginDate": null
+                            }
+                        ],
+                        "orderDate": "2016-03-02",
+                        "isModified": false,
+                        "superAgency": null,
+                        "miscConds": [],
+                        "key": "52-2016CF000004-1-3",
+                        "dispoCtofc": "Sharp, William Andrew",
+                        "timeConds": [],
+                        "dispoDesc": null,
+                        "probByCase": null,
+                        "sentDate": "2018-02-20",
+                        "isConverted": false,
+                        "reOpenedEvent": {
+                            "descr": "Probation revoked",
+                            "eventDate": "2018-01-30"
+                        },
+                        "action": "Guilty Due to No Contest Plea"
+                    }
+                ],
+                "pleaDate": "2016-03-02",
+                "descr": "Strangulation and Suffocation",
+                "offenseDate": "2015-11-23",
+                "id": "52-2016CF000004-1",
+                "pleaDescr": "No Contest",
+                "chargeModifiers": [
+                    {
+                        "modSeqNo": 1,
+                        "statuteCite": "968.075(1)(a)",
+                        "descr": "Domestic Abuse"
+                    }
+                ],
+                "dispoDesc": "Guilty Due to No Contest Plea",
+                "statuteCite": "940.235(1)",
+                "severity": "Felony H",
+                "chargeNo": 1,
+                "isSummaryCandidate": true
+            },
+            {
+                "judgments": [
+                    {
+                        "supervisions": [
+                            {
+                                "superMiscConds": [],
+                                "descr": "Probation, Sent Withheld",
+                                "key": "52-2016CF000004-2-1-1",
+                                "notes": "Conditions:\n\nPay costs of supervision and court costs.\n\nAttend, pay for, and successfully complete a 24- or 26-week domestic abuse education class.\n\n1 day credit in the event of revocation.",
+                                "time": "2 Years",
+                                "isShowConds": true,
+                                "superTimeConds": [],
+                                "beginDate": null
+                            }
+                        ],
+                        "orderDate": "2016-03-02",
+                        "isModified": false,
+                        "superAgency": null,
+                        "miscConds": [
+                            {
+                                "key": "mc-52-2016CF000004-2-1-1",
+                                "descr": "Costs",
+                                "notes": "If probation is revoked or discharged with outstanding financial obligations, a civil judgment shall be entered against the defendant in favor of restitution victims and/or governmental entities for the balance due. All available enforcement actions will be used to collect the debt.\n\n"
+                            }
+                        ],
+                        "key": "52-2016CF000004-2-1",
+                        "dispoCtofc": "Sharp, William Andrew",
+                        "timeConds": [],
+                        "dispoDesc": null,
+                        "probByCase": null,
+                        "sentDate": "2016-03-02",
+                        "isConverted": false,
+                        "reOpenedEvent": null,
+                        "action": "Guilty Due to No Contest Plea"
+                    },
+                    {
+                        "supervisions": [
+                            {
+                                "superMiscConds": [],
+                                "descr": "Local Jail",
+                                "key": "52-2016CF000004-2-2-1",
+                                "notes": "With huber and 61 days credit.  Costs from the original JOC have been converted to a civil judgment owed by the Defendant to the Clerk of Court.",
+                                "time": "9 Months",
+                                "isShowConds": false,
+                                "superTimeConds": [],
+                                "beginDate": "2016-07-13"
+                            }
+                        ],
+                        "orderDate": "2016-03-02",
+                        "isModified": false,
+                        "superAgency": null,
+                        "miscConds": [],
+                        "key": "52-2016CF000004-2-2",
+                        "dispoCtofc": "Sharp, William Andrew",
+                        "timeConds": [],
+                        "dispoDesc": null,
+                        "probByCase": null,
+                        "sentDate": "2016-07-13",
+                        "isConverted": false,
+                        "reOpenedEvent": {
+                            "descr": "Probation revoked",
+                            "eventDate": "2016-06-27"
+                        },
+                        "action": "Guilty Due to No Contest Plea"
+                    }
+                ],
+                "pleaDate": "2016-03-02",
+                "descr": "Battery",
+                "offenseDate": "2015-11-23",
+                "id": "52-2016CF000004-2",
+                "pleaDescr": "No Contest",
+                "chargeModifiers": [
+                    {
+                        "modSeqNo": 1,
+                        "statuteCite": "968.075(1)(a)",
+                        "descr": "Domestic Abuse"
+                    }
+                ],
+                "dispoDesc": "Guilty Due to No Contest Plea",
+                "statuteCite": "940.19(1)",
+                "severity": "Misd. A",
+                "chargeNo": 2,
+                "isSummaryCandidate": true
+            },
+            {
+                "judgments": [
+                    {
+                        "supervisions": [],
+                        "orderDate": "2016-03-02",
+                        "isModified": false,
+                        "superAgency": null,
+                        "miscConds": [],
+                        "key": "52-2016CF000004-3-1",
+                        "dispoCtofc": "Sharp, William Andrew",
+                        "timeConds": [],
+                        "dispoDesc": null,
+                        "probByCase": null,
+                        "sentDate": null,
+                        "isConverted": false,
+                        "reOpenedEvent": null,
+                        "action": "Dismissed on Prosecutor's Motion"
+                    }
+                ],
+                "pleaDate": null,
+                "descr": "Disorderly Conduct",
+                "offenseDate": "2015-11-23",
+                "id": "52-2016CF000004-3",
+                "pleaDescr": null,
+                "chargeModifiers": [
+                    {
+                        "modSeqNo": 1,
+                        "statuteCite": "968.075(1)(a)",
+                        "descr": "Domestic Abuse"
+                    }
+                ],
+                "dispoDesc": "Dismissed on Prosecutor's Motion",
+                "statuteCite": "947.01(1)",
+                "severity": "Misd. B",
+                "chargeNo": 3,
+                "isSummaryCandidate": true
+            }
+        ],
+        "crossReferenced": [],
+        "caption": "State of Wisconsin vs. Justin D. Henderson",
+        "status": "Closed",
+        "filingDate": "2016-01-06",
+        "defendant": {
+            "attys": [
+                {
+                    "name": "McDougal, Lisa A",
+                    "withdrawn": "2018-01-30",
+                    "key": "52-2016CF000004-1-1025894-2016-01-06",
+                    "isGal": false,
+                    "entered": "2016-01-06"
+                },
+                {
+                    "name": "McDougal, Lisa A",
+                    "withdrawn": "2019-02-27",
+                    "key": "52-2016CF000004-1-1025894-2018-01-30",
+                    "isGal": false,
+                    "entered": "2018-01-30"
+                }
+            ],
+            "name": "Henderson, Justin D.",
+            "partyNo": 1,
+            "dob": "1983-07-08",
+            "fingerprintId": null,
+            "inclGal": false,
+            "effDate": "2020-01-29",
+            "sex": "Male",
+            "alias": [],
+            "race": "Caucasian",
+            "status": null,
+            "address": "927 State Road 80 & 133, Avoca, WI 53506",
+            "type": "Defendant",
+            "justisNo": null,
+            "sealed": false
+        },
+        "respCtofc": "Sharp, William Andrew",
+        "available": true,
+        "isCriminal": true,
+        "caseType": "CF",
+        "records": [
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Notice of case status change",
+                "amount": null,
+                "key": "52-2016CF000004-70",
+                "ctofc": null,
+                "date": "2021-08-16",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Discharge Certificate",
+                "amount": null,
+                "key": "52-2016CF000004-69",
+                "ctofc": null,
+                "date": "2021-08-13",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "ADDRESS INFO for Justin D. Henderson\nCurrent: 927 State Road 80 & 133, Avoca, WI 53506 United States  (Effective: 01-29-2020)\nPrior: PO Box 233, Jackson Correctional Institution, Black River Falls, WI 54615 United States\n",
+                "parties": [
+                    {
+                        "sealed": false,
+                        "name": "Henderson, Justin D."
+                    }
+                ],
+                "descr": "Change of address notification",
+                "amount": null,
+                "key": "52-2016CF000004-67",
+                "ctofc": null,
+                "date": "2020-01-29",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Petition for sentence adjust denied-public interst",
+                "amount": null,
+                "key": "52-2016CF000004-68",
+                "ctofc": null,
+                "date": "2019-04-12",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "AP's letter to the Court on behalf of Def/Petitioner's request for adjustment",
+                "parties": [],
+                "descr": "Letters/correspondence",
+                "amount": null,
+                "key": "52-2016CF000004-66",
+                "ctofc": null,
+                "date": "2019-04-12",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Petition for Sentence Adjustment is denied. Court notes Court's comments at sentencing and the District Attorney's objection to the request for adjustment. (Order distributed to all parties including the Petitioner.)",
+                "parties": [],
+                "descr": "Order concerning sentence adjustment",
+                "amount": null,
+                "key": "52-2016CF000004-65",
+                "ctofc": "Sharp, William Andrew",
+                "date": "2019-04-12",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "DA Response on Petition for Sentence Adjustment - DA objects\n\n(This document has been mailed to the Defendant at Jackson Correctional. Clerk has asked the Court for direction as to whom prepares the order re sentence adjustment.)",
+                "parties": [],
+                "descr": "Response/reply",
+                "amount": null,
+                "key": "52-2016CF000004-62",
+                "ctofc": null,
+                "date": "2019-04-05",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "ADDRESS INFO for Justin D. Henderson\nCurrent: PO Box 233, Jackson Correctional Institution, Black River Falls, WI 54615 United States  (Effective: 02-27-2019)\nPrior: 340 W Court St, Richland Center, WI 53581 United States\n",
+                "parties": [
+                    {
+                        "sealed": false,
+                        "name": "Henderson, Justin D."
+                    }
+                ],
+                "descr": "Change of address notification",
+                "amount": null,
+                "key": "52-2016CF000004-61",
+                "ctofc": null,
+                "date": "2019-02-27",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Notice to D.A./D.A. response on pet. for sent. adj",
+                "amount": null,
+                "key": "52-2016CF000004-60",
+                "ctofc": null,
+                "date": "2019-02-27",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "from Defendant",
+                "parties": [],
+                "descr": "Letters/correspondence",
+                "amount": null,
+                "key": "52-2016CF000004-59",
+                "ctofc": null,
+                "date": "2019-02-27",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Verification of time served",
+                "amount": null,
+                "key": "52-2016CF000004-58",
+                "ctofc": null,
+                "date": "2019-02-27",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Petition for sentence adjustment",
+                "amount": null,
+                "key": "52-2016CF000004-57",
+                "ctofc": null,
+                "date": "2019-02-27",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Sentencing Hearing - 02-20-18",
+                "parties": [],
+                "descr": "Transcript",
+                "amount": null,
+                "key": "52-2016CF000004-56",
+                "ctofc": null,
+                "date": "2018-03-19",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "ADDRESS INFO for Justin D. Henderson\nCurrent: 340 W Court St, Richland Center, WI 53581 United States  (Effective: 02-21-2018)\nPrior: 6590 Riverview Lane, Lot CKen, Boscobel, WI 53805 United States\n",
+                "parties": [
+                    {
+                        "sealed": false,
+                        "name": "Henderson, Justin D."
+                    }
+                ],
+                "descr": "Change of address notification",
+                "amount": null,
+                "key": "52-2016CF000004-54",
+                "ctofc": null,
+                "date": "2018-02-21",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Assessment Report",
+                "amount": null,
+                "key": "52-2016CF000004-53",
+                "ctofc": null,
+                "date": "2018-02-20",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Judgment of conviction following revocation",
+                "amount": null,
+                "key": "52-2016CF000004-52",
+                "ctofc": "Sharp, William Andrew",
+                "date": "2018-02-20",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Dispositional order/judgment",
+                "amount": null,
+                "key": "52-2016CF000004-51",
+                "ctofc": "Sharp, William Andrew",
+                "date": "2018-02-20",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "16CF04 and 16CF65 called together for sentencing after revocation. Attorney Lisa A McDougal in court for Defendant Justin D. Henderson. Prosecuting Atty Forehand appeared for State of Wisconsin.  Atty Forehand requests consecutive sentences. Atty McDougal asks the Court to follow the recommendation of the agent. Defendant addresses the court. Atty McDougal reads statement of SO. DD gives her statement. \n\nCourt orders as follows:\n\n16CF04\nCount 1\n4 year total sentence in the WI prison system with 2 years as initial confinement and 2 years as extended supervision. Dodge Correctional as reception center. Def to be eligible for any/all treatment programming. 190 days credit. \n\n16CF65\nCount 1 - 90 days jail, concurrent with 16CF04 \nCount 2 - 30 days jail, concurrent with count 1 and 16CF04\nCount 3 - 30 days jail, concurrent with 16CF4 and counts 1 and 2 of this case\n\nCosts from the original JOC's to be converted into civil judgments.",
+                "parties": [],
+                "descr": "Sentencing hearing on revocation",
+                "amount": null,
+                "key": "52-2016CF000004-50",
+                "ctofc": "Sharp, William Andrew",
+                "date": "2018-02-20",
+                "courtRptr": "Kaderavek, Susan M."
+            },
+            {
+                "addlTxt": "RCSD Book and Release packet, signed by Defendant and RCSD investigator TJ on 2/13/18 and by Judge Sharp on 2/14/18",
+                "parties": [],
+                "descr": "Signature bond signed",
+                "amount": 10000.00,
+                "key": "52-2016CF000004-55",
+                "ctofc": null,
+                "date": "2018-02-14",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [
+                    {
+                        "sealed": false,
+                        "name": "Henderson, Justin D."
+                    }
+                ],
+                "descr": "Signature bond set",
+                "amount": 10000.00,
+                "key": "52-2016CF000004-49",
+                "ctofc": null,
+                "date": "2018-02-13",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Revocation Order and Warrant",
+                "amount": null,
+                "key": "52-2016CF000004-48",
+                "ctofc": null,
+                "date": "2018-02-01",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Sentencing hearing on revocation on February 20, 2018 at 09:00 am.",
+                "parties": [],
+                "descr": "Notice of hearing",
+                "amount": null,
+                "key": "52-2016CF000004-47",
+                "ctofc": null,
+                "date": "2018-01-30",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Sentencing hearing on revocation on February 20, 2018 at 09:00 am.",
+                "parties": [],
+                "descr": "Notice of hearing",
+                "amount": null,
+                "key": "52-2016CF000004-46",
+                "ctofc": null,
+                "date": "2018-01-30",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Electronic Filing Notice Mailed",
+                "amount": null,
+                "key": "52-2016CF000004-45",
+                "ctofc": null,
+                "date": "2018-01-30",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Case Converted to Electronic Filing",
+                "amount": null,
+                "key": "52-2016CF000004-44",
+                "ctofc": null,
+                "date": "2018-01-30",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Sentencing hearing on revocation on February 15, 2018 at 11:00 am.",
+                "parties": [],
+                "descr": "Notice of hearing",
+                "amount": null,
+                "key": "52-2016CF000004-43",
+                "ctofc": null,
+                "date": "2018-01-30",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "(Clerk notes that a $100 da surcharge had been imposed in this matter at the original time of sentencing but does not appear in the DOC's summary; it has been made part of the civil judgment as allowed by the JOC.)",
+                "parties": [],
+                "descr": "Judgment for unpaid fine/forfeiture/other",
+                "amount": 541.33,
+                "key": "52-2016CF000004-42",
+                "ctofc": null,
+                "date": "2018-01-30",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Probation revoked",
+                "amount": null,
+                "key": "52-2016CF000004-41",
+                "ctofc": "Sharp, William Andrew",
+                "date": "2018-01-30",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Records of prosec. are converted data. See file.",
+                "amount": null,
+                "key": "52-2016CF000004-40",
+                "ctofc": null,
+                "date": "2017-11-15",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "ADDRESS INFO for Justin D. Henderson\nCurrent: 6590 Riverview Lane, Lot CKen, Boscobel, WI 53805 United States  (Effective: 01-19-2017)\nPrior: 413 N. Pearl Street, Richland Center, WI 53581 \n",
+                "parties": [
+                    {
+                        "sealed": false,
+                        "name": "Henderson, Justin D."
+                    }
+                ],
+                "descr": "Change of address notification",
+                "amount": null,
+                "key": "52-2016CF000004-39",
+                "ctofc": null,
+                "date": "2017-01-19",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Letter from JDH to Judge Sharp - Requesting furlough; Judge's response letter to JDH - Request denied",
+                "parties": [],
+                "descr": "Letters/correspondence",
+                "amount": null,
+                "key": "52-2016CF000004-38",
+                "ctofc": null,
+                "date": "2016-08-18",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Notice of case status change",
+                "amount": null,
+                "key": "52-2016CF000004-37",
+                "ctofc": null,
+                "date": "2016-07-26",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "from DOC - \"DOC Offender Status Rescinded\" - \"Offender received new probation prior to T# assignment\" (DOC still has custody of this case)",
+                "parties": [],
+                "descr": "Letters/correspondence",
+                "amount": null,
+                "key": "52-2016CF000004-36",
+                "ctofc": null,
+                "date": "2016-07-25",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "revoked",
+                "parties": [],
+                "descr": "Notice of case status change",
+                "amount": null,
+                "key": "52-2016CF000004-35",
+                "ctofc": null,
+                "date": "2016-07-18",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Assessment Report",
+                "amount": null,
+                "key": "52-2016CF000004-34",
+                "ctofc": "Sharp, William Andrew",
+                "date": "2016-07-13",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Judgment of conviction",
+                "amount": null,
+                "key": "52-2016CF000004-33",
+                "ctofc": "Sharp, William Andrew",
+                "date": "2016-07-13",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Judgment of conviction following revocation",
+                "amount": null,
+                "key": "52-2016CF000004-32",
+                "ctofc": "Sharp, William Andrew",
+                "date": "2016-07-13",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Dispositional order/judgment",
+                "amount": null,
+                "key": "52-2016CF000004-30",
+                "ctofc": "Sharp, William Andrew",
+                "date": "2016-07-13",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Agreement revoked",
+                "amount": null,
+                "key": "52-2016CF000004-29",
+                "ctofc": "Sharp, William Andrew",
+                "date": "2016-07-13",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "16CF4/sentencing after revocation with State's motion to revoke DPA and 16CF65/plea and sentencing.  Defendant Justin D. Henderson in court, in custody, with attorney Lisa A McDougal. Prosecuting Atty Amy Elizabeth Forehand appeared for State of Wisconsin.  Atty. M informs the Court that the parties have a recommendation for sentencing and sentencing after rev - in 16CF65, def to be pleading to counts 1, 2 (as amended to misd. poss. thc), and 3 for dismissal of count 4; in 16CF4/revocation matter, parties ask for 2 years probation on revoked DPA count 1 and 9 months jail on probation-revoked count 2.\n\n16CF65 - Def pleads no contest to counts 1, 2 (as amended to misd. THC possession), and 3.  Court's colloquy on pleas.  Finding of guilty.  \n\n16CF4 - Court grants State's motion to revoke Count 1 DPA.  Def has 61 days credit in this case.\n\nSentence:\n\n16CF4 - count 1, and counts 1-3 in 16CF65 - 2 years probation with conditions that def attend, pay for, and succ. complete any treatment/education ordered by agent; pay costs. 0 days credit in the event of revocation.\n\n16CF4 - count 2 - 9 months jail with 61 days credit.  Huber granted.",
+                "parties": [],
+                "descr": "Sentencing hearing on revocation",
+                "amount": null,
+                "key": "52-2016CF000004-28",
+                "ctofc": "Sharp, William Andrew",
+                "date": "2016-07-13",
+                "courtRptr": "Kaderavek, Susan M."
+            },
+            {
+                "addlTxt": "Sentencing hearing on revocation on July 13, 2016 at 10:00 am.",
+                "parties": [],
+                "descr": "Notice of hearing",
+                "amount": null,
+                "key": "52-2016CF000004-27",
+                "ctofc": null,
+                "date": "2016-06-30",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Judgment for unpaid fine/forfeiture/other",
+                "amount": 514.43,
+                "key": "52-2016CF000004-26",
+                "ctofc": null,
+                "date": "2016-06-30",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "for Civil Judgment for Court Ordered Financial Obligations",
+                "parties": [],
+                "descr": "Petition",
+                "amount": null,
+                "key": "52-2016CF000004-25",
+                "ctofc": null,
+                "date": "2016-06-28",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Revocation Order and Warrant",
+                "amount": null,
+                "key": "52-2016CF000004-23",
+                "ctofc": null,
+                "date": "2016-06-28",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Probation revoked",
+                "amount": null,
+                "key": "52-2016CF000004-24",
+                "ctofc": "Sharp, William Andrew",
+                "date": "2016-06-27",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "State",
+                "parties": [],
+                "descr": "Public defender order appointing counsel",
+                "amount": null,
+                "key": "52-2016CF000004-22",
+                "ctofc": null,
+                "date": "2016-06-27",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Diversion Agreement",
+                "parties": [],
+                "descr": "Other papers",
+                "amount": null,
+                "key": "52-2016CF000004-21",
+                "ctofc": null,
+                "date": "2016-03-02",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Amended signature bond signed",
+                "amount": 5000.00,
+                "key": "52-2016CF000004-20",
+                "ctofc": null,
+                "date": "2016-03-02",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Plea questionnaire, waiver of rights",
+                "amount": null,
+                "key": "52-2016CF000004-19",
+                "ctofc": null,
+                "date": "2016-03-02",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Information",
+                "amount": null,
+                "key": "52-2016CF000004-18",
+                "ctofc": null,
+                "date": "2016-03-02",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Previous no contact conditions removed.",
+                "parties": [
+                    {
+                        "sealed": false,
+                        "name": "Henderson, Justin D."
+                    }
+                ],
+                "descr": "Signature bond amended",
+                "amount": 5000.00,
+                "key": "52-2016CF000004-17",
+                "ctofc": null,
+                "date": "2016-03-02",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Assessment Report",
+                "amount": null,
+                "key": "52-2016CF000004-16",
+                "ctofc": "Sharp, William Andrew",
+                "date": "2016-03-02",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Judgment of conviction",
+                "amount": null,
+                "key": "52-2016CF000004-15",
+                "ctofc": "Sharp, William Andrew",
+                "date": "2016-03-02",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Deferred agreement",
+                "amount": null,
+                "key": "52-2016CF000004-14",
+                "ctofc": "Sharp, William Andrew",
+                "date": "2016-03-02",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Defendant Justin D. Henderson in court with attorney Lisa A McDougal. Prosecuting Atty Jennifer M. Harper appeared for State of Wisconsin. Counsel advise the Court that the parties have an agreement for resolution whereby def will waive his right to prelim and enter pleas to counts 1 and 2 for a DPA on count 1 and probation on count 2.  Court's colloquy re prelim waiver.  Def pleads no contest to counts 1 and 2.  Court's colloquy on pleas.  Finding of guilty on both counts.  \n\nDPA ordered on count 1.  \n\nDefense asks for bond with no special conditions (asks Court to remove the no contact conditions).\n\nCount 2 - sentence withheld for probation of 2 years with conditions that he attend, pay for, and successfully complete a 24- to 26-week domestic abuse education class.  Costs also.  \n\nCourt orders amendment of bond - amount the same; no special conditions.\n\nCount 3 dismissed.\n\n1 day credit in the event of revocation.",
+                "parties": [],
+                "descr": "Plea/sentencing hearing",
+                "amount": null,
+                "key": "52-2016CF000004-13",
+                "ctofc": "Sharp, William Andrew",
+                "date": "2016-03-02",
+                "courtRptr": "Kaderavek, Susan M."
+            },
+            {
+                "addlTxt": "Status conference at 03-02-2016 10:00 am",
+                "parties": [],
+                "descr": "Notice of hearing",
+                "amount": null,
+                "key": "52-2016CF000004-12",
+                "ctofc": null,
+                "date": "2016-02-29",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Status conference at 02-29-2016 10:00 am",
+                "parties": [],
+                "descr": "Notice of hearing",
+                "amount": null,
+                "key": "52-2016CF000004-11",
+                "ctofc": null,
+                "date": "2016-02-24",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Defendant Justin D. Henderson in court with attorney Lisa A McDougal. Prosecuting Atty Amy Elizabeth Forehand appeared for State of Wisconsin. Counsel asks for status scheduling - def plans to enter a plea on 2/29.  Status conference scheduled for February 29, 2016 at 10:00 am.",
+                "parties": [],
+                "descr": "Adjourned initial appearance",
+                "amount": null,
+                "key": "52-2016CF000004-10",
+                "ctofc": "Sharp, William Andrew",
+                "date": "2016-02-24",
+                "courtRptr": "Kaderavek, Susan M."
+            },
+            {
+                "addlTxt": "Adjourned initial appearance at 02-24-2016 01:30 pm",
+                "parties": [],
+                "descr": "Notice of hearing",
+                "amount": null,
+                "key": "52-2016CF000004-9",
+                "ctofc": null,
+                "date": "2016-02-02",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Demand for discovery and inspection",
+                "amount": null,
+                "key": "52-2016CF000004-8",
+                "ctofc": null,
+                "date": "2016-01-25",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Public defender order appointing counsel",
+                "amount": null,
+                "key": "52-2016CF000004-7",
+                "ctofc": null,
+                "date": "2016-01-19",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Adjourned initial appearance at 02-03-2016 01:30 pm",
+                "parties": [],
+                "descr": "Notice of hearing",
+                "amount": null,
+                "key": "52-2016CF000004-6",
+                "ctofc": null,
+                "date": "2016-01-06",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Defendant Justin D. Henderson in court with attorney Lisa A McDougal. Prosecuting Atty Amy Forehand appeared for State of Wisconsin.  Charges and rights stated.  Prelim time limits waived.  Atty. M states that def is asking for amendment of bond to delete the no contact or change it to \"no abusive or profance contact.\"  ADA Forehand notes victim did contact DA's office re that request; State is opposed; reasons stated by ADA Forehand.  Court denies the request to amend bond.  Matter adj. to 2/3 at 1:30 - AIA as reminder that prelim not yet held.  Adjourned initial appearance scheduled for February 3, 2016 at 01:30 pm.",
+                "parties": [],
+                "descr": "Initial appearance",
+                "amount": null,
+                "key": "52-2016CF000004-5",
+                "ctofc": "Sharp, William Andrew",
+                "date": "2016-01-06",
+                "courtRptr": "Kaderavek, Susan M."
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Complaint filed",
+                "amount": null,
+                "key": "52-2016CF000004-1",
+                "ctofc": null,
+                "date": "2016-01-06",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Signature bond signed",
+                "amount": 5000.00,
+                "key": "52-2016CF000004-4",
+                "ctofc": null,
+                "date": "2015-11-23",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [
+                    {
+                        "sealed": false,
+                        "name": "Henderson, Justin D."
+                    }
+                ],
+                "descr": "Signature bond set",
+                "amount": 5000.00,
+                "key": "52-2016CF000004-3",
+                "ctofc": null,
+                "date": "2015-11-23",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "written minutes",
+                "parties": [],
+                "descr": "Bail/bond hearing",
+                "amount": null,
+                "key": "52-2016CF000004-2",
+                "ctofc": "Sharp, William Andrew",
+                "date": "2015-11-23",
+                "courtRptr": "Kaderavek, Susan M."
+            }
+        ],
+        "prosAgency": "District Attorney",
+        "citations": [],
+        "defAttys": [],
+        "balanceDue": 1183.12,
+        "allowPurchase": false
+    },
+    "view": {
+        "caseNo": {
+            "value": "2016CF000004"
+        },
+        "countyNo": {
+            "value": 52
+        }
+    }
+}
