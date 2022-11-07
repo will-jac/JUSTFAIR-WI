@@ -1,1 +1,1901 @@
-{"result":{"parties":[],"classType":"Criminal","showRssButton":true,"receivables":[{"atCollections":false,"key":"14-354811","rcvblNo":354811,"paymentDue":50.00,"countyNo":14,"dueDate":"2016-05-27","type":"P","atSdc":false,"balanceDue":876.00}],"countyName":"Dodge","isReopenedRemandedFromAppeal":false,"daCaseNo":"2015DD000011","activities":[],"payplanLink":"payPlanDetail.html?countyNo=14&payPlanNo=354811","chargeHist":[{"replacedBy":"Information Filed","descr":"Strangulation and Suffocation","seqNo":1,"id":"14-2015CF000002-1","dispoDesc":null,"statuteCite":"940.235(1)","severity":"Felony H","chargeNo":1,"isConverted":false},{"replacedBy":"Information Filed","descr":"False Imprisonment","seqNo":2,"id":"14-2015CF000002-2","dispoDesc":null,"statuteCite":"940.30","severity":"Felony H","chargeNo":2,"isConverted":false}],"prosAtty":"Sempf, James T.","maintenance":"Electronic filing","caseNo":"2015CF000002","execSummary":"<p data-section-name=\"guiltyPreamble\">\n    The defendant Kareen R Hayes was found guilty\n    of the following <nobr>charge(s)</nobr> in this case.\n    \n    \n  </p><ul><li><div data-section-name=\"guiltyCriminal\">\n    <span class=\"leadIn\"/>\n    Strangulation and Suffocation [Modifiers: Domestic Abuse Assessments, Repeater],\n    a class H felony,\n    Wisconsin Statutes\n    940.235(1).\n  </div></li><li><div data-section-name=\"guiltyCriminal\">\n    <span class=\"leadIn\"/>\n    Intimidate Victim/Dissuade Reporting [Modifiers: Domestic Abuse Assessments, Repeater],\n    a class A misdemeanor,\n    Wisconsin Statutes\n    940.44(1).\n  </div></li></ul><div data-section-name=\"readIn\">\n    <p>\n      <nobr>Charge(s)</nobr> in this case were read in to this or other\n      <nobr>case(s).</nobr> A &quot;read in&quot; charge is a charge that is dismissed as\n      part of a plea agreement, however:\n    </p>\n    <ul>\n      <li>\n        The defendant agrees to have the court consider the\n        <nobr>charge(s)</nobr> when sentencing for another crime, under Wis.\n        Stats. 973.20(1g)(b); and\n      </li>\n      <li>\n        The defendant cannot be prosecuted for these <nobr>charge(s)</nobr> in\n        the future.\n      </li>\n    </ul>\n  </div><p data-section-name=\"notice\">\n    <strong>Notice to employers:</strong> It may be a violation of state law to\n    discriminate against a job applicant because of an arrest or conviction\n    record.  Generally speaking, an employer may refuse to hire an applicant on\n    the basis of a conviction only if the circumstances of the conviction\n    substantially relate to the particular job. For more information, see\n    <a href=\"http://docs.legis.wisconsin.gov/statutes/statutes/111/II/335\" rel=\"noopener noreferrer\" target=\"_blank\">Wisconsin Statute 111.335</a>\n    and the Department of Workforce Development's publication,\n    <cite><a href=\"https://dwd.wisconsin.gov/er/civilrights/discrimination/arrest.htm\" rel=\"noopener noreferrer\" target=\"_blank\">Arrest and Conviction Records under the Law</a></cite>.\n  </p>","warrants":[],"civilJdgmts":[],"branchId":"2","documents":[],"wcisClsCode":"Other Bodily Security","tac":null,"countyNo":14,"charges":[{"judgments":[{"supervisions":[{"superMiscConds":[],"descr":"Probation, Sent Withheld","key":"14-2015CF000002-3-1-1","notes":"All Financial obligations shall be paid to the Clerk of Courts within 60 days unless a payment plan is established.","time":"2 Years","isShowConds":true,"superTimeConds":[],"beginDate":null}],"orderDate":"2016-03-16","isModified":false,"superAgency":null,"miscConds":[{"key":"mc-14-2015CF000002-3-1-1","descr":"Costs","notes":null},{"key":"mc-14-2015CF000002-3-1-2","descr":"Firearms/Weapons Restriction","notes":null},{"key":"mc-14-2015CF000002-3-1-3","descr":"Psych treatment","notes":"Shall undergo and follow through with any counseling as directed by agent"},{"key":"mc-14-2015CF000002-3-1-4","descr":"Prohibitions","notes":"Defendant shall not have any direct or indirect contact or communication with victim;  Defendant shall not have any violent or abusive contact with anyone."},{"key":"mc-14-2015CF000002-3-1-5","descr":"Other","notes":"Shall submit a DNA sample"}],"key":"14-2015CF000002-3-1","dispoCtofc":"Storck, John R.","timeConds":[],"dispoDesc":null,"probByCase":null,"sentDate":"2016-03-16","isConverted":false,"reOpenedEvent":null,"action":"Guilty Due to No Contest Plea"},{"supervisions":[{"superMiscConds":[],"descr":"State Prison","key":"14-2015CF000002-3-2-2","notes":"in Wisconsin State Prison System concurrent. Defendant is entitled to 453 days presentence credit.\nConcurrent with: ","time":"3 Years","isShowConds":false,"superTimeConds":[],"beginDate":null},{"superMiscConds":[{"key":"smc-14-2015CF000002-3-2-1-1","descr":"Prohibitions","notes":"Defendant shall not have any direct or indirect contact or communication with the victim."},{"key":"smc-14-2015CF000002-3-2-1-2","descr":"Other","notes":"Defendant shall undergo and follow through with any counseling as recommended by Agent."},{"key":"smc-14-2015CF000002-3-2-1-3","descr":"Alcohol assessment","notes":"Defendant shall undergo an AODA Assessment and follow through with any recommendations resulting therefrom."},{"key":"smc-14-2015CF000002-3-2-1-4","descr":"Costs","notes":"Civil judgment to be entered for unpaid financials."}],"descr":"Extended Supervision","key":"14-2015CF000002-3-2-1","notes":null,"time":"2 Years","isShowConds":false,"superTimeConds":[],"beginDate":null}],"orderDate":"2016-03-16","isModified":false,"superAgency":null,"miscConds":[],"key":"14-2015CF000002-3-2","dispoCtofc":"De Vries, Martin J.","timeConds":[],"dispoDesc":null,"probByCase":null,"sentDate":"2017-02-24","isConverted":false,"reOpenedEvent":{"descr":"Probation revoked","eventDate":"2017-02-24"},"action":"Guilty Due to No Contest Plea"}],"pleaDate":"2016-03-16","descr":"Strangulation and Suffocation","offenseDate":"2015-01-04","id":"14-2015CF000002-3","pleaDescr":"No Contest","chargeModifiers":[{"modSeqNo":1,"statuteCite":"973.055(1)","descr":"Domestic Abuse Assessments"},{"modSeqNo":2,"statuteCite":"939.62(1)(b)","descr":"Repeater"}],"dispoDesc":"Guilty Due to No Contest Plea","statuteCite":"940.235(1)","severity":"Felony H","chargeNo":1,"isSummaryCandidate":true},{"judgments":[{"supervisions":[],"orderDate":"2016-03-16","isModified":false,"superAgency":null,"miscConds":[],"key":"14-2015CF000002-4-1","dispoCtofc":"Storck, John R.","timeConds":[],"dispoDesc":null,"probByCase":null,"sentDate":null,"isConverted":false,"reOpenedEvent":null,"action":"Charge Dismissed but Read In"}],"pleaDate":null,"descr":"False Imprisonment","offenseDate":"2015-01-04","id":"14-2015CF000002-4","pleaDescr":null,"chargeModifiers":[{"modSeqNo":1,"statuteCite":"973.055(1)","descr":"Domestic Abuse Assessments"},{"modSeqNo":2,"statuteCite":"939.62(1)(b)","descr":"Repeater"}],"dispoDesc":"Charge Dismissed but Read In","statuteCite":"940.30","severity":"Felony H","chargeNo":2,"isSummaryCandidate":true},{"judgments":[{"supervisions":[{"superMiscConds":[],"descr":"Probation, Sent Withheld","key":"14-2015CF000002-5-1-1","notes":null,"time":"2 Years","isShowConds":true,"superTimeConds":[],"beginDate":null}],"orderDate":"2016-03-16","isModified":false,"superAgency":null,"miscConds":[{"key":"mc-14-2015CF000002-5-1-1","descr":"Costs","notes":null},{"key":"mc-14-2015CF000002-5-1-2","descr":"Psych treatment","notes":"Same as count 1"},{"key":"mc-14-2015CF000002-5-1-3","descr":"Prohibitions","notes":"Same as count 1"},{"key":"mc-14-2015CF000002-5-1-4","descr":"Other","notes":"Same as count 1"}],"key":"14-2015CF000002-5-1","dispoCtofc":"Storck, John R.","timeConds":[],"dispoDesc":null,"probByCase":null,"sentDate":"2016-03-16","isConverted":false,"reOpenedEvent":null,"action":"Guilty Due to No Contest Plea"},{"supervisions":[{"superMiscConds":[],"descr":"State Prison","key":"14-2015CF000002-5-2-2","notes":"in Wisconsin State Prison System concurrent.\nConcurrent with: Count 1.","time":"1 Years","isShowConds":false,"superTimeConds":[],"beginDate":null},{"superMiscConds":[{"key":"smc-14-2015CF000002-5-2-1-1","descr":"Prohibitions","notes":"As indicated in Count 1."},{"key":"smc-14-2015CF000002-5-2-1-2","descr":"Other","notes":"As indicated in Count 1."},{"key":"smc-14-2015CF000002-5-2-1-3","descr":"Alcohol assessment","notes":"As indicated in Count 1."},{"key":"smc-14-2015CF000002-5-2-1-4","descr":"Costs","notes":"As indicated in Count 1."}],"descr":"Extended Supervision","key":"14-2015CF000002-5-2-1","notes":"Concurrent with: ","time":"1 Years","isShowConds":false,"superTimeConds":[],"beginDate":null}],"orderDate":"2016-03-16","isModified":false,"superAgency":null,"miscConds":[],"key":"14-2015CF000002-5-2","dispoCtofc":"De Vries, Martin J.","timeConds":[],"dispoDesc":null,"probByCase":null,"sentDate":"2017-02-24","isConverted":false,"reOpenedEvent":{"descr":"Probation revoked","eventDate":"2017-02-24"},"action":"Guilty Due to No Contest Plea"}],"pleaDate":"2016-03-16","descr":"Intimidate Victim/Dissuade Reporting","offenseDate":"2015-01-04","id":"14-2015CF000002-5","pleaDescr":"No Contest","chargeModifiers":[{"modSeqNo":1,"statuteCite":"973.055(1)","descr":"Domestic Abuse Assessments"},{"modSeqNo":2,"statuteCite":"939.62(1)(a)","descr":"Repeater"}],"dispoDesc":"Guilty Due to No Contest Plea","statuteCite":"940.44(1)","severity":"Misd. A","chargeNo":3,"isSummaryCandidate":true},{"judgments":[{"supervisions":[],"orderDate":"2016-03-16","isModified":false,"superAgency":null,"miscConds":[],"key":"14-2015CF000002-6-1","dispoCtofc":"Storck, John R.","timeConds":[],"dispoDesc":null,"probByCase":null,"sentDate":null,"isConverted":false,"reOpenedEvent":null,"action":"Charge Dismissed but Read In"}],"pleaDate":null,"descr":"Disorderly Conduct","offenseDate":"2015-01-04","id":"14-2015CF000002-6","pleaDescr":null,"chargeModifiers":[{"modSeqNo":1,"statuteCite":"973.055(1)","descr":"Domestic Abuse Assessments"},{"modSeqNo":2,"statuteCite":"939.63(1)(a)","descr":"Use of a Dangerous Weapon"},{"modSeqNo":3,"statuteCite":"939.62(1)(a)","descr":"Repeater"}],"dispoDesc":"Charge Dismissed but Read In","statuteCite":"947.01(1)","severity":"Misd. B","chargeNo":4,"isSummaryCandidate":true}],"crossReferenced":[],"caption":"State of Wisconsin vs. Kareen R Hayes","status":"Closed","filingDate":"2015-01-05","defendant":{"attys":[{"name":"Jansen, Bradley J","withdrawn":"2015-06-22","key":"14-2015CF000002-1-1093824-2015-01-15","isGal":false,"entered":"2015-01-15"},{"name":"Keane, Joanne M.","withdrawn":"2015-10-14","key":"14-2015CF000002-1-1038623-2015-06-24","isGal":false,"entered":"2015-06-24"},{"name":"Mayer, William Andrew","withdrawn":"2016-12-28","key":"14-2015CF000002-1-1001031-2015-10-21","isGal":false,"entered":"2015-10-21"},{"name":"Smith, Jane Krueger","withdrawn":"2017-02-06","key":"14-2015CF000002-1-1007778-2016-12-28","isGal":false,"entered":"2016-12-28"},{"name":"Mayer, William Andrew","withdrawn":null,"key":"14-2015CF000002-1-1001031-2017-02-06","isGal":false,"entered":"2017-02-06"}],"name":"Hayes, Kareen R","partyNo":1,"dob":"1991-09-05","fingerprintId":null,"inclGal":false,"effDate":"2018-01-18","sex":"Male","alias":[],"race":"African American","status":null,"address":"200 South Madison Street, %WCI, Waupun, WI 53963","type":"Defendant","justisNo":null,"sealed":false},"respCtofc":"De Vries, Martin J.","available":true,"isCriminal":true,"caseType":"CF","records":[{"addlTxt":"ADDRESS INFO for Kareen R Hayes\nCurrent: 200 South Madison Street, %WCI, Waupun, WI 53963 United States  (Effective: 01-18-2018)\nPrior: 2161 University Drive, %Marinette County Jail, Marinette, WI 54143 United States\n","parties":[{"sealed":false,"name":"Hayes, Kareen R"}],"descr":"Change of address notification","amount":null,"key":"14-2015CF000002-136","ctofc":null,"date":"2018-01-18","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Petition for sentence adjust denied - summarily","amount":null,"key":"14-2015CF000002-135","ctofc":null,"date":"2018-01-16","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Petition for sentence adjust denied-public interst","amount":null,"key":"14-2015CF000002-134","ctofc":null,"date":"2018-01-16","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Order concerning sentence adjustment","amount":null,"key":"14-2015CF000002-133","ctofc":"De Vries, Martin J.","date":"2018-01-16","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Verification of time served","amount":null,"key":"14-2015CF000002-132","ctofc":null,"date":"2018-01-02","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Petition for sentence adjustment","amount":null,"key":"14-2015CF000002-131","ctofc":null,"date":"2018-01-02","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Records of prosec. are converted data. See file.","amount":null,"key":"14-2015CF000002-130","ctofc":null,"date":"2017-11-15","courtRptr":null},{"addlTxt":"February 24 2017 Sent. on Rev.","parties":[],"descr":"Transcript","amount":null,"key":"14-2015CF000002-129","ctofc":null,"date":"2017-06-07","courtRptr":null},{"addlTxt":"Proof of Submission","parties":[],"descr":"Other papers","amount":null,"key":"14-2015CF000002-128","ctofc":null,"date":"2017-03-01","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Assessment Report","amount":null,"key":"14-2015CF000002-127","ctofc":"Mandel, Paula","date":"2017-02-24","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Judgment of conviction following revocation","amount":null,"key":"14-2015CF000002-126","ctofc":"Mandel, Paula","date":"2017-02-24","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Dispositional order/judgment","amount":null,"key":"14-2015CF000002-125","ctofc":"De Vries, Martin J.","date":"2017-02-24","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Probation revoked","amount":null,"key":"14-2015CF000002-124","ctofc":"De Vries, Martin J.","date":"2017-02-24","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Judicial transfer","amount":null,"key":"14-2015CF000002-123","ctofc":"De Vries, Martin J.","date":"2017-02-24","courtRptr":null},{"addlTxt":"for DNA sample","parties":[],"descr":"Order","amount":null,"key":"14-2015CF000002-122","ctofc":"De Vries, Martin J.","date":"2017-02-24","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Appeal rights/info on postconviction relief","amount":null,"key":"14-2015CF000002-121","ctofc":null,"date":"2017-02-24","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Notice and acknowledge of def voting ineligibility","amount":null,"key":"14-2015CF000002-120","ctofc":null,"date":"2017-02-24","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Written explanation of determinate sentence","amount":null,"key":"14-2015CF000002-119","ctofc":null,"date":"2017-02-24","courtRptr":null},{"addlTxt":"(3:01) Defendant Kareen R Hayes in court, in custody with attorney William Andrew Mayer. James T. Sempf appeared for the State of Wisconsin. This is SEHR; victim rights complied with; State heard on recomm.; Atty. Mayer heard; Def. makes statement; Court imposes sentence; Def. remanded\n\nCount 1:\n* 5 years in Wisconsin State Prison System w/3 years IC and 2 years ES - Def. entitled to 453 days credit\n\nCount 3:\n* 2 years in Wisconsin State Prison System w/1 year IC and 1 year ES - concurrent to Count 1\n\nYes eligible for SAP and CIP\n\nCond. of ES\n* no contact w/victim\n* AODA & FT\n* domestic violence counseling\n* any oustandling fine/costs","parties":[],"descr":"Sentencing hearing on revocation","amount":null,"key":"14-2015CF000002-118","ctofc":"De Vries, Martin J.","date":"2017-02-24","courtRptr":"Wild, Tammy"},{"addlTxt":"to transport","parties":[],"descr":"Order","amount":null,"key":"14-2015CF000002-117","ctofc":"De Vries, Martin J.","date":"2017-02-09","courtRptr":null},{"addlTxt":"to transport","parties":[],"descr":"Proposed Order","amount":null,"key":"14-2015CF000002-116","ctofc":"De Vries, Martin J.","date":"2017-02-08","courtRptr":null},{"addlTxt":"Sentencing hearing on revocation on February 24, 2017 at 03:00 pm.","parties":[],"descr":"Notice of hearing","amount":null,"key":"14-2015CF000002-115","ctofc":null,"date":"2017-02-08","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Public defender order appointing counsel","amount":null,"key":"14-2015CF000002-114","ctofc":null,"date":"2017-02-06","courtRptr":null},{"addlTxt":"ADDRESS INFO for Kareen R Hayes\nCurrent: 2161 University Drive, %Marinette County Jail, Marinette, WI 54143 United States  (Effective: 01-31-2017)\nPrior: 2161 University Drive, Marinette, WI 54143 United States\n","parties":[{"sealed":false,"name":"Hayes, Kareen R"}],"descr":"Change of address notification","amount":null,"key":"14-2015CF000002-113","ctofc":null,"date":"2017-01-31","courtRptr":null},{"addlTxt":"ADDRESS INFO for Kareen R Hayes\nCurrent: 2161 University Drive, Marinette, WI 54143 United States  (Effective: 01-17-2017)\nPrior: 4249 N. 26th St., Milwaukee, WI 53210 United States\n","parties":[{"sealed":false,"name":"Hayes, Kareen R"}],"descr":"Change of address notification","amount":null,"key":"14-2015CF000002-111","ctofc":null,"date":"2017-01-20","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Revocation Order and Warrant","amount":null,"key":"14-2015CF000002-109","ctofc":null,"date":"2017-01-18","courtRptr":null},{"addlTxt":"on sentence recommendation","parties":[],"descr":"Letters/correspondence","amount":null,"key":"14-2015CF000002-110","ctofc":null,"date":"2017-01-17","courtRptr":null},{"addlTxt":"modifying sentence credit","parties":[],"descr":"Order","amount":null,"key":"14-2015CF000002-112","ctofc":"De Vries, Martin J.","date":"2016-12-28","courtRptr":"Wild, Tammy"},{"addlTxt":"State's reply letter","parties":[],"descr":"Letters/correspondence","amount":null,"key":"14-2015CF000002-106","ctofc":null,"date":"2016-12-15","courtRptr":null},{"addlTxt":"from the court","parties":[],"descr":"Letters/correspondence","amount":null,"key":"14-2015CF000002-107","ctofc":null,"date":"2016-12-14","courtRptr":null},{"addlTxt":"from atty re presentence credit","parties":[],"descr":"Letters/correspondence","amount":null,"key":"14-2015CF000002-105","ctofc":null,"date":"2016-12-12","courtRptr":null},{"addlTxt":"certificate of credit","parties":[],"descr":"Other papers","amount":null,"key":"14-2015CF000002-108","ctofc":null,"date":"2016-12-08","courtRptr":null},{"addlTxt":"16R 019019","parties":[],"descr":"Receipt","amount":2.50,"key":"14-2015CF000002-104","ctofc":null,"date":"2016-09-27","courtRptr":null},{"addlTxt":"Payment hearing on October 27, 2016 at 08:45 am.","parties":[],"descr":"Notice of hearing","amount":null,"key":"14-2015CF000002-103","ctofc":null,"date":"2016-07-29","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Return of unclaimed/undelivered mail service","amount":null,"key":"14-2015CF000002-102","ctofc":null,"date":"2016-04-27","courtRptr":null},{"addlTxt":"Payment plan granted in the amount of $50.00 per month commencing on 5/2/2016 until paid in full","parties":[],"descr":"Extension for time to pay","amount":null,"key":"14-2015CF000002-101","ctofc":null,"date":"2016-04-27","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Assessment Report","amount":null,"key":"14-2015CF000002-100","ctofc":"Luck, Dawn","date":"2016-04-20","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Judgment of conviction","amount":null,"key":"14-2015CF000002-99","ctofc":"Luck, Dawn","date":"2016-04-20","courtRptr":null},{"addlTxt":"16A 002518","parties":[],"descr":"Cash bond applied","amount":300.00,"key":"14-2015CF000002-98","ctofc":null,"date":"2016-04-20","courtRptr":null},{"addlTxt":"from Atty Mayer w/credit slip","parties":[],"descr":"Letters/correspondence","amount":null,"key":"14-2015CF000002-96","ctofc":null,"date":"2016-03-24","courtRptr":null},{"addlTxt":"credit slip","parties":[],"descr":"Other papers","amount":null,"key":"14-2015CF000002-89","ctofc":null,"date":"2016-03-22","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Dispositional order/judgment","amount":null,"key":"14-2015CF000002-97","ctofc":"Storck, John R.","date":"2016-03-16","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Appeal rights/info on postconviction relief","amount":null,"key":"14-2015CF000002-95","ctofc":null,"date":"2016-03-16","courtRptr":null},{"addlTxt":"Dodge Cty DNA Proof of Submission","parties":[],"descr":"Order","amount":null,"key":"14-2015CF000002-94","ctofc":"Storck, John R.","date":"2016-03-16","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Notice and acknowledge of def voting ineligibility","amount":null,"key":"14-2015CF000002-93","ctofc":null,"date":"2016-03-16","courtRptr":null},{"addlTxt":"Probation Intake Order","parties":[],"descr":"Order","amount":null,"key":"14-2015CF000002-92","ctofc":"Storck, John R.","date":"2016-03-16","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Plea agreement","amount":null,"key":"14-2015CF000002-91","ctofc":"Storck, John R.","date":"2016-03-16","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Guilty plea questionnaire/plea advisement form","amount":null,"key":"14-2015CF000002-90","ctofc":null,"date":"2016-03-16","courtRptr":null},{"addlTxt":"11:08. (15cm365/15cf2) Defendant, Kareen R Hayes, in court with Attorney William Andrew Mayer.  Attorney James T. Sempf appeared for the State of Wisconsin.  Atty Mayer heard.  Court reviews PQ/WOR, chrgs + pnlts.  Discussions with Deft.  Recess @ 11:23.  Recalled 11:24.  Atty Mayer heard.  Deft wishes to proceed today.  Deft pleads NC to Ct. 1 + Ct. 3 in 15CF2.  Court finds pleas made f/v/k/i, repeater appropriate, accepts pleas and finds Deft guilty of Ct.1 + Ct. 3 in 15CF 2.  Court will D-RI Ct. 2 + Ct. 4 in 15CF 2 and 15CM365.  Demetrius Wilson c/s/t.  Wns excused.  Atty Sempf heard.  Atty Mayer heard.  Statement by Deft.  Court heard and orders:\n\nCts 1 + 3\nsentence w/held\n2 yrs probation\nno contact with the victim\ncounselling as deemed appropriate by agent\nno violent/abusive contact w/ anyone\npre-sentence credit to be determined by DCJ w/in two weeks\nno voting\nno firearms\nDNA sample + surcharge\ncourt costs","parties":[],"descr":"Plea/sentencing hearing","amount":null,"key":"14-2015CF000002-88","ctofc":"Storck, John R.","date":"2016-03-16","courtRptr":"Wild, Tammy"},{"addlTxt":null,"parties":[],"descr":"Notice of hearing returned","amount":null,"key":"14-2015CF000002-87","ctofc":null,"date":"2016-03-04","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Motion and order for continuance","amount":null,"key":"14-2015CF000002-86","ctofc":"Storck, John R.","date":"2016-03-02","courtRptr":null},{"addlTxt":"Plea/sentencing hearing at 03-16-2016 11:00 am","parties":[],"descr":"Notice of hearing","amount":null,"key":"14-2015CF000002-85","ctofc":null,"date":"2016-02-25","courtRptr":null},{"addlTxt":"Continuance rec'd and sent up","parties":[],"descr":"Notes","amount":null,"key":"14-2015CF000002-84","ctofc":null,"date":"2016-02-22","courtRptr":null},{"addlTxt":"Jury trial at 04-19-2016 08:30 am","parties":[],"descr":"Notice of hearing","amount":null,"key":"14-2015CF000002-83","ctofc":null,"date":"2015-12-02","courtRptr":null},{"addlTxt":"for continuance","parties":[],"descr":"Order","amount":null,"key":"14-2015CF000002-82","ctofc":"Storck, John R.","date":"2015-12-01","courtRptr":null},{"addlTxt":"for continuance","parties":[],"descr":"Proposed Order","amount":null,"key":"14-2015CF000002-81","ctofc":"Storck, John R.","date":"2015-12-01","courtRptr":null},{"addlTxt":"for continuance","parties":[],"descr":"Motion","amount":null,"key":"14-2015CF000002-80","ctofc":null,"date":"2015-12-01","courtRptr":null},{"addlTxt":"Status Conference 6/2/15","parties":[],"descr":"Transcript","amount":null,"key":"14-2015CF000002-79","ctofc":null,"date":"2015-11-05","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Motion in limine","amount":null,"key":"14-2015CF000002-78","ctofc":null,"date":"2015-10-30","courtRptr":null},{"addlTxt":"15R 020854","parties":[],"descr":"Cash bond posted","amount":300.00,"key":"14-2015CF000002-77","ctofc":null,"date":"2015-10-27","courtRptr":null},{"addlTxt":"Defendant's","parties":[],"descr":"Motion and demand for discovery","amount":null,"key":"14-2015CF000002-76","ctofc":null,"date":"2015-10-22","courtRptr":null},{"addlTxt":"defendant's","parties":[],"descr":"Demand for discovery and inspection","amount":null,"key":"14-2015CF000002-75","ctofc":null,"date":"2015-10-22","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Other papers","amount":null,"key":"14-2015CF000002-74","ctofc":null,"date":"2015-10-22","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Other papers","amount":null,"key":"14-2015CF000002-73","ctofc":null,"date":"2015-10-22","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Public defender order appointing counsel","amount":null,"key":"14-2015CF000002-72","ctofc":null,"date":"2015-10-21","courtRptr":null},{"addlTxt":"ADDRESS INFO for Kareen R Hayes\nCurrent: 4249 N. 26th St., Milwaukee, WI 53210 United States  (Effective: 10-20-2015)\nPrior: 210 W. Center St., Dodge County Jail, Juneau, WI 53039 United States\n","parties":[{"sealed":false,"name":"Hayes, Kareen R"}],"descr":"Change of address notification","amount":null,"key":"14-2015CF000002-66","ctofc":null,"date":"2015-10-20","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Return of unclaimed/undelivered mail service","amount":null,"key":"14-2015CF000002-69","ctofc":null,"date":"2015-10-19","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Return of unclaimed/undelivered mail service","amount":null,"key":"14-2015CF000002-68","ctofc":null,"date":"2015-10-19","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Cash bond signed","amount":0.00,"key":"14-2015CF000002-67","ctofc":null,"date":"2015-10-16","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Motion and order for withdrawal of counsel","amount":null,"key":"14-2015CF000002-65","ctofc":"Storck, John R.","date":"2015-10-14","courtRptr":null},{"addlTxt":"Motion/Order to withdraw sent up","parties":[],"descr":"Notes","amount":null,"key":"14-2015CF000002-64","ctofc":null,"date":"2015-10-13","courtRptr":null},{"addlTxt":"Dodge County Detention Facility Inmate Request to Judge","parties":[],"descr":"Other papers","amount":null,"key":"14-2015CF000002-71","ctofc":null,"date":"2015-10-12","courtRptr":null},{"addlTxt":"Dodge County Detention Facility Inmate Request to Judge - denied","parties":[],"descr":"Other papers","amount":null,"key":"14-2015CF000002-70","ctofc":null,"date":"2015-10-12","courtRptr":null},{"addlTxt":"Status conference at 10-23-2015 12:30 pm","parties":[],"descr":"Notice of hearing","amount":null,"key":"14-2015CF000002-62","ctofc":null,"date":"2015-10-08","courtRptr":null},{"addlTxt":"Defendant Kareen R Hayes in court, in custody, with attorney Joanne M. Keane.  James T. Sempf appeared for the State of Wisconsin. Court heard, rec'v 2 documents from counsel. Atty Keane heard on status us matter, have reached an agreement w/ state regarding plea portion, prior to hearing being called, Atty Sempf shared some info. In light of new info rec'v, court give consel 10 mins to discuss. Court in recess. 9:34 am. Court back on record 9:42 am, appearances are the same. Atty Keane heard, states Def. wishes for her to withdraw as counsel due to communication break down. Def. heard, understands right to represents himself, questions ct. regarding subpoenaing witnesses. Discussion held. Ct. addresses Def. on representing himself. Def. heard, does not want a JT, would like a CT. Ct. questions Def. regarding Atty Keane w/d as counsel. Def. heard, wishes for Atty Keane to w/d. Ct. further addresses Def. regarding representing himself. Atty Sempf heard, states this is the 2nd time that Def. has requested his counsel w/d, but takes no stance on matter. Ct. heard, grants requests by Def. - Atty Keane may w/d, Atty Keane to draft order regarding w/d, and forward to DAs office. Ct. heard, does not grant request by Def. to represent himself at this time, will not accept waiver of counsel. Def. heard. Ct. heard, Def. is to apply at SPD office for a 3rd time, Court will schedule another hearing.  Status conference scheduled for October 23, 2015 at 12:30 pm. Ct. will keep trial on calendar, and NOH to be sent to SPD offices to inform them of date in the event a 3rd atty is appointed.","parties":[],"descr":"Status conference","amount":null,"key":"14-2015CF000002-61","ctofc":"Storck, John R.","date":"2015-10-08","courtRptr":"Wild, Tammy"},{"addlTxt":"Dodge County Detention Facility Inmate Request to Judge","parties":[],"descr":"Request","amount":null,"key":"14-2015CF000002-63","ctofc":null,"date":"2015-10-07","courtRptr":null},{"addlTxt":"sentencing statement for Mr. Kareen R. Hayes","parties":[],"descr":"Other papers","amount":null,"key":"14-2015CF000002-60","ctofc":null,"date":"2015-10-07","courtRptr":null},{"addlTxt":"The Life of Kareen Rashawn Hayes","parties":[],"descr":"Other papers","amount":null,"key":"14-2015CF000002-59","ctofc":null,"date":"2015-10-07","courtRptr":null},{"addlTxt":"Amount amended down; all other conditions remain in effect","parties":[{"sealed":false,"name":"Hayes, Kareen R"}],"descr":"Cash bond amended","amount":300.00,"key":"14-2015CF000002-57","ctofc":null,"date":"2015-09-08","courtRptr":null},{"addlTxt":"Defendant Kareen R Hayes in court, in custody with attorney Joanne M. Keane.   James Sempf appeared for the State of Wisconsin. Motion for modification of Bond/Bail Conditions.  The Court heard from the Defense and the objections from the State.  The Court reviewed the factors in this case and found cash bail is appropriate and modifies the cash bail to $300.  All other terms to remain in effect.","parties":[],"descr":"Hearing","amount":null,"key":"14-2015CF000002-56","ctofc":"Storck, John R.","date":"2015-09-08","courtRptr":"Wild, Tammy"},{"addlTxt":"Dismissing Petition for Leave to Appeal","parties":[],"descr":"Order of Court of Appeals","amount":null,"key":"14-2015CF000002-58","ctofc":null,"date":"2015-09-04","courtRptr":null},{"addlTxt":"Hearing at 09-08-2015 02:00 pm","parties":[],"descr":"Notice of hearing","amount":null,"key":"14-2015CF000002-53","ctofc":null,"date":"2015-08-27","courtRptr":null},{"addlTxt":"Dodge County Detention Facility Inmate Request to Judge","parties":[],"descr":"Other papers","amount":null,"key":"14-2015CF000002-54","ctofc":null,"date":"2015-08-25","courtRptr":null},{"addlTxt":"w/proposed bail motion & order","parties":[],"descr":"Letters/correspondence","amount":null,"key":"14-2015CF000002-55","ctofc":null,"date":"2015-08-18","courtRptr":null},{"addlTxt":"Judge/JA emailed:  Order of Court of Appeals dated 7-28-15","parties":[],"descr":"Notes","amount":null,"key":"14-2015CF000002-52","ctofc":null,"date":"2015-07-30","courtRptr":null},{"addlTxt":"Denying motion for reconsideration","parties":[],"descr":"Order of Court of Appeals","amount":null,"key":"14-2015CF000002-51","ctofc":null,"date":"2015-07-30","courtRptr":null},{"addlTxt":"Judge/JA emailed:  Order of COA filed 7-22-15","parties":[],"descr":"Notes","amount":null,"key":"14-2015CF000002-50","ctofc":null,"date":"2015-07-22","courtRptr":null},{"addlTxt":"Dismissing Petition for Leave to Appeal","parties":[],"descr":"Order of Court of Appeals","amount":null,"key":"14-2015CF000002-49","ctofc":null,"date":"2015-07-22","courtRptr":null},{"addlTxt":"Judge/JA emailed:  Acknowledgement of Filing of Writ/Petition","parties":[],"descr":"Notes","amount":null,"key":"14-2015CF000002-48","ctofc":null,"date":"2015-07-20","courtRptr":null},{"addlTxt":"Acknowledgement of Filing of Writ/Petition","parties":[],"descr":"Other papers","amount":null,"key":"14-2015CF000002-47","ctofc":null,"date":"2015-07-20","courtRptr":null},{"addlTxt":"Jury trial at 12-21-2015 08:30 am","parties":[],"descr":"Notice of hearing","amount":null,"key":"14-2015CF000002-46","ctofc":null,"date":"2015-07-07","courtRptr":null},{"addlTxt":"Jury trial at 11-09-2015 08:30 am","parties":[],"descr":"Notice of hearing","amount":null,"key":"14-2015CF000002-45","ctofc":null,"date":"2015-07-07","courtRptr":null},{"addlTxt":"Status conference at 10-08-2015 09:30 am","parties":[],"descr":"Notice of hearing","amount":null,"key":"14-2015CF000002-44","ctofc":null,"date":"2015-07-07","courtRptr":null},{"addlTxt":"from the court to the attorneys","parties":[],"descr":"Letters/correspondence","amount":null,"key":"14-2015CF000002-43","ctofc":null,"date":"2015-07-02","courtRptr":null},{"addlTxt":"Dodge County Detention Facility Inmate Request to Judge","parties":[],"descr":"Request","amount":null,"key":"14-2015CF000002-42","ctofc":null,"date":"2015-06-30","courtRptr":null},{"addlTxt":"Dodge County Detention Facility Inmate Request to Judge","parties":[],"descr":"Request","amount":null,"key":"14-2015CF000002-41","ctofc":null,"date":"2015-06-30","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Public defender order appointing counsel","amount":null,"key":"14-2015CF000002-40","ctofc":null,"date":"2015-06-25","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Public defender order appointing counsel","amount":null,"key":"14-2015CF000002-39","ctofc":null,"date":"2015-06-24","courtRptr":null},{"addlTxt":"for withdrawal of counsel","parties":[],"descr":"Order","amount":null,"key":"14-2015CF000002-37","ctofc":"Storck, John R.","date":"2015-06-22","courtRptr":null},{"addlTxt":"Defendant Kareen R Hayes in court, in custody with attorney Bradley J Jansen.  James T. Sempf appeared for the State of Wisconsin. Discussion held as to status. Atty Jansen requesting appointment of another attorney throught SPD and his withdrawal. Defendant heard on request of withdraw. Discussion. Court heard and grants withdraw of Atty Jansen; takes JT off calendar at this time and schedules TSC to determine scheduling. Court instructs Atty Jansen to notify SPD and submit Order for same. Atty Jansen's copy of TSC to go to SPD Office for Notification of new counsel. Defendant to be added as phone party to participate in TSC.  Telephone scheduling conference scheduled for July 7, 2015 at 08:30 am.","parties":[],"descr":"Motion hearing","amount":null,"key":"14-2015CF000002-35","ctofc":"Storck, John R.","date":"2015-06-22","courtRptr":"Wild, Tammy"},{"addlTxt":"Dodge County Detention Facility Inmate Request to Judge","parties":[],"descr":"Request","amount":null,"key":"14-2015CF000002-38","ctofc":null,"date":"2015-06-19","courtRptr":null},{"addlTxt":"Motion hearing at 06-22-2015 02:45 pm","parties":[],"descr":"Notice of hearing","amount":null,"key":"14-2015CF000002-34","ctofc":null,"date":"2015-06-18","courtRptr":null},{"addlTxt":"Defendant Kareen R Hayes in court, in custody with attorney Bradley J Jansen.  James T. Sempf appeared for the State of Wisconsin. Ct. did receive correspondence from Def. and provided a copy to counsel. Def. requested a different attorney. Ct. will not remove the trial due to speedy trial demand. Atty Jansen heard, filed a Motion to Withdraw last week. Ct. heard, discusses Def. letter. Atty Jansen heard, would be prepared for the trial. Ct. heard, trial will be held as scheduled. Def. heard, waives right to a speedy trial. Discussion held. Ct. heard, denies request for substitution of counsel. Discussion held. Atty Jansen heard, believes Def. wishes to continue the trial. Ct. heard, victim was not noticed for this hearing, court reschedules and orders the victim coordinator contact the victim; this matter is continued. Atty Sempf heard, has not received any discovery from the defense.  Motion hearing scheduled for June 22, 2015 at 02:45 pm.","parties":[],"descr":"Motion hearing","amount":null,"key":"14-2015CF000002-33","ctofc":"Storck, John R.","date":"2015-06-18","courtRptr":"Wild, Tammy"},{"addlTxt":"for withdrawal of counsel","parties":[],"descr":"Motion","amount":null,"key":"14-2015CF000002-36","ctofc":null,"date":"2015-06-15","courtRptr":null},{"addlTxt":"Motion hearing at 06-18-2015 11:30 am","parties":[],"descr":"Notice of hearing","amount":null,"key":"14-2015CF000002-30","ctofc":null,"date":"2015-06-11","courtRptr":null},{"addlTxt":"courts response to defendants inmate requests","parties":[],"descr":"Letters/correspondence","amount":null,"key":"14-2015CF000002-32","ctofc":null,"date":"2015-06-10","courtRptr":null},{"addlTxt":"Dodge County Detention Facility Inmate Request to Judge","parties":[],"descr":"Request","amount":null,"key":"14-2015CF000002-31","ctofc":null,"date":"2015-06-10","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Witness list - plaintiff","amount":null,"key":"14-2015CF000002-29","ctofc":null,"date":"2015-06-09","courtRptr":null},{"addlTxt":"for copies","parties":[],"descr":"Request","amount":null,"key":"14-2015CF000002-28","ctofc":null,"date":"2015-06-03","courtRptr":null},{"addlTxt":"Defendant Kareen R Hayes in court, in custody with attorney Bradley J Jansen.  James T. Sempf appeared for the State of Wisconsin. Discussion held; parties to be heard on admission of other acts evidence; Court will permit 3 incidents enterd in court; any MIL's to be filed 14 days prior to trial on or before 6/23/15","parties":[],"descr":"Status conference","amount":null,"key":"14-2015CF000002-27","ctofc":"Storck, John R.","date":"2015-06-02","courtRptr":"Wild, Tammy"},{"addlTxt":"Dodge County Detention Facility Inmate Request to Judge","parties":[],"descr":"Request","amount":null,"key":"14-2015CF000002-26","ctofc":null,"date":"2015-05-07","courtRptr":null},{"addlTxt":"In-Person Status Conference on June 2, 2015 at 10:30 am.","parties":[],"descr":"Notice of hearing","amount":null,"key":"14-2015CF000002-25","ctofc":null,"date":"2015-04-09","courtRptr":null},{"addlTxt":"Defendant Kareen R Hayes in court, in custody with attorney Bradley J Jansen.  James T. Sempf appeared for the State of Wisconsin.  Atty. Jansen is heard on request to modify bond.  Atty. Sempf argues.  Court is heard, will not modify bond.  All motions to be filed by 5/22/15.  In-Person Status Conference scheduled for June 2, 2015 at 10:30 am.","parties":[],"descr":"Motion hearing","amount":null,"key":"14-2015CF000002-24","ctofc":"Storck, John R.","date":"2015-04-09","courtRptr":"Wild, Tammy"},{"addlTxt":"Motion hearing on April 9, 2015 at 03:30 pm.","parties":[],"descr":"Notice of hearing","amount":null,"key":"14-2015CF000002-23","ctofc":null,"date":"2015-03-30","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Bond motion","amount":null,"key":"14-2015CF000002-22","ctofc":null,"date":"2015-03-23","courtRptr":null},{"addlTxt":"from the court to defendants attorney","parties":[],"descr":"Letters/correspondence","amount":null,"key":"14-2015CF000002-21","ctofc":null,"date":"2015-03-19","courtRptr":null},{"addlTxt":"Dodge County Detention Facility Inmate Request to Judge","parties":[],"descr":"Request","amount":null,"key":"14-2015CF000002-20","ctofc":null,"date":"2015-03-19","courtRptr":null},{"addlTxt":"Motion hearing on April 21, 2015 at 11:00 am.","parties":[],"descr":"Notice of hearing","amount":null,"key":"14-2015CF000002-18","ctofc":null,"date":"2015-03-10","courtRptr":null},{"addlTxt":"Jury trial on July 7, 2015 at 08:30 am.","parties":[],"descr":"Notice of hearing","amount":null,"key":"14-2015CF000002-17","ctofc":null,"date":"2015-03-10","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Notice of motion, motion","amount":null,"key":"14-2015CF000002-16","ctofc":null,"date":"2015-03-09","courtRptr":null},{"addlTxt":"Dodge County Detention Facility Inmate Request to Judge","parties":[],"descr":"Request","amount":null,"key":"14-2015CF000002-19","ctofc":null,"date":"2015-03-06","courtRptr":null},{"addlTxt":"Jury trial on May 13, 2015 at 08:30 am.","parties":[],"descr":"Notice of hearing","amount":null,"key":"14-2015CF000002-15","ctofc":null,"date":"2015-03-02","courtRptr":null},{"addlTxt":"Status conference on April 21, 2015 at 11:00 am.","parties":[],"descr":"Notice of hearing","amount":null,"key":"14-2015CF000002-14","ctofc":null,"date":"2015-03-02","courtRptr":null},{"addlTxt":"Order on Arraignment","parties":[],"descr":"Order","amount":null,"key":"14-2015CF000002-13","ctofc":"Storck, John R.","date":"2015-02-04","courtRptr":null},{"addlTxt":"Defendant Kareen R Hayes in court, in custody with attorney Bradley Joseph Jansen.  Kurt Frederich Klomberg appeared for the State of Wisconsin.  Review of info is waived; not guilty plea entered; 30 days mtns; stc set; bail con't  Telephone scheduling conference scheduled for March 2, 2015 at 08:10 am.","parties":[],"descr":"Arraignment","amount":null,"key":"14-2015CF000002-12","ctofc":"Storck, John R.","date":"2015-02-04","courtRptr":"Wild, Tammy"},{"addlTxt":"State's","parties":[],"descr":"Motion and demand for discovery","amount":null,"key":"14-2015CF000002-11","ctofc":null,"date":"2015-02-02","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Information","amount":null,"key":"14-2015CF000002-10","ctofc":null,"date":"2015-02-02","courtRptr":null},{"addlTxt":"Arraignment on February 4, 2015 at 08:15 am.","parties":[],"descr":"Notice of hearing","amount":null,"key":"14-2015CF000002-9","ctofc":null,"date":"2015-01-15","courtRptr":null},{"addlTxt":"Defendant Kareen R Hayes in court, in custody with attorney Bradley Joseph Jansen.  James T. Sempf appeared for the State of Wisconsin. State calls Officer Kevin Hall, sworn & testifies; witness ID's defendant; Atty Jansen calls def, sworn & testifies; Court finds prob cause;  Arraignment scheduled for February 4, 2015 at 08:15 am.","parties":[],"descr":"Preliminary hearing","amount":null,"key":"14-2015CF000002-8","ctofc":"Storck, John R.","date":"2015-01-15","courtRptr":"Wild, Tammy"},{"addlTxt":null,"parties":[],"descr":"Public defender order appointing counsel","amount":null,"key":"14-2015CF000002-7","ctofc":null,"date":"2015-01-15","courtRptr":null},{"addlTxt":"State of Wisconsin apprs by Atty Bob Barrington.  DEF, Kareen Hayes apprs in person; in custody.  Discussion held.  DEF states he does not have Atty.  Off record, Court calls SPD Office.  Back on record.  SPD will contact DEF.  DEF will represent himself for the prelim.  Court questions DEF on waiver.  Keep scheduled prelim on calendar. Court allows DEF to represent himself.","parties":[],"descr":"Review hearing","amount":null,"key":"14-2015CF000002-6","ctofc":"Storck, John R.","date":"2015-01-14","courtRptr":"Wild, Tammy"},{"addlTxt":"ADDRESS INFO for Kareen R Hayes\nCurrent: 210 W. Center St., Dodge County Jail, Juneau, WI 53039 United States  (Effective: 01-08-2015)\nPrior: 115 Baker Blvd., Beaver Dam, WI 53916 \n","parties":[{"sealed":false,"name":"Hayes, Kareen R"}],"descr":"Change of address notification","amount":null,"key":"14-2015CF000002-5","ctofc":null,"date":"2015-01-08","courtRptr":null},{"addlTxt":"Defendant shall not have any direct or indirect contact or communication with alleged victim, C.R.B., f/w, dob 9/20/89 or her residence.  Defendant shall not have any violent or abusive contact with anyone.  The Jail shall permit Defendant to make a phone call at the county expense for bail purposes.","parties":[{"sealed":false,"name":"Hayes, Kareen R"}],"descr":"Cash bond set","amount":1000.00,"key":"14-2015CF000002-4","ctofc":null,"date":"2015-01-05","courtRptr":null},{"addlTxt":"(12:50) Defendant Kareen R Hayes in custody via video with attorney Greg E. Vollan (jail only).  Kurt Frederich Klomberg appeared for the State of Wisconsin.  Defendant has received copy of Criminal Complaint and advised of rights, charges, penalties and right to Preliminary Hearing. Court finds probable cause. Atty. Vollan notes Def. diputes allegations; State requests $5,000 CASH bail; Prelim requested within time limits. Prelim 1/15/15 at 1:30pm in Br. 2 & Review 1/14/15 at 8:15am in Br. 2; Court sets $1,000.00 CASH BOND with conditions:   Defendant shall not have any direct or indirect contact or communication with alleged victim, CRB, w/f, dob 9/20/89 or her residence.  Defendant shall not have any violent or abusive contact with anyone.  The Jail shall permit Defendant to make a phone call at the county expense for bail purposes.","parties":[],"descr":"Initial appearance","amount":null,"key":"14-2015CF000002-3","ctofc":"Seim, Steven","date":"2015-01-05","courtRptr":"Recording System"},{"addlTxt":null,"parties":[],"descr":"Case initiated by electronic filing","amount":null,"key":"14-2015CF000002-2","ctofc":null,"date":"2015-01-05","courtRptr":null},{"addlTxt":null,"parties":[],"descr":"Complaint filed","amount":null,"key":"14-2015CF000002-1","ctofc":null,"date":"2015-01-05","courtRptr":null}],"prosAgency":"State of Wisconsin","citations":[],"defAttys":[{"name":"Mayer, William Andrew"}],"balanceDue":876.00,"allowPurchase":false},"view":{"caseNo":{"value":"2015CF000002"},"countyNo":{"value":14}}}
+{
+    "result": {
+        "parties": [],
+        "classType": "Criminal",
+        "showRssButton": true,
+        "receivables": [
+            {
+                "atCollections": false,
+                "key": "14-354811",
+                "rcvblNo": 354811,
+                "paymentDue": 50.00,
+                "countyNo": 14,
+                "dueDate": "2016-05-27",
+                "type": "P",
+                "atSdc": false,
+                "balanceDue": 876.00
+            }
+        ],
+        "countyName": "Dodge",
+        "isReopenedRemandedFromAppeal": false,
+        "daCaseNo": "2015DD000011",
+        "activities": [],
+        "payplanLink": "payPlanDetail.html?countyNo=14&payPlanNo=354811",
+        "chargeHist": [
+            {
+                "replacedBy": "Information Filed",
+                "descr": "Strangulation and Suffocation",
+                "seqNo": 1,
+                "id": "14-2015CF000002-1",
+                "dispoDesc": null,
+                "statuteCite": "940.235(1)",
+                "severity": "Felony H",
+                "chargeNo": 1,
+                "isConverted": false
+            },
+            {
+                "replacedBy": "Information Filed",
+                "descr": "False Imprisonment",
+                "seqNo": 2,
+                "id": "14-2015CF000002-2",
+                "dispoDesc": null,
+                "statuteCite": "940.30",
+                "severity": "Felony H",
+                "chargeNo": 2,
+                "isConverted": false
+            }
+        ],
+        "prosAtty": "Sempf, James T.",
+        "maintenance": "Electronic filing",
+        "caseNo": "2015CF000002",
+        "execSummary": "<p data-section-name=\"guiltyPreamble\">\n    The defendant Kareen R Hayes was found guilty\n    of the following <nobr>charge(s)</nobr> in this case.\n    \n    \n  </p><ul><li><div data-section-name=\"guiltyCriminal\">\n    <span class=\"leadIn\"/>\n    Strangulation and Suffocation [Modifiers: Domestic Abuse Assessments, Repeater],\n    a class H felony,\n    Wisconsin Statutes\n    940.235(1).\n  </div></li><li><div data-section-name=\"guiltyCriminal\">\n    <span class=\"leadIn\"/>\n    Intimidate Victim/Dissuade Reporting [Modifiers: Domestic Abuse Assessments, Repeater],\n    a class A misdemeanor,\n    Wisconsin Statutes\n    940.44(1).\n  </div></li></ul><div data-section-name=\"readIn\">\n    <p>\n      <nobr>Charge(s)</nobr> in this case were read in to this or other\n      <nobr>case(s).</nobr> A &quot;read in&quot; charge is a charge that is dismissed as\n      part of a plea agreement, however:\n    </p>\n    <ul>\n      <li>\n        The defendant agrees to have the court consider the\n        <nobr>charge(s)</nobr> when sentencing for another crime, under Wis.\n        Stats. 973.20(1g)(b); and\n      </li>\n      <li>\n        The defendant cannot be prosecuted for these <nobr>charge(s)</nobr> in\n        the future.\n      </li>\n    </ul>\n  </div><p data-section-name=\"notice\">\n    <strong>Notice to employers:</strong> It may be a violation of state law to\n    discriminate against a job applicant because of an arrest or conviction\n    record.  Generally speaking, an employer may refuse to hire an applicant on\n    the basis of a conviction only if the circumstances of the conviction\n    substantially relate to the particular job. For more information, see\n    <a href=\"http://docs.legis.wisconsin.gov/statutes/statutes/111/II/335\" rel=\"noopener noreferrer\" target=\"_blank\">Wisconsin Statute 111.335</a>\n    and the Department of Workforce Development's publication,\n    <cite><a href=\"https://dwd.wisconsin.gov/er/civilrights/discrimination/arrest.htm\" rel=\"noopener noreferrer\" target=\"_blank\">Arrest and Conviction Records under the Law</a></cite>.\n  </p>",
+        "warrants": [],
+        "civilJdgmts": [],
+        "branchId": "2",
+        "documents": [],
+        "wcisClsCode": "Other Bodily Security",
+        "tac": null,
+        "countyNo": 14,
+        "charges": [
+            {
+                "judgments": [
+                    {
+                        "supervisions": [
+                            {
+                                "superMiscConds": [],
+                                "descr": "Probation, Sent Withheld",
+                                "key": "14-2015CF000002-3-1-1",
+                                "notes": "All Financial obligations shall be paid to the Clerk of Courts within 60 days unless a payment plan is established.",
+                                "time": "2 Years",
+                                "isShowConds": true,
+                                "superTimeConds": [],
+                                "beginDate": null
+                            }
+                        ],
+                        "orderDate": "2016-03-16",
+                        "isModified": false,
+                        "superAgency": null,
+                        "miscConds": [
+                            {
+                                "key": "mc-14-2015CF000002-3-1-1",
+                                "descr": "Costs",
+                                "notes": null
+                            },
+                            {
+                                "key": "mc-14-2015CF000002-3-1-2",
+                                "descr": "Firearms/Weapons Restriction",
+                                "notes": null
+                            },
+                            {
+                                "key": "mc-14-2015CF000002-3-1-3",
+                                "descr": "Psych treatment",
+                                "notes": "Shall undergo and follow through with any counseling as directed by agent"
+                            },
+                            {
+                                "key": "mc-14-2015CF000002-3-1-4",
+                                "descr": "Prohibitions",
+                                "notes": "Defendant shall not have any direct or indirect contact or communication with victim;  Defendant shall not have any violent or abusive contact with anyone."
+                            },
+                            {
+                                "key": "mc-14-2015CF000002-3-1-5",
+                                "descr": "Other",
+                                "notes": "Shall submit a DNA sample"
+                            }
+                        ],
+                        "key": "14-2015CF000002-3-1",
+                        "dispoCtofc": "Storck, John R.",
+                        "timeConds": [],
+                        "dispoDesc": null,
+                        "probByCase": null,
+                        "sentDate": "2016-03-16",
+                        "isConverted": false,
+                        "reOpenedEvent": null,
+                        "action": "Guilty Due to No Contest Plea"
+                    },
+                    {
+                        "supervisions": [
+                            {
+                                "superMiscConds": [],
+                                "descr": "State Prison",
+                                "key": "14-2015CF000002-3-2-2",
+                                "notes": "in Wisconsin State Prison System concurrent. Defendant is entitled to 453 days presentence credit.\nConcurrent with: ",
+                                "time": "3 Years",
+                                "isShowConds": false,
+                                "superTimeConds": [],
+                                "beginDate": null
+                            },
+                            {
+                                "superMiscConds": [
+                                    {
+                                        "key": "smc-14-2015CF000002-3-2-1-1",
+                                        "descr": "Prohibitions",
+                                        "notes": "Defendant shall not have any direct or indirect contact or communication with the victim."
+                                    },
+                                    {
+                                        "key": "smc-14-2015CF000002-3-2-1-2",
+                                        "descr": "Other",
+                                        "notes": "Defendant shall undergo and follow through with any counseling as recommended by Agent."
+                                    },
+                                    {
+                                        "key": "smc-14-2015CF000002-3-2-1-3",
+                                        "descr": "Alcohol assessment",
+                                        "notes": "Defendant shall undergo an AODA Assessment and follow through with any recommendations resulting therefrom."
+                                    },
+                                    {
+                                        "key": "smc-14-2015CF000002-3-2-1-4",
+                                        "descr": "Costs",
+                                        "notes": "Civil judgment to be entered for unpaid financials."
+                                    }
+                                ],
+                                "descr": "Extended Supervision",
+                                "key": "14-2015CF000002-3-2-1",
+                                "notes": null,
+                                "time": "2 Years",
+                                "isShowConds": false,
+                                "superTimeConds": [],
+                                "beginDate": null
+                            }
+                        ],
+                        "orderDate": "2016-03-16",
+                        "isModified": false,
+                        "superAgency": null,
+                        "miscConds": [],
+                        "key": "14-2015CF000002-3-2",
+                        "dispoCtofc": "De Vries, Martin J.",
+                        "timeConds": [],
+                        "dispoDesc": null,
+                        "probByCase": null,
+                        "sentDate": "2017-02-24",
+                        "isConverted": false,
+                        "reOpenedEvent": {
+                            "descr": "Probation revoked",
+                            "eventDate": "2017-02-24"
+                        },
+                        "action": "Guilty Due to No Contest Plea"
+                    }
+                ],
+                "pleaDate": "2016-03-16",
+                "descr": "Strangulation and Suffocation",
+                "offenseDate": "2015-01-04",
+                "id": "14-2015CF000002-3",
+                "pleaDescr": "No Contest",
+                "chargeModifiers": [
+                    {
+                        "modSeqNo": 1,
+                        "statuteCite": "973.055(1)",
+                        "descr": "Domestic Abuse Assessments"
+                    },
+                    {
+                        "modSeqNo": 2,
+                        "statuteCite": "939.62(1)(b)",
+                        "descr": "Repeater"
+                    }
+                ],
+                "dispoDesc": "Guilty Due to No Contest Plea",
+                "statuteCite": "940.235(1)",
+                "severity": "Felony H",
+                "chargeNo": 1,
+                "isSummaryCandidate": true
+            },
+            {
+                "judgments": [
+                    {
+                        "supervisions": [],
+                        "orderDate": "2016-03-16",
+                        "isModified": false,
+                        "superAgency": null,
+                        "miscConds": [],
+                        "key": "14-2015CF000002-4-1",
+                        "dispoCtofc": "Storck, John R.",
+                        "timeConds": [],
+                        "dispoDesc": null,
+                        "probByCase": null,
+                        "sentDate": null,
+                        "isConverted": false,
+                        "reOpenedEvent": null,
+                        "action": "Charge Dismissed but Read In"
+                    }
+                ],
+                "pleaDate": null,
+                "descr": "False Imprisonment",
+                "offenseDate": "2015-01-04",
+                "id": "14-2015CF000002-4",
+                "pleaDescr": null,
+                "chargeModifiers": [
+                    {
+                        "modSeqNo": 1,
+                        "statuteCite": "973.055(1)",
+                        "descr": "Domestic Abuse Assessments"
+                    },
+                    {
+                        "modSeqNo": 2,
+                        "statuteCite": "939.62(1)(b)",
+                        "descr": "Repeater"
+                    }
+                ],
+                "dispoDesc": "Charge Dismissed but Read In",
+                "statuteCite": "940.30",
+                "severity": "Felony H",
+                "chargeNo": 2,
+                "isSummaryCandidate": true
+            },
+            {
+                "judgments": [
+                    {
+                        "supervisions": [
+                            {
+                                "superMiscConds": [],
+                                "descr": "Probation, Sent Withheld",
+                                "key": "14-2015CF000002-5-1-1",
+                                "notes": null,
+                                "time": "2 Years",
+                                "isShowConds": true,
+                                "superTimeConds": [],
+                                "beginDate": null
+                            }
+                        ],
+                        "orderDate": "2016-03-16",
+                        "isModified": false,
+                        "superAgency": null,
+                        "miscConds": [
+                            {
+                                "key": "mc-14-2015CF000002-5-1-1",
+                                "descr": "Costs",
+                                "notes": null
+                            },
+                            {
+                                "key": "mc-14-2015CF000002-5-1-2",
+                                "descr": "Psych treatment",
+                                "notes": "Same as count 1"
+                            },
+                            {
+                                "key": "mc-14-2015CF000002-5-1-3",
+                                "descr": "Prohibitions",
+                                "notes": "Same as count 1"
+                            },
+                            {
+                                "key": "mc-14-2015CF000002-5-1-4",
+                                "descr": "Other",
+                                "notes": "Same as count 1"
+                            }
+                        ],
+                        "key": "14-2015CF000002-5-1",
+                        "dispoCtofc": "Storck, John R.",
+                        "timeConds": [],
+                        "dispoDesc": null,
+                        "probByCase": null,
+                        "sentDate": "2016-03-16",
+                        "isConverted": false,
+                        "reOpenedEvent": null,
+                        "action": "Guilty Due to No Contest Plea"
+                    },
+                    {
+                        "supervisions": [
+                            {
+                                "superMiscConds": [],
+                                "descr": "State Prison",
+                                "key": "14-2015CF000002-5-2-2",
+                                "notes": "in Wisconsin State Prison System concurrent.\nConcurrent with: Count 1.",
+                                "time": "1 Years",
+                                "isShowConds": false,
+                                "superTimeConds": [],
+                                "beginDate": null
+                            },
+                            {
+                                "superMiscConds": [
+                                    {
+                                        "key": "smc-14-2015CF000002-5-2-1-1",
+                                        "descr": "Prohibitions",
+                                        "notes": "As indicated in Count 1."
+                                    },
+                                    {
+                                        "key": "smc-14-2015CF000002-5-2-1-2",
+                                        "descr": "Other",
+                                        "notes": "As indicated in Count 1."
+                                    },
+                                    {
+                                        "key": "smc-14-2015CF000002-5-2-1-3",
+                                        "descr": "Alcohol assessment",
+                                        "notes": "As indicated in Count 1."
+                                    },
+                                    {
+                                        "key": "smc-14-2015CF000002-5-2-1-4",
+                                        "descr": "Costs",
+                                        "notes": "As indicated in Count 1."
+                                    }
+                                ],
+                                "descr": "Extended Supervision",
+                                "key": "14-2015CF000002-5-2-1",
+                                "notes": "Concurrent with: ",
+                                "time": "1 Years",
+                                "isShowConds": false,
+                                "superTimeConds": [],
+                                "beginDate": null
+                            }
+                        ],
+                        "orderDate": "2016-03-16",
+                        "isModified": false,
+                        "superAgency": null,
+                        "miscConds": [],
+                        "key": "14-2015CF000002-5-2",
+                        "dispoCtofc": "De Vries, Martin J.",
+                        "timeConds": [],
+                        "dispoDesc": null,
+                        "probByCase": null,
+                        "sentDate": "2017-02-24",
+                        "isConverted": false,
+                        "reOpenedEvent": {
+                            "descr": "Probation revoked",
+                            "eventDate": "2017-02-24"
+                        },
+                        "action": "Guilty Due to No Contest Plea"
+                    }
+                ],
+                "pleaDate": "2016-03-16",
+                "descr": "Intimidate Victim/Dissuade Reporting",
+                "offenseDate": "2015-01-04",
+                "id": "14-2015CF000002-5",
+                "pleaDescr": "No Contest",
+                "chargeModifiers": [
+                    {
+                        "modSeqNo": 1,
+                        "statuteCite": "973.055(1)",
+                        "descr": "Domestic Abuse Assessments"
+                    },
+                    {
+                        "modSeqNo": 2,
+                        "statuteCite": "939.62(1)(a)",
+                        "descr": "Repeater"
+                    }
+                ],
+                "dispoDesc": "Guilty Due to No Contest Plea",
+                "statuteCite": "940.44(1)",
+                "severity": "Misd. A",
+                "chargeNo": 3,
+                "isSummaryCandidate": true
+            },
+            {
+                "judgments": [
+                    {
+                        "supervisions": [],
+                        "orderDate": "2016-03-16",
+                        "isModified": false,
+                        "superAgency": null,
+                        "miscConds": [],
+                        "key": "14-2015CF000002-6-1",
+                        "dispoCtofc": "Storck, John R.",
+                        "timeConds": [],
+                        "dispoDesc": null,
+                        "probByCase": null,
+                        "sentDate": null,
+                        "isConverted": false,
+                        "reOpenedEvent": null,
+                        "action": "Charge Dismissed but Read In"
+                    }
+                ],
+                "pleaDate": null,
+                "descr": "Disorderly Conduct",
+                "offenseDate": "2015-01-04",
+                "id": "14-2015CF000002-6",
+                "pleaDescr": null,
+                "chargeModifiers": [
+                    {
+                        "modSeqNo": 1,
+                        "statuteCite": "973.055(1)",
+                        "descr": "Domestic Abuse Assessments"
+                    },
+                    {
+                        "modSeqNo": 2,
+                        "statuteCite": "939.63(1)(a)",
+                        "descr": "Use of a Dangerous Weapon"
+                    },
+                    {
+                        "modSeqNo": 3,
+                        "statuteCite": "939.62(1)(a)",
+                        "descr": "Repeater"
+                    }
+                ],
+                "dispoDesc": "Charge Dismissed but Read In",
+                "statuteCite": "947.01(1)",
+                "severity": "Misd. B",
+                "chargeNo": 4,
+                "isSummaryCandidate": true
+            }
+        ],
+        "crossReferenced": [],
+        "caption": "State of Wisconsin vs. Kareen R Hayes",
+        "status": "Closed",
+        "filingDate": "2015-01-05",
+        "defendant": {
+            "attys": [
+                {
+                    "name": "Jansen, Bradley J",
+                    "withdrawn": "2015-06-22",
+                    "key": "14-2015CF000002-1-1093824-2015-01-15",
+                    "isGal": false,
+                    "entered": "2015-01-15"
+                },
+                {
+                    "name": "Keane, Joanne M.",
+                    "withdrawn": "2015-10-14",
+                    "key": "14-2015CF000002-1-1038623-2015-06-24",
+                    "isGal": false,
+                    "entered": "2015-06-24"
+                },
+                {
+                    "name": "Mayer, William Andrew",
+                    "withdrawn": "2016-12-28",
+                    "key": "14-2015CF000002-1-1001031-2015-10-21",
+                    "isGal": false,
+                    "entered": "2015-10-21"
+                },
+                {
+                    "name": "Smith, Jane Krueger",
+                    "withdrawn": "2017-02-06",
+                    "key": "14-2015CF000002-1-1007778-2016-12-28",
+                    "isGal": false,
+                    "entered": "2016-12-28"
+                },
+                {
+                    "name": "Mayer, William Andrew",
+                    "withdrawn": null,
+                    "key": "14-2015CF000002-1-1001031-2017-02-06",
+                    "isGal": false,
+                    "entered": "2017-02-06"
+                }
+            ],
+            "name": "Hayes, Kareen R",
+            "partyNo": 1,
+            "dob": "1991-09-05",
+            "fingerprintId": null,
+            "inclGal": false,
+            "effDate": "2018-01-18",
+            "sex": "Male",
+            "alias": [],
+            "race": "African American",
+            "status": null,
+            "address": "200 South Madison Street, %WCI, Waupun, WI 53963",
+            "type": "Defendant",
+            "justisNo": null,
+            "sealed": false
+        },
+        "respCtofc": "De Vries, Martin J.",
+        "available": true,
+        "isCriminal": true,
+        "caseType": "CF",
+        "records": [
+            {
+                "addlTxt": "ADDRESS INFO for Kareen R Hayes\nCurrent: 200 South Madison Street, %WCI, Waupun, WI 53963 United States  (Effective: 01-18-2018)\nPrior: 2161 University Drive, %Marinette County Jail, Marinette, WI 54143 United States\n",
+                "parties": [
+                    {
+                        "sealed": false,
+                        "name": "Hayes, Kareen R"
+                    }
+                ],
+                "descr": "Change of address notification",
+                "amount": null,
+                "key": "14-2015CF000002-136",
+                "ctofc": null,
+                "date": "2018-01-18",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Petition for sentence adjust denied - summarily",
+                "amount": null,
+                "key": "14-2015CF000002-135",
+                "ctofc": null,
+                "date": "2018-01-16",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Petition for sentence adjust denied-public interst",
+                "amount": null,
+                "key": "14-2015CF000002-134",
+                "ctofc": null,
+                "date": "2018-01-16",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Order concerning sentence adjustment",
+                "amount": null,
+                "key": "14-2015CF000002-133",
+                "ctofc": "De Vries, Martin J.",
+                "date": "2018-01-16",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Verification of time served",
+                "amount": null,
+                "key": "14-2015CF000002-132",
+                "ctofc": null,
+                "date": "2018-01-02",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Petition for sentence adjustment",
+                "amount": null,
+                "key": "14-2015CF000002-131",
+                "ctofc": null,
+                "date": "2018-01-02",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Records of prosec. are converted data. See file.",
+                "amount": null,
+                "key": "14-2015CF000002-130",
+                "ctofc": null,
+                "date": "2017-11-15",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "February 24 2017 Sent. on Rev.",
+                "parties": [],
+                "descr": "Transcript",
+                "amount": null,
+                "key": "14-2015CF000002-129",
+                "ctofc": null,
+                "date": "2017-06-07",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Proof of Submission",
+                "parties": [],
+                "descr": "Other papers",
+                "amount": null,
+                "key": "14-2015CF000002-128",
+                "ctofc": null,
+                "date": "2017-03-01",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Assessment Report",
+                "amount": null,
+                "key": "14-2015CF000002-127",
+                "ctofc": "Mandel, Paula",
+                "date": "2017-02-24",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Judgment of conviction following revocation",
+                "amount": null,
+                "key": "14-2015CF000002-126",
+                "ctofc": "Mandel, Paula",
+                "date": "2017-02-24",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Dispositional order/judgment",
+                "amount": null,
+                "key": "14-2015CF000002-125",
+                "ctofc": "De Vries, Martin J.",
+                "date": "2017-02-24",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Probation revoked",
+                "amount": null,
+                "key": "14-2015CF000002-124",
+                "ctofc": "De Vries, Martin J.",
+                "date": "2017-02-24",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Judicial transfer",
+                "amount": null,
+                "key": "14-2015CF000002-123",
+                "ctofc": "De Vries, Martin J.",
+                "date": "2017-02-24",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "for DNA sample",
+                "parties": [],
+                "descr": "Order",
+                "amount": null,
+                "key": "14-2015CF000002-122",
+                "ctofc": "De Vries, Martin J.",
+                "date": "2017-02-24",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Appeal rights/info on postconviction relief",
+                "amount": null,
+                "key": "14-2015CF000002-121",
+                "ctofc": null,
+                "date": "2017-02-24",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Notice and acknowledge of def voting ineligibility",
+                "amount": null,
+                "key": "14-2015CF000002-120",
+                "ctofc": null,
+                "date": "2017-02-24",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Written explanation of determinate sentence",
+                "amount": null,
+                "key": "14-2015CF000002-119",
+                "ctofc": null,
+                "date": "2017-02-24",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "(3:01) Defendant Kareen R Hayes in court, in custody with attorney William Andrew Mayer. James T. Sempf appeared for the State of Wisconsin. This is SEHR; victim rights complied with; State heard on recomm.; Atty. Mayer heard; Def. makes statement; Court imposes sentence; Def. remanded\n\nCount 1:\n* 5 years in Wisconsin State Prison System w/3 years IC and 2 years ES - Def. entitled to 453 days credit\n\nCount 3:\n* 2 years in Wisconsin State Prison System w/1 year IC and 1 year ES - concurrent to Count 1\n\nYes eligible for SAP and CIP\n\nCond. of ES\n* no contact w/victim\n* AODA & FT\n* domestic violence counseling\n* any oustandling fine/costs",
+                "parties": [],
+                "descr": "Sentencing hearing on revocation",
+                "amount": null,
+                "key": "14-2015CF000002-118",
+                "ctofc": "De Vries, Martin J.",
+                "date": "2017-02-24",
+                "courtRptr": "Wild, Tammy"
+            },
+            {
+                "addlTxt": "to transport",
+                "parties": [],
+                "descr": "Order",
+                "amount": null,
+                "key": "14-2015CF000002-117",
+                "ctofc": "De Vries, Martin J.",
+                "date": "2017-02-09",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "to transport",
+                "parties": [],
+                "descr": "Proposed Order",
+                "amount": null,
+                "key": "14-2015CF000002-116",
+                "ctofc": "De Vries, Martin J.",
+                "date": "2017-02-08",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Sentencing hearing on revocation on February 24, 2017 at 03:00 pm.",
+                "parties": [],
+                "descr": "Notice of hearing",
+                "amount": null,
+                "key": "14-2015CF000002-115",
+                "ctofc": null,
+                "date": "2017-02-08",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Public defender order appointing counsel",
+                "amount": null,
+                "key": "14-2015CF000002-114",
+                "ctofc": null,
+                "date": "2017-02-06",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "ADDRESS INFO for Kareen R Hayes\nCurrent: 2161 University Drive, %Marinette County Jail, Marinette, WI 54143 United States  (Effective: 01-31-2017)\nPrior: 2161 University Drive, Marinette, WI 54143 United States\n",
+                "parties": [
+                    {
+                        "sealed": false,
+                        "name": "Hayes, Kareen R"
+                    }
+                ],
+                "descr": "Change of address notification",
+                "amount": null,
+                "key": "14-2015CF000002-113",
+                "ctofc": null,
+                "date": "2017-01-31",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "ADDRESS INFO for Kareen R Hayes\nCurrent: 2161 University Drive, Marinette, WI 54143 United States  (Effective: 01-17-2017)\nPrior: 4249 N. 26th St., Milwaukee, WI 53210 United States\n",
+                "parties": [
+                    {
+                        "sealed": false,
+                        "name": "Hayes, Kareen R"
+                    }
+                ],
+                "descr": "Change of address notification",
+                "amount": null,
+                "key": "14-2015CF000002-111",
+                "ctofc": null,
+                "date": "2017-01-20",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Revocation Order and Warrant",
+                "amount": null,
+                "key": "14-2015CF000002-109",
+                "ctofc": null,
+                "date": "2017-01-18",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "on sentence recommendation",
+                "parties": [],
+                "descr": "Letters/correspondence",
+                "amount": null,
+                "key": "14-2015CF000002-110",
+                "ctofc": null,
+                "date": "2017-01-17",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "modifying sentence credit",
+                "parties": [],
+                "descr": "Order",
+                "amount": null,
+                "key": "14-2015CF000002-112",
+                "ctofc": "De Vries, Martin J.",
+                "date": "2016-12-28",
+                "courtRptr": "Wild, Tammy"
+            },
+            {
+                "addlTxt": "State's reply letter",
+                "parties": [],
+                "descr": "Letters/correspondence",
+                "amount": null,
+                "key": "14-2015CF000002-106",
+                "ctofc": null,
+                "date": "2016-12-15",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "from the court",
+                "parties": [],
+                "descr": "Letters/correspondence",
+                "amount": null,
+                "key": "14-2015CF000002-107",
+                "ctofc": null,
+                "date": "2016-12-14",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "from atty re presentence credit",
+                "parties": [],
+                "descr": "Letters/correspondence",
+                "amount": null,
+                "key": "14-2015CF000002-105",
+                "ctofc": null,
+                "date": "2016-12-12",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "certificate of credit",
+                "parties": [],
+                "descr": "Other papers",
+                "amount": null,
+                "key": "14-2015CF000002-108",
+                "ctofc": null,
+                "date": "2016-12-08",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "16R 019019",
+                "parties": [],
+                "descr": "Receipt",
+                "amount": 2.50,
+                "key": "14-2015CF000002-104",
+                "ctofc": null,
+                "date": "2016-09-27",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Payment hearing on October 27, 2016 at 08:45 am.",
+                "parties": [],
+                "descr": "Notice of hearing",
+                "amount": null,
+                "key": "14-2015CF000002-103",
+                "ctofc": null,
+                "date": "2016-07-29",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Return of unclaimed/undelivered mail service",
+                "amount": null,
+                "key": "14-2015CF000002-102",
+                "ctofc": null,
+                "date": "2016-04-27",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Payment plan granted in the amount of $50.00 per month commencing on 5/2/2016 until paid in full",
+                "parties": [],
+                "descr": "Extension for time to pay",
+                "amount": null,
+                "key": "14-2015CF000002-101",
+                "ctofc": null,
+                "date": "2016-04-27",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Assessment Report",
+                "amount": null,
+                "key": "14-2015CF000002-100",
+                "ctofc": "Luck, Dawn",
+                "date": "2016-04-20",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Judgment of conviction",
+                "amount": null,
+                "key": "14-2015CF000002-99",
+                "ctofc": "Luck, Dawn",
+                "date": "2016-04-20",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "16A 002518",
+                "parties": [],
+                "descr": "Cash bond applied",
+                "amount": 300.00,
+                "key": "14-2015CF000002-98",
+                "ctofc": null,
+                "date": "2016-04-20",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "from Atty Mayer w/credit slip",
+                "parties": [],
+                "descr": "Letters/correspondence",
+                "amount": null,
+                "key": "14-2015CF000002-96",
+                "ctofc": null,
+                "date": "2016-03-24",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "credit slip",
+                "parties": [],
+                "descr": "Other papers",
+                "amount": null,
+                "key": "14-2015CF000002-89",
+                "ctofc": null,
+                "date": "2016-03-22",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Dispositional order/judgment",
+                "amount": null,
+                "key": "14-2015CF000002-97",
+                "ctofc": "Storck, John R.",
+                "date": "2016-03-16",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Appeal rights/info on postconviction relief",
+                "amount": null,
+                "key": "14-2015CF000002-95",
+                "ctofc": null,
+                "date": "2016-03-16",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Dodge Cty DNA Proof of Submission",
+                "parties": [],
+                "descr": "Order",
+                "amount": null,
+                "key": "14-2015CF000002-94",
+                "ctofc": "Storck, John R.",
+                "date": "2016-03-16",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Notice and acknowledge of def voting ineligibility",
+                "amount": null,
+                "key": "14-2015CF000002-93",
+                "ctofc": null,
+                "date": "2016-03-16",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Probation Intake Order",
+                "parties": [],
+                "descr": "Order",
+                "amount": null,
+                "key": "14-2015CF000002-92",
+                "ctofc": "Storck, John R.",
+                "date": "2016-03-16",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Plea agreement",
+                "amount": null,
+                "key": "14-2015CF000002-91",
+                "ctofc": "Storck, John R.",
+                "date": "2016-03-16",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Guilty plea questionnaire/plea advisement form",
+                "amount": null,
+                "key": "14-2015CF000002-90",
+                "ctofc": null,
+                "date": "2016-03-16",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "11:08. (15cm365/15cf2) Defendant, Kareen R Hayes, in court with Attorney William Andrew Mayer.  Attorney James T. Sempf appeared for the State of Wisconsin.  Atty Mayer heard.  Court reviews PQ/WOR, chrgs + pnlts.  Discussions with Deft.  Recess @ 11:23.  Recalled 11:24.  Atty Mayer heard.  Deft wishes to proceed today.  Deft pleads NC to Ct. 1 + Ct. 3 in 15CF2.  Court finds pleas made f/v/k/i, repeater appropriate, accepts pleas and finds Deft guilty of Ct.1 + Ct. 3 in 15CF 2.  Court will D-RI Ct. 2 + Ct. 4 in 15CF 2 and 15CM365.  Demetrius Wilson c/s/t.  Wns excused.  Atty Sempf heard.  Atty Mayer heard.  Statement by Deft.  Court heard and orders:\n\nCts 1 + 3\nsentence w/held\n2 yrs probation\nno contact with the victim\ncounselling as deemed appropriate by agent\nno violent/abusive contact w/ anyone\npre-sentence credit to be determined by DCJ w/in two weeks\nno voting\nno firearms\nDNA sample + surcharge\ncourt costs",
+                "parties": [],
+                "descr": "Plea/sentencing hearing",
+                "amount": null,
+                "key": "14-2015CF000002-88",
+                "ctofc": "Storck, John R.",
+                "date": "2016-03-16",
+                "courtRptr": "Wild, Tammy"
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Notice of hearing returned",
+                "amount": null,
+                "key": "14-2015CF000002-87",
+                "ctofc": null,
+                "date": "2016-03-04",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Motion and order for continuance",
+                "amount": null,
+                "key": "14-2015CF000002-86",
+                "ctofc": "Storck, John R.",
+                "date": "2016-03-02",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Plea/sentencing hearing at 03-16-2016 11:00 am",
+                "parties": [],
+                "descr": "Notice of hearing",
+                "amount": null,
+                "key": "14-2015CF000002-85",
+                "ctofc": null,
+                "date": "2016-02-25",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Continuance rec'd and sent up",
+                "parties": [],
+                "descr": "Notes",
+                "amount": null,
+                "key": "14-2015CF000002-84",
+                "ctofc": null,
+                "date": "2016-02-22",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Jury trial at 04-19-2016 08:30 am",
+                "parties": [],
+                "descr": "Notice of hearing",
+                "amount": null,
+                "key": "14-2015CF000002-83",
+                "ctofc": null,
+                "date": "2015-12-02",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "for continuance",
+                "parties": [],
+                "descr": "Order",
+                "amount": null,
+                "key": "14-2015CF000002-82",
+                "ctofc": "Storck, John R.",
+                "date": "2015-12-01",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "for continuance",
+                "parties": [],
+                "descr": "Proposed Order",
+                "amount": null,
+                "key": "14-2015CF000002-81",
+                "ctofc": "Storck, John R.",
+                "date": "2015-12-01",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "for continuance",
+                "parties": [],
+                "descr": "Motion",
+                "amount": null,
+                "key": "14-2015CF000002-80",
+                "ctofc": null,
+                "date": "2015-12-01",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Status Conference 6/2/15",
+                "parties": [],
+                "descr": "Transcript",
+                "amount": null,
+                "key": "14-2015CF000002-79",
+                "ctofc": null,
+                "date": "2015-11-05",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Motion in limine",
+                "amount": null,
+                "key": "14-2015CF000002-78",
+                "ctofc": null,
+                "date": "2015-10-30",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "15R 020854",
+                "parties": [],
+                "descr": "Cash bond posted",
+                "amount": 300.00,
+                "key": "14-2015CF000002-77",
+                "ctofc": null,
+                "date": "2015-10-27",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Defendant's",
+                "parties": [],
+                "descr": "Motion and demand for discovery",
+                "amount": null,
+                "key": "14-2015CF000002-76",
+                "ctofc": null,
+                "date": "2015-10-22",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "defendant's",
+                "parties": [],
+                "descr": "Demand for discovery and inspection",
+                "amount": null,
+                "key": "14-2015CF000002-75",
+                "ctofc": null,
+                "date": "2015-10-22",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Other papers",
+                "amount": null,
+                "key": "14-2015CF000002-74",
+                "ctofc": null,
+                "date": "2015-10-22",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Other papers",
+                "amount": null,
+                "key": "14-2015CF000002-73",
+                "ctofc": null,
+                "date": "2015-10-22",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Public defender order appointing counsel",
+                "amount": null,
+                "key": "14-2015CF000002-72",
+                "ctofc": null,
+                "date": "2015-10-21",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "ADDRESS INFO for Kareen R Hayes\nCurrent: 4249 N. 26th St., Milwaukee, WI 53210 United States  (Effective: 10-20-2015)\nPrior: 210 W. Center St., Dodge County Jail, Juneau, WI 53039 United States\n",
+                "parties": [
+                    {
+                        "sealed": false,
+                        "name": "Hayes, Kareen R"
+                    }
+                ],
+                "descr": "Change of address notification",
+                "amount": null,
+                "key": "14-2015CF000002-66",
+                "ctofc": null,
+                "date": "2015-10-20",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Return of unclaimed/undelivered mail service",
+                "amount": null,
+                "key": "14-2015CF000002-69",
+                "ctofc": null,
+                "date": "2015-10-19",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Return of unclaimed/undelivered mail service",
+                "amount": null,
+                "key": "14-2015CF000002-68",
+                "ctofc": null,
+                "date": "2015-10-19",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Cash bond signed",
+                "amount": 0.00,
+                "key": "14-2015CF000002-67",
+                "ctofc": null,
+                "date": "2015-10-16",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Motion and order for withdrawal of counsel",
+                "amount": null,
+                "key": "14-2015CF000002-65",
+                "ctofc": "Storck, John R.",
+                "date": "2015-10-14",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Motion/Order to withdraw sent up",
+                "parties": [],
+                "descr": "Notes",
+                "amount": null,
+                "key": "14-2015CF000002-64",
+                "ctofc": null,
+                "date": "2015-10-13",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Dodge County Detention Facility Inmate Request to Judge",
+                "parties": [],
+                "descr": "Other papers",
+                "amount": null,
+                "key": "14-2015CF000002-71",
+                "ctofc": null,
+                "date": "2015-10-12",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Dodge County Detention Facility Inmate Request to Judge - denied",
+                "parties": [],
+                "descr": "Other papers",
+                "amount": null,
+                "key": "14-2015CF000002-70",
+                "ctofc": null,
+                "date": "2015-10-12",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Status conference at 10-23-2015 12:30 pm",
+                "parties": [],
+                "descr": "Notice of hearing",
+                "amount": null,
+                "key": "14-2015CF000002-62",
+                "ctofc": null,
+                "date": "2015-10-08",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Defendant Kareen R Hayes in court, in custody, with attorney Joanne M. Keane.  James T. Sempf appeared for the State of Wisconsin. Court heard, rec'v 2 documents from counsel. Atty Keane heard on status us matter, have reached an agreement w/ state regarding plea portion, prior to hearing being called, Atty Sempf shared some info. In light of new info rec'v, court give consel 10 mins to discuss. Court in recess. 9:34 am. Court back on record 9:42 am, appearances are the same. Atty Keane heard, states Def. wishes for her to withdraw as counsel due to communication break down. Def. heard, understands right to represents himself, questions ct. regarding subpoenaing witnesses. Discussion held. Ct. addresses Def. on representing himself. Def. heard, does not want a JT, would like a CT. Ct. questions Def. regarding Atty Keane w/d as counsel. Def. heard, wishes for Atty Keane to w/d. Ct. further addresses Def. regarding representing himself. Atty Sempf heard, states this is the 2nd time that Def. has requested his counsel w/d, but takes no stance on matter. Ct. heard, grants requests by Def. - Atty Keane may w/d, Atty Keane to draft order regarding w/d, and forward to DAs office. Ct. heard, does not grant request by Def. to represent himself at this time, will not accept waiver of counsel. Def. heard. Ct. heard, Def. is to apply at SPD office for a 3rd time, Court will schedule another hearing.  Status conference scheduled for October 23, 2015 at 12:30 pm. Ct. will keep trial on calendar, and NOH to be sent to SPD offices to inform them of date in the event a 3rd atty is appointed.",
+                "parties": [],
+                "descr": "Status conference",
+                "amount": null,
+                "key": "14-2015CF000002-61",
+                "ctofc": "Storck, John R.",
+                "date": "2015-10-08",
+                "courtRptr": "Wild, Tammy"
+            },
+            {
+                "addlTxt": "Dodge County Detention Facility Inmate Request to Judge",
+                "parties": [],
+                "descr": "Request",
+                "amount": null,
+                "key": "14-2015CF000002-63",
+                "ctofc": null,
+                "date": "2015-10-07",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "sentencing statement for Mr. Kareen R. Hayes",
+                "parties": [],
+                "descr": "Other papers",
+                "amount": null,
+                "key": "14-2015CF000002-60",
+                "ctofc": null,
+                "date": "2015-10-07",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "The Life of Kareen Rashawn Hayes",
+                "parties": [],
+                "descr": "Other papers",
+                "amount": null,
+                "key": "14-2015CF000002-59",
+                "ctofc": null,
+                "date": "2015-10-07",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Amount amended down; all other conditions remain in effect",
+                "parties": [
+                    {
+                        "sealed": false,
+                        "name": "Hayes, Kareen R"
+                    }
+                ],
+                "descr": "Cash bond amended",
+                "amount": 300.00,
+                "key": "14-2015CF000002-57",
+                "ctofc": null,
+                "date": "2015-09-08",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Defendant Kareen R Hayes in court, in custody with attorney Joanne M. Keane.   James Sempf appeared for the State of Wisconsin. Motion for modification of Bond/Bail Conditions.  The Court heard from the Defense and the objections from the State.  The Court reviewed the factors in this case and found cash bail is appropriate and modifies the cash bail to $300.  All other terms to remain in effect.",
+                "parties": [],
+                "descr": "Hearing",
+                "amount": null,
+                "key": "14-2015CF000002-56",
+                "ctofc": "Storck, John R.",
+                "date": "2015-09-08",
+                "courtRptr": "Wild, Tammy"
+            },
+            {
+                "addlTxt": "Dismissing Petition for Leave to Appeal",
+                "parties": [],
+                "descr": "Order of Court of Appeals",
+                "amount": null,
+                "key": "14-2015CF000002-58",
+                "ctofc": null,
+                "date": "2015-09-04",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Hearing at 09-08-2015 02:00 pm",
+                "parties": [],
+                "descr": "Notice of hearing",
+                "amount": null,
+                "key": "14-2015CF000002-53",
+                "ctofc": null,
+                "date": "2015-08-27",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Dodge County Detention Facility Inmate Request to Judge",
+                "parties": [],
+                "descr": "Other papers",
+                "amount": null,
+                "key": "14-2015CF000002-54",
+                "ctofc": null,
+                "date": "2015-08-25",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "w/proposed bail motion & order",
+                "parties": [],
+                "descr": "Letters/correspondence",
+                "amount": null,
+                "key": "14-2015CF000002-55",
+                "ctofc": null,
+                "date": "2015-08-18",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Judge/JA emailed:  Order of Court of Appeals dated 7-28-15",
+                "parties": [],
+                "descr": "Notes",
+                "amount": null,
+                "key": "14-2015CF000002-52",
+                "ctofc": null,
+                "date": "2015-07-30",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Denying motion for reconsideration",
+                "parties": [],
+                "descr": "Order of Court of Appeals",
+                "amount": null,
+                "key": "14-2015CF000002-51",
+                "ctofc": null,
+                "date": "2015-07-30",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Judge/JA emailed:  Order of COA filed 7-22-15",
+                "parties": [],
+                "descr": "Notes",
+                "amount": null,
+                "key": "14-2015CF000002-50",
+                "ctofc": null,
+                "date": "2015-07-22",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Dismissing Petition for Leave to Appeal",
+                "parties": [],
+                "descr": "Order of Court of Appeals",
+                "amount": null,
+                "key": "14-2015CF000002-49",
+                "ctofc": null,
+                "date": "2015-07-22",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Judge/JA emailed:  Acknowledgement of Filing of Writ/Petition",
+                "parties": [],
+                "descr": "Notes",
+                "amount": null,
+                "key": "14-2015CF000002-48",
+                "ctofc": null,
+                "date": "2015-07-20",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Acknowledgement of Filing of Writ/Petition",
+                "parties": [],
+                "descr": "Other papers",
+                "amount": null,
+                "key": "14-2015CF000002-47",
+                "ctofc": null,
+                "date": "2015-07-20",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Jury trial at 12-21-2015 08:30 am",
+                "parties": [],
+                "descr": "Notice of hearing",
+                "amount": null,
+                "key": "14-2015CF000002-46",
+                "ctofc": null,
+                "date": "2015-07-07",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Jury trial at 11-09-2015 08:30 am",
+                "parties": [],
+                "descr": "Notice of hearing",
+                "amount": null,
+                "key": "14-2015CF000002-45",
+                "ctofc": null,
+                "date": "2015-07-07",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Status conference at 10-08-2015 09:30 am",
+                "parties": [],
+                "descr": "Notice of hearing",
+                "amount": null,
+                "key": "14-2015CF000002-44",
+                "ctofc": null,
+                "date": "2015-07-07",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "from the court to the attorneys",
+                "parties": [],
+                "descr": "Letters/correspondence",
+                "amount": null,
+                "key": "14-2015CF000002-43",
+                "ctofc": null,
+                "date": "2015-07-02",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Dodge County Detention Facility Inmate Request to Judge",
+                "parties": [],
+                "descr": "Request",
+                "amount": null,
+                "key": "14-2015CF000002-42",
+                "ctofc": null,
+                "date": "2015-06-30",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Dodge County Detention Facility Inmate Request to Judge",
+                "parties": [],
+                "descr": "Request",
+                "amount": null,
+                "key": "14-2015CF000002-41",
+                "ctofc": null,
+                "date": "2015-06-30",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Public defender order appointing counsel",
+                "amount": null,
+                "key": "14-2015CF000002-40",
+                "ctofc": null,
+                "date": "2015-06-25",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Public defender order appointing counsel",
+                "amount": null,
+                "key": "14-2015CF000002-39",
+                "ctofc": null,
+                "date": "2015-06-24",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "for withdrawal of counsel",
+                "parties": [],
+                "descr": "Order",
+                "amount": null,
+                "key": "14-2015CF000002-37",
+                "ctofc": "Storck, John R.",
+                "date": "2015-06-22",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Defendant Kareen R Hayes in court, in custody with attorney Bradley J Jansen.  James T. Sempf appeared for the State of Wisconsin. Discussion held as to status. Atty Jansen requesting appointment of another attorney throught SPD and his withdrawal. Defendant heard on request of withdraw. Discussion. Court heard and grants withdraw of Atty Jansen; takes JT off calendar at this time and schedules TSC to determine scheduling. Court instructs Atty Jansen to notify SPD and submit Order for same. Atty Jansen's copy of TSC to go to SPD Office for Notification of new counsel. Defendant to be added as phone party to participate in TSC.  Telephone scheduling conference scheduled for July 7, 2015 at 08:30 am.",
+                "parties": [],
+                "descr": "Motion hearing",
+                "amount": null,
+                "key": "14-2015CF000002-35",
+                "ctofc": "Storck, John R.",
+                "date": "2015-06-22",
+                "courtRptr": "Wild, Tammy"
+            },
+            {
+                "addlTxt": "Dodge County Detention Facility Inmate Request to Judge",
+                "parties": [],
+                "descr": "Request",
+                "amount": null,
+                "key": "14-2015CF000002-38",
+                "ctofc": null,
+                "date": "2015-06-19",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Motion hearing at 06-22-2015 02:45 pm",
+                "parties": [],
+                "descr": "Notice of hearing",
+                "amount": null,
+                "key": "14-2015CF000002-34",
+                "ctofc": null,
+                "date": "2015-06-18",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Defendant Kareen R Hayes in court, in custody with attorney Bradley J Jansen.  James T. Sempf appeared for the State of Wisconsin. Ct. did receive correspondence from Def. and provided a copy to counsel. Def. requested a different attorney. Ct. will not remove the trial due to speedy trial demand. Atty Jansen heard, filed a Motion to Withdraw last week. Ct. heard, discusses Def. letter. Atty Jansen heard, would be prepared for the trial. Ct. heard, trial will be held as scheduled. Def. heard, waives right to a speedy trial. Discussion held. Ct. heard, denies request for substitution of counsel. Discussion held. Atty Jansen heard, believes Def. wishes to continue the trial. Ct. heard, victim was not noticed for this hearing, court reschedules and orders the victim coordinator contact the victim; this matter is continued. Atty Sempf heard, has not received any discovery from the defense.  Motion hearing scheduled for June 22, 2015 at 02:45 pm.",
+                "parties": [],
+                "descr": "Motion hearing",
+                "amount": null,
+                "key": "14-2015CF000002-33",
+                "ctofc": "Storck, John R.",
+                "date": "2015-06-18",
+                "courtRptr": "Wild, Tammy"
+            },
+            {
+                "addlTxt": "for withdrawal of counsel",
+                "parties": [],
+                "descr": "Motion",
+                "amount": null,
+                "key": "14-2015CF000002-36",
+                "ctofc": null,
+                "date": "2015-06-15",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Motion hearing at 06-18-2015 11:30 am",
+                "parties": [],
+                "descr": "Notice of hearing",
+                "amount": null,
+                "key": "14-2015CF000002-30",
+                "ctofc": null,
+                "date": "2015-06-11",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "courts response to defendants inmate requests",
+                "parties": [],
+                "descr": "Letters/correspondence",
+                "amount": null,
+                "key": "14-2015CF000002-32",
+                "ctofc": null,
+                "date": "2015-06-10",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Dodge County Detention Facility Inmate Request to Judge",
+                "parties": [],
+                "descr": "Request",
+                "amount": null,
+                "key": "14-2015CF000002-31",
+                "ctofc": null,
+                "date": "2015-06-10",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Witness list - plaintiff",
+                "amount": null,
+                "key": "14-2015CF000002-29",
+                "ctofc": null,
+                "date": "2015-06-09",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "for copies",
+                "parties": [],
+                "descr": "Request",
+                "amount": null,
+                "key": "14-2015CF000002-28",
+                "ctofc": null,
+                "date": "2015-06-03",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Defendant Kareen R Hayes in court, in custody with attorney Bradley J Jansen.  James T. Sempf appeared for the State of Wisconsin. Discussion held; parties to be heard on admission of other acts evidence; Court will permit 3 incidents enterd in court; any MIL's to be filed 14 days prior to trial on or before 6/23/15",
+                "parties": [],
+                "descr": "Status conference",
+                "amount": null,
+                "key": "14-2015CF000002-27",
+                "ctofc": "Storck, John R.",
+                "date": "2015-06-02",
+                "courtRptr": "Wild, Tammy"
+            },
+            {
+                "addlTxt": "Dodge County Detention Facility Inmate Request to Judge",
+                "parties": [],
+                "descr": "Request",
+                "amount": null,
+                "key": "14-2015CF000002-26",
+                "ctofc": null,
+                "date": "2015-05-07",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "In-Person Status Conference on June 2, 2015 at 10:30 am.",
+                "parties": [],
+                "descr": "Notice of hearing",
+                "amount": null,
+                "key": "14-2015CF000002-25",
+                "ctofc": null,
+                "date": "2015-04-09",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Defendant Kareen R Hayes in court, in custody with attorney Bradley J Jansen.  James T. Sempf appeared for the State of Wisconsin.  Atty. Jansen is heard on request to modify bond.  Atty. Sempf argues.  Court is heard, will not modify bond.  All motions to be filed by 5/22/15.  In-Person Status Conference scheduled for June 2, 2015 at 10:30 am.",
+                "parties": [],
+                "descr": "Motion hearing",
+                "amount": null,
+                "key": "14-2015CF000002-24",
+                "ctofc": "Storck, John R.",
+                "date": "2015-04-09",
+                "courtRptr": "Wild, Tammy"
+            },
+            {
+                "addlTxt": "Motion hearing on April 9, 2015 at 03:30 pm.",
+                "parties": [],
+                "descr": "Notice of hearing",
+                "amount": null,
+                "key": "14-2015CF000002-23",
+                "ctofc": null,
+                "date": "2015-03-30",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Bond motion",
+                "amount": null,
+                "key": "14-2015CF000002-22",
+                "ctofc": null,
+                "date": "2015-03-23",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "from the court to defendants attorney",
+                "parties": [],
+                "descr": "Letters/correspondence",
+                "amount": null,
+                "key": "14-2015CF000002-21",
+                "ctofc": null,
+                "date": "2015-03-19",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Dodge County Detention Facility Inmate Request to Judge",
+                "parties": [],
+                "descr": "Request",
+                "amount": null,
+                "key": "14-2015CF000002-20",
+                "ctofc": null,
+                "date": "2015-03-19",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Motion hearing on April 21, 2015 at 11:00 am.",
+                "parties": [],
+                "descr": "Notice of hearing",
+                "amount": null,
+                "key": "14-2015CF000002-18",
+                "ctofc": null,
+                "date": "2015-03-10",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Jury trial on July 7, 2015 at 08:30 am.",
+                "parties": [],
+                "descr": "Notice of hearing",
+                "amount": null,
+                "key": "14-2015CF000002-17",
+                "ctofc": null,
+                "date": "2015-03-10",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Notice of motion, motion",
+                "amount": null,
+                "key": "14-2015CF000002-16",
+                "ctofc": null,
+                "date": "2015-03-09",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Dodge County Detention Facility Inmate Request to Judge",
+                "parties": [],
+                "descr": "Request",
+                "amount": null,
+                "key": "14-2015CF000002-19",
+                "ctofc": null,
+                "date": "2015-03-06",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Jury trial on May 13, 2015 at 08:30 am.",
+                "parties": [],
+                "descr": "Notice of hearing",
+                "amount": null,
+                "key": "14-2015CF000002-15",
+                "ctofc": null,
+                "date": "2015-03-02",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Status conference on April 21, 2015 at 11:00 am.",
+                "parties": [],
+                "descr": "Notice of hearing",
+                "amount": null,
+                "key": "14-2015CF000002-14",
+                "ctofc": null,
+                "date": "2015-03-02",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Order on Arraignment",
+                "parties": [],
+                "descr": "Order",
+                "amount": null,
+                "key": "14-2015CF000002-13",
+                "ctofc": "Storck, John R.",
+                "date": "2015-02-04",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Defendant Kareen R Hayes in court, in custody with attorney Bradley Joseph Jansen.  Kurt Frederich Klomberg appeared for the State of Wisconsin.  Review of info is waived; not guilty plea entered; 30 days mtns; stc set; bail con't  Telephone scheduling conference scheduled for March 2, 2015 at 08:10 am.",
+                "parties": [],
+                "descr": "Arraignment",
+                "amount": null,
+                "key": "14-2015CF000002-12",
+                "ctofc": "Storck, John R.",
+                "date": "2015-02-04",
+                "courtRptr": "Wild, Tammy"
+            },
+            {
+                "addlTxt": "State's",
+                "parties": [],
+                "descr": "Motion and demand for discovery",
+                "amount": null,
+                "key": "14-2015CF000002-11",
+                "ctofc": null,
+                "date": "2015-02-02",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Information",
+                "amount": null,
+                "key": "14-2015CF000002-10",
+                "ctofc": null,
+                "date": "2015-02-02",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Arraignment on February 4, 2015 at 08:15 am.",
+                "parties": [],
+                "descr": "Notice of hearing",
+                "amount": null,
+                "key": "14-2015CF000002-9",
+                "ctofc": null,
+                "date": "2015-01-15",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Defendant Kareen R Hayes in court, in custody with attorney Bradley Joseph Jansen.  James T. Sempf appeared for the State of Wisconsin. State calls Officer Kevin Hall, sworn & testifies; witness ID's defendant; Atty Jansen calls def, sworn & testifies; Court finds prob cause;  Arraignment scheduled for February 4, 2015 at 08:15 am.",
+                "parties": [],
+                "descr": "Preliminary hearing",
+                "amount": null,
+                "key": "14-2015CF000002-8",
+                "ctofc": "Storck, John R.",
+                "date": "2015-01-15",
+                "courtRptr": "Wild, Tammy"
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Public defender order appointing counsel",
+                "amount": null,
+                "key": "14-2015CF000002-7",
+                "ctofc": null,
+                "date": "2015-01-15",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "State of Wisconsin apprs by Atty Bob Barrington.  DEF, Kareen Hayes apprs in person; in custody.  Discussion held.  DEF states he does not have Atty.  Off record, Court calls SPD Office.  Back on record.  SPD will contact DEF.  DEF will represent himself for the prelim.  Court questions DEF on waiver.  Keep scheduled prelim on calendar. Court allows DEF to represent himself.",
+                "parties": [],
+                "descr": "Review hearing",
+                "amount": null,
+                "key": "14-2015CF000002-6",
+                "ctofc": "Storck, John R.",
+                "date": "2015-01-14",
+                "courtRptr": "Wild, Tammy"
+            },
+            {
+                "addlTxt": "ADDRESS INFO for Kareen R Hayes\nCurrent: 210 W. Center St., Dodge County Jail, Juneau, WI 53039 United States  (Effective: 01-08-2015)\nPrior: 115 Baker Blvd., Beaver Dam, WI 53916 \n",
+                "parties": [
+                    {
+                        "sealed": false,
+                        "name": "Hayes, Kareen R"
+                    }
+                ],
+                "descr": "Change of address notification",
+                "amount": null,
+                "key": "14-2015CF000002-5",
+                "ctofc": null,
+                "date": "2015-01-08",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "Defendant shall not have any direct or indirect contact or communication with alleged victim, C.R.B., f/w, dob 9/20/89 or her residence.  Defendant shall not have any violent or abusive contact with anyone.  The Jail shall permit Defendant to make a phone call at the county expense for bail purposes.",
+                "parties": [
+                    {
+                        "sealed": false,
+                        "name": "Hayes, Kareen R"
+                    }
+                ],
+                "descr": "Cash bond set",
+                "amount": 1000.00,
+                "key": "14-2015CF000002-4",
+                "ctofc": null,
+                "date": "2015-01-05",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": "(12:50) Defendant Kareen R Hayes in custody via video with attorney Greg E. Vollan (jail only).  Kurt Frederich Klomberg appeared for the State of Wisconsin.  Defendant has received copy of Criminal Complaint and advised of rights, charges, penalties and right to Preliminary Hearing. Court finds probable cause. Atty. Vollan notes Def. diputes allegations; State requests $5,000 CASH bail; Prelim requested within time limits. Prelim 1/15/15 at 1:30pm in Br. 2 & Review 1/14/15 at 8:15am in Br. 2; Court sets $1,000.00 CASH BOND with conditions:   Defendant shall not have any direct or indirect contact or communication with alleged victim, CRB, w/f, dob 9/20/89 or her residence.  Defendant shall not have any violent or abusive contact with anyone.  The Jail shall permit Defendant to make a phone call at the county expense for bail purposes.",
+                "parties": [],
+                "descr": "Initial appearance",
+                "amount": null,
+                "key": "14-2015CF000002-3",
+                "ctofc": "Seim, Steven",
+                "date": "2015-01-05",
+                "courtRptr": "Recording System"
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Case initiated by electronic filing",
+                "amount": null,
+                "key": "14-2015CF000002-2",
+                "ctofc": null,
+                "date": "2015-01-05",
+                "courtRptr": null
+            },
+            {
+                "addlTxt": null,
+                "parties": [],
+                "descr": "Complaint filed",
+                "amount": null,
+                "key": "14-2015CF000002-1",
+                "ctofc": null,
+                "date": "2015-01-05",
+                "courtRptr": null
+            }
+        ],
+        "prosAgency": "State of Wisconsin",
+        "citations": [],
+        "defAttys": [
+            {
+                "name": "Mayer, William Andrew"
+            }
+        ],
+        "balanceDue": 876.00,
+        "allowPurchase": false
+    },
+    "view": {
+        "caseNo": {
+            "value": "2015CF000002"
+        },
+        "countyNo": {
+            "value": 14
+        }
+    }
+}
