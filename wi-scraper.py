@@ -21,7 +21,7 @@ def parse_cookies(cookie):
         cookies[kv[0]] = kv[1]
     return cookies
 
-def auto_load_captcha(wait=8):
+def auto_load_captcha(wait=10):
     global reload_pos, captcha_pos
     # reload chrome
     if reload_pos is None:
@@ -30,17 +30,17 @@ def auto_load_captcha(wait=8):
 
     pyautogui.moveTo(reload_pos)
     pyautogui.click()
-    print("Click on this window again")
     # wait
     time.sleep(wait)
     # click the captcha
     if captcha_pos is None:
+        print("Click on this window again")
         input(f"Move the mouse to the captcha link , then press enter\n")
         captcha_pos = pyautogui.position()
     pyautogui.moveTo(captcha_pos)
     pyautogui.click()
     # wait
-    time.sleep(1)
+    time.sleep(3)
 
 caseYear = input("Enter case year: ")
 caseLetter = input("Enter Case Letter: ")
@@ -108,7 +108,7 @@ while True:
             caseResult = try_url()
             
             if caseResult[:20] == b'{"errors":{"captcha"':
-                auto_load_captcha()
+                auto_load_captcha(15)
                 caseResult = try_url()
 
                 # TODO: use pyautogui to set the address bar and re-type the address on failure
