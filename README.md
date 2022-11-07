@@ -19,18 +19,56 @@ Please contribute via pull requests (PR).
 ## Data Explanation
 
 There are two data files produced for each case type and year. The case types are CF for felony and CM for misdemeanor.
-The file `cases-compiled` contains case level information for each case. Most of this should be fairly self-explanatory, especially given the metadata file. 
 
-Of note is the fact that each case has aggregated information - the total amount of jail, prison, or probation time for each charge, accounting for concurrent sentences, as well as the maximum jail, prison, or probation time for any individual charge. 
+All cases are completed, but include both convicted and acquited individuals.
+
+The file `cases-compiled` contains case level information for each case. Most of this should be fairly self-explanatory. For more information, the metadata file should provide some context.
+
+| Variable Name | Type | Notes |
+|---------------|------|-------|
+|caseNo         |string|Case identifier. Not unique, see notes for format|
+|countyNo       |int, range 1-72|County identifier. Creates unique ID for cases with case number|
+|countyName     |string| |
+|defendentName  |string|Format: Last, First MI. (sometimes with . at the end). May have an extra "" around it|
+|defendentRace  |string| |
+|defendentSex   |string| |
+|defendentDob   |string|Date of birth, format YYYY-MM-DD |
+|judgeName      |string|Same format as defendent name|
+|cost           |number|Court costs that the defendent owes|
+|aggregateChargeJail|number|Total years in jail for this case|
+|aggregateChargePrison|number|Total years in prison for this case|
+|aggregateChargeProbation|number|Total years of probation for this case|
+|aggregateChargeLife|number|Total number of life sentences for this case|
+|maxChargeCrimeName|string|Charge crime name for crime with most severe sentence issued|
+|maxChargeCrimeDate|string|Date, format YYYY-MM-DD|
+|maxChargeCrimeStatue|string|Wisconsin statute|
+|maxChargeCrimeSeverity|string|Crime severity, eg Felony G|
+|maxChargePleaDate|string|Date of plea, format YYYY-MM-DD, if a plea exists|
+|maxChargePleaDescr|string| |
+|maxChargeJail       |number|Total years in jail for the maximum charge in this case|
+|maxChargePrison     |number|Total years in prison for the maximum charge in this case|
+|maxChargeProbation  |number|Total years of probation for the maximum charge in this case|
+|maxChargeLife       |number|Total number of life sentences for the maximum charge in this case|
+|numChartes          |number|The number of charges in this case|
+
+Of note is the fact that each case has aggregate charge information - the total amount of jail, prison, probation time, or life sentences for each charge, (loosely) accounting for concurrent sentences, as well as the maximum jail, prison, probation time, or life sentences for any individual charge. 
 
 We also show the most severe charge name, where severity is defined by the amount of time that was served. This follows a hierarchy - life > prison > jail > probation. This is not perfect. For example if someone was charged with murder 1 and manslaughter, but only served time for manslaughter then we would show the most severe case as manslaughter.
 
 We also show the total amount due to the court, in costs. This currently does not include restitution or any civil judgments.
 
+
 ## JSON file format notes
 
+The JSON file consists of data about a single court case. A case consists of data about the case, most of which is self-explanatory, and (potentially) several charges.
 
+Each charge consists of charge information and (potentially) several judgements.
 
+Each judgements consists of judgement information and (potentially) several supervisions.
+
+Each supervision consists of the desciption (`descr`) (what they are sentenced to, notably County / Local Jail, State Prison, Probation, Extra Supervision, and hard to parse values like Costs), `time` (length of jail sentence), and other data.
+
+The best way to determine what a data element represents is to look at many different file types for it, and write a bit of code to gather all possible values for it.
 
 ## Scraping Tool Instructions
 
@@ -64,6 +102,10 @@ Notes:
 
 ## TODO
 
+[] Add a column for "acquited" in the case level for those found not guilty of all charges
+[] Add a column for "pleaDeal" in the case level for those with any charge-level plea deal
+[] Add a column for prosecuting attourney in the case level
+[] Add a column for pre-trial detention length in the case level (if possible)
 [] Figure out a better way to detect duplicate judgements. Right now, we are:
    - Right now, only exracting "original" judgments, so any renewed orders are ignored
    - Likely, the best solution will be to just clean up the data with bad judgments
